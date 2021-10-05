@@ -2,16 +2,16 @@
 *Til 2 personer*
  
 
-
+ 
 ## Ingredienser
 
-2 store bagekartofler
-200-300 ml mørk hønsefond
-30 gram smør
-2 fed hvidløg, knuste
-4 kviste timian eller rosmarin
-Salt
-Peber
+- 2 store bagekartofler
+- 200-300 ml mørk hønsefond
+- 30 gram smør
+- 2 fed hvidløg, knuste
+- 4 kviste timian eller rosmarin
+- Salt
+- Peber
 
 
 ## Opskrift
