@@ -1,4 +1,4 @@
-baseURL = 'http://koekkennoter.dk/'
+baseURL = 'koekkennoter.dk'
 languageCode = 'da-dk'
 defaultContentLanguage = 'da'
 title = 'Køkkennoter'
