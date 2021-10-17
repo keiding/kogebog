@@ -6,6 +6,7 @@ noOfServings: 4
 ingredients:
     - salt
     - 1 kg nye kartofler
+    - 2 kg mindre nye kartofler
 ---
 
 Her er opskriften på kogte kartofler.
