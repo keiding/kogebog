@@ -1,6 +1,7 @@
 ---
-title: ""
+title: "Køkkennoter"
 draft: false
 weight: 00
 ---
-![Køkkennoter](/images/landing.jpg)
+
+{{< img-opt name="landing.jpg" alt="Køkkennoter" max-height="true" >}}
