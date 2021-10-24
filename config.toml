@@ -1,9 +1,10 @@
-baseURL = 'http://www.koekkennoter.dk/'
+baseURL = 'https://www.koekkennoter.dk/'
 languageCode = 'da-dk'
 defaultContentLanguage = 'da'
 title = 'Køkkennoter'
 
 [module]
+
 [[module.imports]]
 path = 'github.com/morsby/hugo-book'
 
