@@ -6,3 +6,5 @@ github.com/morsby/hugo-book v0.0.0-20211024100321-1c6dafdb4801 h1:xE2MkLlKJRnaJl
 github.com/morsby/hugo-book v0.0.0-20211024100321-1c6dafdb4801/go.mod h1:p5ZhZC+SWHqMt31Jyn6/Gdmu48KGq/HSYZsyFH95XJs=
 github.com/morsby/hugo-book v0.0.0-20211024190017-746aabfe4168 h1:WfKUjS3oXEr64noOAUGSJw6KgvE5Gw8bX75LVSrmC+U=
 github.com/morsby/hugo-book v0.0.0-20211024190017-746aabfe4168/go.mod h1:p5ZhZC+SWHqMt31Jyn6/Gdmu48KGq/HSYZsyFH95XJs=
+github.com/morsby/hugo-book v0.0.0-20211024202602-c3c5a08d9a0f h1:93ZCoB6KXUae8gG/kaaGja1pkrvvl+G1oXdicb5GeRQ=
+github.com/morsby/hugo-book v0.0.0-20211024202602-c3c5a08d9a0f/go.mod h1:p5ZhZC+SWHqMt31Jyn6/Gdmu48KGq/HSYZsyFH95XJs=
