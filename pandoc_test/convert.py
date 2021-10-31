@@ -22,7 +22,8 @@ def convert_format_index(path, root, filename, save):
 
         new_text = '---\n' + tmp_header + '\n' + 'draft: false\n' + 'weight: 1\n' + tmp_opskrift
 
-        new_filename = filename[5:-5] + '.md'
+        # new_filename = filename[5:-5] + '.md'
+        new_filename = '_index.md'
         new_filename = os.path.join(root, new_filename)
 
     if save is True:
