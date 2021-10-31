@@ -1,25 +1,27 @@
 ---
-title: "Vildtsauce med Creme de Cassis"
+title: Vildtsauce med Creme de Cassis
+weight: 50
 draft: false
-weight: 1
-noOfServings: 
+date: 2021-10-31 23:15:06.793889 +0100 CET m=+0.048639668
 ingredients:
-	- 50-100 gram afpuds fra vildt (kan erstattes af en smule god vildtfond)
-	- 1 løg
-	- 1 fed hvidløg
-	- 2 enebær
-	- 2 kviste timian
-	- 1 laurbærblad
-	- 1 tsk. brun farin
-	- 150 ml kraftig rødvin
-	- 50 ml cognac eller armagnac
-	- 50 ml Creme de Cassis
-	- 100 ml Ruby portvin
-	- 3 spsk. piskefløde
-	- ½ tsk. dijonsennep
-	- Salt
-	- Peber
+  - 50-100 gram afpuds fra vildt (kan erstattes af en smule god vildtfond)
+  - 1 løg
+  - 1 fed hvidløg
+  - 2 enebær
+  - 2 kviste timian
+  - 1 laurbærblad
+  - 1 tsk. brun farin
+  - 150 ml kraftig rødvin
+  - 50 ml cognac eller armagnac
+  - 50 ml Creme de Cassis
+  - 100 ml Ruby portvin
+  - 3 spsk. piskefløde
+  - ½ tsk. dijonsennep
+  - Salt
+  - Peber
 ---
+
+
 
 Afpuds fra vildkød brunes i neutral olie med grofthakket løg og et fed
 upillet hvidløg. Tilsæt to enebær samt timian og laurbærblade. Når kødet

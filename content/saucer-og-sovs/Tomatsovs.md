@@ -1,19 +1,21 @@
 ---
-title: "Tomatsovs"
+title: Tomatsovs
+weight: 5
 draft: false
-weight: 1
-noOfServings: 
+date: 2021-10-31 23:15:06.793147 +0100 CET m=+0.047897043
 ingredients:
-	- 1 løg
-	- 1 fed hvidløg
-	- 3 spsk. kraftig olivenolie
-	- 1 spsk. tomatpuré
-	- 400 gram gode flåede tomater på dåse
-	- Tørret oregano (kan udelades)
-	- Salt
-	- Peber
-	- Sukker
+  - 1 løg
+  - 1 fed hvidløg
+  - 3 spsk. kraftig olivenolie
+  - 1 spsk. tomatpuré
+  - 400 gram gode flåede tomater på dåse
+  - Tørret oregano (kan udelades)
+  - Salt
+  - Peber
+  - Sukker
 ---
+
+
 
 Sautér løg og hvidløg i olivenolie i en gryde, krydret med salt, peber
 og en smule tørret oregano. Når løgene er klaret, uden dog at have taget

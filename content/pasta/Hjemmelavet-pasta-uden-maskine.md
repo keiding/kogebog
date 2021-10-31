@@ -1,13 +1,15 @@
 ---
-title: "Hjemmelavet pasta uden maskine"
+title: Hjemmelavet pasta uden maskine
+weight: 5
 draft: false
-weight: 1
-noOfServings: 
+date: 2021-10-31 23:15:06.788479 +0100 CET m=+0.043229210
 ingredients:
   - 2 æg
   - 160-170 gram tipo 00 mel
   - 1 stort nip salt
 ---
+
+
 
 Lav en brønd af mel, og kom æg og salt i midten. Pisk langsomt melet ind
 i ægget med en gaffel indtil det ikke længere er flydende. Skrab gaflen
@@ -34,4 +36,5 @@ drysses let med mel, så pastaen ikke klistrer sammen.
 bliver mere tør efterhånden som æggene absorberer melet. Virker den for
 tør, kan man fugte sine hænder med koldt vand og ælte videre indtil
 vandet er inkorporeret.\
+*
 

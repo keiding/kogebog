@@ -1,11 +1,13 @@
 ---
-title: "Kogte æg"
+title: Kogte æg
+weight: 5
 draft: false
-weight: 1
-noOfServings: 
+date: 2021-10-31 23:15:06.788073 +0100 CET m=+0.042822876
 ingredients:
   - Æg
 ---
+
+
 
 Bring en gryde med usaltet vand i kog, og kom forsigtigt æggene i når
 vandet begynder at koge. Undgå at vandet koger kraftigt. Æggene koges

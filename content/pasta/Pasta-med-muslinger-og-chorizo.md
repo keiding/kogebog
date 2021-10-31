@@ -1,7 +1,8 @@
 ---
-title: "Pasta med muslinger og chorizo"
+title: Pasta med muslinger og chorizo
+weight: 10
 draft: false
-weight: 1
+date: 2021-10-31 23:15:06.788559 +0100 CET m=+0.043309085
 noOfServings: 4
 ingredients:
   - 1 kg muslinger
@@ -11,6 +12,8 @@ ingredients:
   - ½ fed hvidløg, kernen fjernet
   - 125 ml tør hvidvin
 ---
+
+
 
 Sautér tern af chorizo over medium varme. Samtidig koges tørret pasta i
 saltet vand. Når chorizoen begynder at smide sit fedt, kommes

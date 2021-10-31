@@ -1,17 +1,19 @@
 ---
-title: "Hollandaise"
+title: Hollandaise
+weight: 35
 draft: false
-weight: 1
-noOfServings: 
+date: 2021-10-31 23:15:06.793641 +0100 CET m=+0.048391710
 ingredients:
-	- 5-7 sorte eller hvide peberkorn, knuste
-	- 2 spsk. hvidvinseddike
-	- 2 spsk. koldt vand
-	- 2 bægre pasteuriserede æggeblommer
-	- 250 gram usaltet smør
-	- 1 økologisk citron
-	- Salt
+  - 5-7 sorte eller hvide peberkorn, knuste
+  - 2 spsk. hvidvinseddike
+  - 2 spsk. koldt vand
+  - 2 bægre pasteuriserede æggeblommer
+  - 250 gram usaltet smør
+  - 1 økologisk citron
+  - Salt
 ---
+
+
 
 Smørret klares i en gryde over lav varme indtil mælkeproteinerne og
 vallen bundfælder. Når man snakker klaret smør, menes der det rene

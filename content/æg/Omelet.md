@@ -1,7 +1,8 @@
 ---
-title: "Omelet"
+title: Omelet
+weight: 20
 draft: false
-weight: 1
+date: 2021-10-31 23:15:06.788317 +0100 CET m=+0.043067501
 noOfServings: 1-2
 ingredients:
   - 3 æg
@@ -10,6 +11,8 @@ ingredients:
   - Peber
   - Neutral olie
 ---
+
+
 
 Slå 3 æg ud i en skål, krydr med salt og peber samt et lille nip
 cayennepeber, og pisk sammen så hvider og blommer blandes til en homogen
@@ -35,5 +38,11 @@ omeletten foldes omkring sig selv.
 nem i virkeligheden, da man meget kortfattet bare pisker nogle æg
 sammen, tilbereder dem i lidt smør og folder omeletten omkring sig
 selv.*
+
+*\
+*
+
+
+
 
 

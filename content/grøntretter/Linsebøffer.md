@@ -1,8 +1,8 @@
 ---
-title: "Linsebøffer"
+title: Linsebøffer
+weight: 45
 draft: false
-weight: 1
-noOfServings: 
+date: 2021-10-31 23:15:06.790789 +0100 CET m=+0.045539085
 ingredients:
   - 2 dl Puy-linser
   - 5 dl vand
@@ -19,6 +19,8 @@ ingredients:
   - Salt
   - Peber
 ---
+
+
 
 Kog linserne i vandet med hele fed hvidløg og laurbærblade i 15-20
 minutter eller indtil møre. Sigt kogevandet fra, og pulsér linserne i en

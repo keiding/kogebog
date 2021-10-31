@@ -1,7 +1,8 @@
 ---
-title: "Bananbrød"
+title: Bananbrød
+weight: 45
 draft: false
-weight: 1
+date: 2021-10-31 23:15:06.796829 +0100 CET m=+0.051578960
 noOfServings: 8
 ingredients:
   - 285 gram mel
@@ -14,6 +15,8 @@ ingredients:
   - 4 modne bananer
   - 90 gram kærnemælk eller kefir
 ---
+
+
 
 Forvarm en ovn på 160 grader varmluft. Tag halvdelen af smørret fra, og
 brun det på en pande over medium varme. Hæld det i en skål, og lad det

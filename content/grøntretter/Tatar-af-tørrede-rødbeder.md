@@ -1,7 +1,8 @@
 ---
-title: "Tatar af tørrede rødbeder"
+title: Tatar af tørrede rødbeder
+weight: 55
 draft: false
-weight: 1
+date: 2021-10-31 23:15:06.790938 +0100 CET m=+0.045688335
 noOfServings: 4
 ingredients:
   - 8 rødbeder
@@ -16,6 +17,8 @@ ingredients:
   - Salt
   - Peber
 ---
+
+
 
 Rødbeder skylles, tørres, sættes på et leje af groft salt og bages
 indtil møre i en 200 grader ovn uden varmluft. Rødbederne børstes
@@ -32,4 +35,10 @@ tatar er meget kraftigt smagende.
 svær. Til gengæld får man en vegetarisk version af en klassisk tatar med
 en enorm fin smagsdybde, noget man ellers ofte kan savne i vegetariske
 tatarer.*
+
+
+
+
+
+
 

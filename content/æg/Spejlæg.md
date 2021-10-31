@@ -1,14 +1,16 @@
 ---
-title: "Spejlæg"
+title: Spejlæg
+weight: 10
 draft: false
-weight: 1
-noOfServings: 
+date: 2021-10-31 23:15:06.78815 +0100 CET m=+0.042900376
 ingredients:
   - Æg
   - Salt
   - Peber
   - Smør
 ---
+
+
 
 En slip-let-pande varmes over middelhøj varme. Smelt smør så bunden af
 panden er let dækket, og lad det bruse op. Når smørret er bruset af,

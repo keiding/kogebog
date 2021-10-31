@@ -1,14 +1,17 @@
 ---
-title: "Stegt aubergine"
+title: Stegt aubergine
+weight: 15
 draft: false
-weight: 1
+date: 2021-10-31 23:15:06.787603 +0100 CET m=+0.042352793
 noOfServings: 2
 ingredients:
-	- 1 lille aubergine
-	- Salt
-	- Peber
-	- Olivenolie
+  - 1 lille aubergine
+  - Salt
+  - Peber
+  - Olivenolie
 ---
+
+
 
 Trim bunden samt eventuelle blade i toppen af auberginen, og halvér den.
 Lav et diamantmønster i hver halve aubergine ved at skære diagonalt i

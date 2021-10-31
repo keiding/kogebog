@@ -1,13 +1,15 @@
 ---
-title: "Rørt smør"
+title: Rørt smør
+weight: 5
 draft: false
-weight: 1
-noOfServings: 
+date: 2021-10-31 23:15:06.79503 +0100 CET m=+0.049780251
 ingredients:
-	- 1 del brunet smør
-	- 3 dele tempereret smør
-	- Kærnemælk
+  - 1 del brunet smør
+  - 3 dele tempereret smør
+  - Kærnemælk
 ---
+
+
 
 En fjerdedel af smørret brunes kraftigt, hvorefter det nedkøles mens
 vallen bundfælder. Det brunede smør sigtes nu gennem en etamine, og

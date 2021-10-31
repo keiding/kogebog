@@ -1,7 +1,8 @@
 ---
-title: "Sauterede kartofler"
+title: Sauterede kartofler
+weight: 40
 draft: false
-weight: 1
+date: 2021-10-31 23:15:06.7857 +0100 CET m=+0.040450001
 noOfServings: 2
 ingredients:
   - 2-3 store bagekartofler
@@ -9,6 +10,8 @@ ingredients:
   - Salt
   - Peber
 ---
+
+
 
 Bagekartofler skrælles og skæres i tern på cirka en stor tomme på hvert
 led; er de for små, moser de ud, og er de for store, egner de sig bedre

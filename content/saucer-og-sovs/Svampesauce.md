@@ -1,16 +1,18 @@
 ---
-title: "Svampesauce"
+title: Svampesauce
+weight: 55
 draft: false
-weight: 1
-noOfServings: 
+date: 2021-10-31 23:15:06.793971 +0100 CET m=+0.048721251
 ingredients:
-	- 1 bakke økologiske champignon
-	- 125 gram brunet afkølet smør
-	- Balsamisk æbleeddike
-	- 1 kvist timian
-	- 1 laurbærblad
-	- 1 enebær
+  - 1 bakke økologiske champignon
+  - 125 gram brunet afkølet smør
+  - Balsamisk æbleeddike
+  - 1 kvist timian
+  - 1 laurbærblad
+  - 1 enebær
 ---
+
+
 
 Skyl svampe og krydderurter grundigt. Del champignonerne i kvarte, og
 læg i en gryde sammen med krydderurterne, og dæk med vand. Træk smagen
@@ -21,4 +23,10 @@ efter smag, og justér syren med balsamisk æbleeddike.
 
 Hold saucen på et lavt blus indtil servering. Skiller den, kan den
 samles med en anelse maizena.
+
+
+
+
+
+
 

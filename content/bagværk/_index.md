@@ -1,22 +1,26 @@
 ---
-title: "Surdej og gær"
+title: Bagværk
+weight: 85
 draft: false
-weight: 1
+date: 2021-10-31 23:15:06.795276 +0100 CET m=+0.050026043
 ---
-Surdej og gær er to måder at opnå det samme, nemlig en fermentering af
-brødet. Surdeje er imidlertid en videnskab i sig selv, og et område med
-mange sandheder. Derfor er der her kun en meget overordnet beskrivelse
-af, hvordan surdej og gær kan bruges, både hver for sig, og i sammenspil
-med hinanden. Vil man gå dybere, er der et væld af bøger skrevet om
-blandt andet surdejsbrød.
-En forsimplet måde at tænke på forskellen mellem gær og surdej er, at
-surdej primært bidrager til smag og tekstur, og sekundært bidrager til
-hævning af brødet. Derimod vil gær primært bidrage til at brødet hæver,
-men vil, hvis man giver det tid nok, også bidrage til at brødet udvikler
-en dybere og mere syrlig smag.
-Af samme grund bruges gær ofte sammen med surdej for at hjælpe hævningen
-på vej, selvom man i og for sig sagtens kan nøjes med surdej. I så fald
-skal man bare være indstillet på en lang efterhævning. Modsat kan man
-sagtens bage godt brød bare med gær, og det vil for nogle passe bedre,
-da der er lidt arbejde forbundet med at bruge en surdej, og da surdej er
-bedst egnet, hvis man bager nogenlunde regelmæssigt.
+
+
+Det er enormt nemt at bage godt brød, men tilsvarende svært at bage
+rigtig godt brød. Derfor bør man også læse dedikerede bagværksbøger,
+hvis man virkelig vil gå i dybden med dét håndværk.
+
+Dog skal det siges, at der er et godt argument for at bage selv. Det er
+simpelthen sundere, billigere og mere velsmagende end det meste købte
+brød. Og brød holder sig fint i fryseren.
+
+Princippet i at bage et brød er relativt simpelt. En dej af vand og mel
+gøres luftig ved at lade gær nedbryde sukkerstoffer til kuldioxid. For
+at undgå at dejen kollapser, og for at give den struktur, strækker man,
+via æltning, proteinet gluten som findes i de fleste melsorter, og som
+fungerer som gitter til at holde på brødets "luft". Ellers skal der ikke
+andet til, end at give dejen lidt salt for at fremhæve den naturlige
+smag af korn. Brød skal efter min overbevisning ikke saltes så hårdt, at
+det decideret smager af salt, men undersaltet brød vil imidlertid have
+en meget flad og kedelig smag.
+

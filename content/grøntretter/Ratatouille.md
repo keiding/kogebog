@@ -1,10 +1,32 @@
 ---
-title: "Ratatouille"
+title: Ratatouille
+weight: 50
 draft: false
-weight: 1
-noOfServings: 4-2
-  ingredients:
+date: 2021-10-31 23:15:06.790867 +0100 CET m=+0.045617418
 ---
+
+
+*Til 4 personer som tilbehør/2 personer som hovedret*
+
+1 squash
+
+1 aubergine
+
+2 røde peberfrugter
+
+100-150 ml tomatsovs (se side 125)
+
+2 løg
+
+3 fed hvidløg
+
+Olivenolie
+
+Salt
+
+Peber
+
+**Opskrift**
 
 Forvarm en ovn på 175 grader varmluft. Skær auberginen i store stykker,
 salt let, og sæt til side i 10 minutter. Skær squash, løg og

@@ -1,7 +1,8 @@
 ---
-title: "Pocheret pære med karamel og creme fraiche"
+title: Pocheret pære med karamel og creme fraiche
+weight: 5
 draft: false
-weight: 1
+date: 2021-10-31 23:15:06.796307 +0100 CET m=+0.051057668
 noOfServings: 4
 ingredients:
   - 2 Conference-pærer
@@ -13,6 +14,8 @@ ingredients:
   - Godt havsalt i flager, cirka 1 tsk.
   - Sukker
 ---
+
+
 
 Denne dessert kan i det store og hele laves en dag i forvejen og holdes
 på køl. Selve anretningen ved servering tager kun 5-10 minutter.

@@ -1,7 +1,8 @@
 ---
-title: "Den nemme metode"
+title: Den nemme metode
+weight: 10
 draft: false
-weight: 1
+date: 2021-10-31 23:15:06.789495 +0100 CET m=+0.044244793
 noOfServings: 2
 ingredients:
   - 1 lille løg
@@ -14,6 +15,8 @@ ingredients:
   - Salt
   - Peber
 ---
+
+
 
 Finthakkede løg sauteres i olivenolie, hvorefter risene tilsættes og
 steges af. Kog af med hvidvinseddike eller vermouth, og reducér væsken

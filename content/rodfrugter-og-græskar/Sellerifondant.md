@@ -1,16 +1,19 @@
 ---
-title: "Sellerifondant"
+title: Sellerifondant
+weight: 5
 draft: false
-weight: 1
+date: 2021-10-31 23:15:06.786029 +0100 CET m=+0.040778918
 noOfServings: 2
 ingredients:
-	- ½ hoved knoldselleri
-	- 2 fed hvidløg, knuste
-	- 2-3 laurbærblade
-	- 3-4 kviste frisk timian
-	- Salt
-	- Peber
+  - ½ hoved knoldselleri
+  - 2 fed hvidløg, knuste
+  - 2-3 laurbærblade
+  - 3-4 kviste frisk timian
+  - Salt
+  - Peber
 ---
+
+
 
 Et renset og halveret hoved af knoldselleri skæres over på midten, så
 man har to kvarte, og derefter i skiver på langs i en tykkelse på

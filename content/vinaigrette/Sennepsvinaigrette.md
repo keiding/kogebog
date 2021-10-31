@@ -1,8 +1,8 @@
 ---
-title: "Sennepsvinaigrette"
+title: Sennepsvinaigrette
+weight: 15
 draft: false
-weight: 1
-noOfServings: 
+date: 2021-10-31 23:15:06.794776 +0100 CET m=+0.049526043
 ingredients:
   - 1-1½ tsk. dijonsennep eller grovkornet sennep
   - 1 tsk. honning
@@ -12,6 +12,8 @@ ingredients:
   - Salt
   - Peber
 ---
+
+
 
 Kom alle ingredienser i en ren dressingflaske eller et rent
 syltetøjsglas, ryst sammen, og justér smagen. Ønsker man en emulgeret

@@ -1,7 +1,8 @@
 ---
-title: "Tærte med spinat og peberfrugter"
+title: Tærte med spinat og peberfrugter
+weight: 5
 draft: false
-weight: 1
+date: 2021-10-31 23:15:06.789817 +0100 CET m=+0.044567376
 noOfServings: 4
 ingredients:
   - 1 portion tærtedej (side 169)
@@ -14,6 +15,8 @@ ingredients:
   - Peber
   - ½ dl olivenolie
 ---
+
+
 
 Drys et bord let med mel, og rul tærtedejen ud så den er 2-3 mm tyk.
 Drys dejen let med mel efter behov, men undlad at bruge for meget. Børst

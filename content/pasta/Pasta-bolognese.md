@@ -1,7 +1,8 @@
 ---
-title: "Pasta bolognese"
+title: Pasta bolognese
+weight: 25
 draft: false
-weight: 1
+date: 2021-10-31 23:15:06.788813 +0100 CET m=+0.043562793
 noOfServings: 4
 ingredients:
   - 500 gram hakket oksekød 9-15 %
@@ -19,6 +20,8 @@ ingredients:
   - Peber
   - Olivenolie
 ---
+
+
 
 Hak løget fint, skær sellerien i tynde skiver, riv guleroden groft og
 sautér grøntsagerne i 4-5 spsk. olivenolie indtil grøntsagerne er faldet

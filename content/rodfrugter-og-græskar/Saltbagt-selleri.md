@@ -1,13 +1,16 @@
 ---
-title: "Saltbagt selleri"
+title: Saltbagt selleri
+weight: 10
 draft: false
-weight: 1
+date: 2021-10-31 23:15:06.786132 +0100 CET m=+0.040882376
 noOfServings: 6-8
 ingredients:
-	- 1 hoved selleri
-	- 80 gram æggehvider/2 bægre pasteuriserede æggehvider
-	- 200 gram fint salt
+  - 1 hoved selleri
+  - 80 gram æggehvider/2 bægre pasteuriserede æggehvider
+  - 200 gram fint salt
 ---
+
+
 
 Forvarm ovnen til 200 grader. Et helt hoved af selleri skrælles og
 renses hvorefter det sættes til side. Pisk æggehvider luftige, og tilsæt

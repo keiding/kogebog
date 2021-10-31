@@ -1,13 +1,16 @@
 ---
-title: "Kastanjer"
+title: Kastanjer
+weight: 20
 draft: false
-weight: 1
+date: 2021-10-31 23:15:06.787701 +0100 CET m=+0.042450918
 noOfServings: 4
 ingredients:
-	- 600 gram spisekastanjer
-	- Smør
-	- Havsalt
+  - 600 gram spisekastanjer
+  - Smør
+  - Havsalt
 ---
+
+
 
 Forvarm ovnen til 200 grader varmluft. Med en tournierkniv eller
 kastanjekniv skæres et snit halvvejs rundt langs hver kastanje, cirka 2
@@ -24,4 +27,6 @@ kastanje, man som regel finder i naturen i Danmark. Vær opmærksom på at
 kastanjer er tilbøjelige til råd, så sørg for at købe kastanjer, der
 ikke lugter muggent eller er for bløde.*
 
+*\
+*
 

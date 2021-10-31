@@ -1,8 +1,8 @@
 ---
-title: "Tærtedej"
+title: Tærtedej
+weight: 60
 draft: false
-weight: 1
-noOfServings: 
+date: 2021-10-31 23:15:06.796171 +0100 CET m=+0.050921168
 ingredients:
   - 250 gram hvedemel
   - 125 gram smør i tern, halvt blødt
@@ -11,6 +11,8 @@ ingredients:
   - ½ tsk. salt
   - 1 tsk. sukker
 ---
+
+
 
 Rør mel, sukker og salt sammen i skål, og hæld blandingen ud på en ren
 bordplade. Lav en brønd i midten af melet, og kom smørternene i midten.
@@ -30,5 +32,10 @@ rulles ud.
 *Note: Man kan også bruge 80-100 gram smør og så 1-2 spsk. creme fraiche
 for en lettere dej. Har man en foodprocessor, kan alle ingredienserne
 kommes i den og pulses sammen, før dejen presses sammen på bordpladen.*
+
+
+
+
+
 
 

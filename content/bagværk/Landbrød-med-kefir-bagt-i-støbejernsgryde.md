@@ -1,8 +1,8 @@
 ---
-title: "Landbrød med kefir bagt i støbejernsgryde"
+title: Landbrød med kefir bagt i støbejernsgryde
+weight: 40
 draft: false
-weight: 1
-noOfServings: 
+date: 2021-10-31 23:15:06.795883 +0100 CET m=+0.050633418
 ingredients:
   - 400 gram koldt vand
   - 40 gram kefir eller kærnemælk
@@ -12,6 +12,8 @@ ingredients:
   - 200 gram rugmel
   - 12 gram salt
 ---
+
+
 
 Rør 200 gram koldt vand, kefiren og rugmelet sammen til en fordej, og
 sæt på køl natten over. Dagen efter startes den egentlige brøddej ved at

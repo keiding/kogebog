@@ -1,16 +1,18 @@
 ---
-title: "Bechamel"
+title: Bechamel
+weight: 10
 draft: false
-weight: 1
-noOfServings: 
+date: 2021-10-31 23:15:06.793232 +0100 CET m=+0.047982626
 ingredients:
-	- 50 gram smør
-	- 50 gram hvedemel
-	- 500-600 gram kold sødmælk
-	- Salt
-	- Peber
-	- Muskatnød
+  - 50 gram smør
+  - 50 gram hvedemel
+  - 500-600 gram kold sødmælk
+  - Salt
+  - Peber
+  - Muskatnød
 ---
+
+
 
 Smelt smør i en gryde over medium varme. Når smørret er bruset op, men
 før det tager farve, kommes hvedemelet ved. Steg blandingen af smør og

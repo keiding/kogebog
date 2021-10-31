@@ -1,20 +1,22 @@
 ---
-title: "Sennepssovs"
+title: Sennepssovs
+weight: 15
 draft: false
-weight: 1
-noOfServings: 
+date: 2021-10-31 23:15:06.793314 +0100 CET m=+0.048064001
 ingredients:
-	- 1 lille skalotteløg
-	- ½ fed hvidløg, stiklen fjernet
-	- 1 tsk. dijonsennep
-	- 1 tsk. grovkornet sennep
-	- 2 spsk. cognac
-	- 250 ml. 38 % creme fraiche
-	- ½ bundt blandet persille og estragon
-	- Salt
-	- Peber
-	- Smør
+  - 1 lille skalotteløg
+  - ½ fed hvidløg, stiklen fjernet
+  - 1 tsk. dijonsennep
+  - 1 tsk. grovkornet sennep
+  - 2 spsk. cognac
+  - 250 ml. 38 % creme fraiche
+  - ½ bundt blandet persille og estragon
+  - Salt
+  - Peber
+  - Smør
 ---
+
+
 
 Sautér finthakkede skalotteløg og hvidløg i lidt smør. Når løgene er
 bløde, men ikke har farve, tilsættes dijon- og grovkornet sennep.

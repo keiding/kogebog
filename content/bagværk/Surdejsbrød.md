@@ -1,8 +1,8 @@
 ---
-title: "Surdejsbrød"
+title: Surdejsbrød
+weight: 25
 draft: false
-weight: 1
-noOfServings: 
+date: 2021-10-31 23:15:06.795658 +0100 CET m=+0.050407918
 ingredients:
   - 300 gram lunket vand
   - 1,5 spsk. surdej
@@ -12,6 +12,8 @@ ingredients:
   - 80 gram durummel
   - 10 gram salt
 ---
+
+
 
 Bland vand, surdej og gær. Tilsæt mel og salt, og ælt indtil elastisk,
 cirka 15-20 minutter på middellav hastighed i en røremaskine. Lad dejen

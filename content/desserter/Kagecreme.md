@@ -1,14 +1,16 @@
 ---
-title: "Kagecreme"
+title: Kagecreme
+weight: 20
 draft: false
-weight: 1
-noOfServings: 
+date: 2021-10-31 23:15:06.796517 +0100 CET m=+0.051267335
 ingredients:
   - 5 dl sødmælk
   - 6 æggeblommer
   - 160 sukker (hvoraf noget kan erstattes af vaniljesukker)
   - 30 gram majsmel/majsstivelse
 ---
+
+
 
 Bring mælken i kog mens blommer og sukker piskes hvide. Hvis massen skal
 smages til med fx kakao, samles dette med de færdigpiskede blommer. Hæld

@@ -1,7 +1,8 @@
 ---
-title: "Vilde ris i tomatsovs med stegt selleri"
+title: Vilde ris i tomatsovs med stegt selleri
+weight: 30
 draft: false
-weight: 1
+date: 2021-10-31 23:15:06.790523 +0100 CET m=+0.045273335
 noOfServings: 4
 ingredients:
   - 4 dl vilde røde ris
@@ -17,6 +18,8 @@ ingredients:
   - Olivenolie
   - Smør
 ---
+
+
 
 Sautér løg og hvidløg i olivenolien med et nip salt. Undgå at løgene
 tager farve. Kom tomatpuré ved, og steg videre i nogle minutter indtil
