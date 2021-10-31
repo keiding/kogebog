@@ -12,7 +12,7 @@ ingredients:
 	- 2 dl Puy-linser
 	- 3 spsk. tomatpuré
 	- 1 dåse hakkede tomater
-	- ¼ tsk. røget paprika
+	- **¼** tsk. røget paprika
 	- ½ tsk. cayennepeber
 	- 1½ dl tør vermouth
 	- 4-5 dl hønsefond
