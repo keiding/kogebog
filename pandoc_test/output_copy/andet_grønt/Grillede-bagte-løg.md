@@ -4,10 +4,10 @@ draft: false
 weight: 1
 noOfServings: 4
 ingredients:
-	- 500 gram løg, medium størrelse
-	- Groft salt
-	- Neutral olie
-	- Salt
+  - 500 gram løg, medium størrelse
+  - Groft salt
+  - Neutral olie
+  - Salt
 ---
 
 Skær et kryds i bunden af de upillede løg -- blot nogle få millimeter,

@@ -4,15 +4,15 @@ draft: false
 weight: 1
 noOfServings: 2
 ingredients:
-	- 1 lille løg
-	- 3-4 håndfulde carnaroli- eller arborio-ris
-	- 1-1¼ liter hønefond
-	- 1 tsk. smør
-	- 1 lille glas tør vermouth (kan erstattes med 1 spsk. hvidvinseddike)
-	- 2 håndfulde friskrevet parmesan
-	- Olivenolie
-	- Salt
-	- Peber
+  - 1 lille løg
+  - 3-4 håndfulde carnaroli- eller arborio-ris
+  - 1-1¼ liter hønefond
+  - 1 tsk. smør
+  - 1 lille glas tør vermouth (kan erstattes med 1 spsk. hvidvinseddike)
+  - 2 håndfulde friskrevet parmesan
+  - Olivenolie
+  - Salt
+  - Peber
 ---
 
 Finthakkede løg sauteres i olivenolie, hvorefter risene tilsættes og

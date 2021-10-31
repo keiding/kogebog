@@ -4,14 +4,14 @@ draft: false
 weight: 1
 noOfServings: 2
 ingredients:
-	- 1 dl polenta
-	- Hønsefond (kan erstattes af grøntsagsfond eller vand)
-	- 250 gram champignon
-	- 1 porre
-	- 1 fed hvidløg
-	- Olivenolie
-	- Salt
-	- Peber
+  - 1 dl polenta
+  - Hønsefond (kan erstattes af grøntsagsfond eller vand)
+  - 250 gram champignon
+  - 1 porre
+  - 1 fed hvidløg
+  - Olivenolie
+  - Salt
+  - Peber
 ---
 
 Rens porren for sand ved at skære den i fjerdedele med roden holdt

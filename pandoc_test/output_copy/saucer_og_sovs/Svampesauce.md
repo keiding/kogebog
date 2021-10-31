@@ -4,12 +4,12 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- 1 bakke økologiske champignon
-	- 125 gram brunet afkølet smør
-	- Balsamisk æbleeddike
-	- 1 kvist timian
-	- 1 laurbærblad
-	- 1 enebær
+  - 1 bakke økologiske champignon
+  - 125 gram brunet afkølet smør
+  - Balsamisk æbleeddike
+  - 1 kvist timian
+  - 1 laurbærblad
+  - 1 enebær
 ---
 
 Skyl svampe og krydderurter grundigt. Del champignonerne i kvarte, og

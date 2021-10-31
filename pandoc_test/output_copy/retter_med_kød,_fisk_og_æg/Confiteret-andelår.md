@@ -4,11 +4,11 @@ draft: false
 weight: 1
 noOfServings: 4
 ingredients:
-	- 4 andelår
-	- Andefedt/neutral olie
-	- Krydderurter (gerne friske)
-	- 2-3 enebær
-	- Salt
+  - 4 andelår
+  - Andefedt/neutral olie
+  - Krydderurter (gerne friske)
+  - 2-3 enebær
+  - Salt
 ---
 
 I en minihakker eller morter køres salt, peber, timian, rosmarin,

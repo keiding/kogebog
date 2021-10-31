@@ -4,11 +4,11 @@ draft: false
 weight: 1
 noOfServings: 4
 ingredients:
-	- 7 store bagekartofler
-	- 250-350 ml sødmælk
-	- 70-90 gram smør
-	- Salt
-	- Peber
+  - 7 store bagekartofler
+  - 250-350 ml sødmælk
+  - 70-90 gram smør
+  - Salt
+  - Peber
 ---
 
 Skær bagekartofler i ensartede store stykker, og kog i usaltet vand

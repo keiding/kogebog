@@ -4,12 +4,12 @@ draft: false
 weight: 1
 noOfServings: 4
 ingredients:
-	- 2 dl Puy-linser
-	- 1½ dl solsikkekerner
-	- 1 lille spidskål
-	- 1 økologisk citron
-	- Olivenolie
-	- Æbleeddike
+  - 2 dl Puy-linser
+  - 1½ dl solsikkekerner
+  - 1 lille spidskål
+  - 1 økologisk citron
+  - Olivenolie
+  - Æbleeddike
 ---
 
 *Forberedelse*

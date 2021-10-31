@@ -4,16 +4,16 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- 1 lille skalotteløg
-	- ½ fed hvidløg, stiklen fjernet
-	- 1 tsk. dijonsennep
-	- 1 tsk. grovkornet sennep
-	- 2 spsk. cognac
-	- 250 ml. 38 % creme fraiche
-	- ½ bundt blandet persille og estragon
-	- Salt
-	- Peber
-	- Smør
+  - 1 lille skalotteløg
+  - ½ fed hvidløg, stiklen fjernet
+  - 1 tsk. dijonsennep
+  - 1 tsk. grovkornet sennep
+  - 2 spsk. cognac
+  - 250 ml. 38 % creme fraiche
+  - ½ bundt blandet persille og estragon
+  - Salt
+  - Peber
+  - Smør
 ---
 
 Sautér finthakkede skalotteløg og hvidløg i lidt smør. Når løgene er

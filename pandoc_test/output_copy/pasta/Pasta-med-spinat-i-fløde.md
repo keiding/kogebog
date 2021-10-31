@@ -4,14 +4,14 @@ draft: false
 weight: 1
 noOfServings: 4
 ingredients:
-	- 500 gram god tørret pasta
-	- 250 gram frisk spinat/optøet spinat fra frost
-	- 1 lille løg
-	- ½ fed hvidløg
-	- ¼ liter piskefløde
-	- Salt
-	- Peber
-	- Muskatnød
+  - 500 gram god tørret pasta
+  - 250 gram frisk spinat/optøet spinat fra frost
+  - 1 lille løg
+  - ½ fed hvidløg
+  - ¼ liter piskefløde
+  - Salt
+  - Peber
+  - Muskatnød
 ---
 
 Blanchér spinatbladene i saltet vand, og køl dem derefter i rigeligt

@@ -4,14 +4,14 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- 60 gram brun farin
-	- 280 gram hvidvin
-	- 1 gram peber
-	- 4 gram Worcestershire sauce
-	- 10 gram hele korianderfrø
-	- 100 gram æbleeddike
-	- 1-1¼ liter kalvefond
-	- ½ fed hvidløg, kernen fjernet
+  - 60 gram brun farin
+  - 280 gram hvidvin
+  - 1 gram peber
+  - 4 gram Worcestershire sauce
+  - 10 gram hele korianderfrø
+  - 100 gram æbleeddike
+  - 1-1¼ liter kalvefond
+  - ½ fed hvidløg, kernen fjernet
 ---
 
 Hvidløg, farin og koriander karamelliseres. Når ¼ af farinen er smeltet,

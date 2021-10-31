@@ -4,11 +4,11 @@ draft: false
 weight: 1
 noOfServings: 4-6
 ingredients:
-	- 500 gram hvide bønner
-	- 2 fed hvidløg
-	- 2 små laurbærblade
-	- Salt
-	- Citronsaft
+  - 500 gram hvide bønner
+  - 2 fed hvidløg
+  - 2 små laurbærblade
+  - Salt
+  - Citronsaft
 ---
 
 Udblød hvide bønner natten over i koldt vand. Forvent, at de dobler i

@@ -4,9 +4,9 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- 1 liter kærnemælk
-	- 2 pakker smør
-	- Salt
+  - 1 liter kærnemælk
+  - 2 pakker smør
+  - Salt
 ---
 
 Varm kærnemælken over moderat varme indtil den skiller, og lad den simre

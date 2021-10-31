@@ -4,13 +4,13 @@ draft: false
 weight: 1
 noOfServings: 2
 ingredients:
-	- 2 store bagekartofler
-	- 200-300 ml mørk hønsefond
-	- 30 gram smør
-	- 2 fed hvidløg, knuste
-	- 4 kviste timian eller rosmarin
-	- Salt
-	- Peber
+  - 2 store bagekartofler
+  - 200-300 ml mørk hønsefond
+  - 30 gram smør
+  - 2 fed hvidløg, knuste
+  - 4 kviste timian eller rosmarin
+  - Salt
+  - Peber
 ---
 
 Skræl kartoflerne, og skær dem over på midten. Dæk med koldt vand i en

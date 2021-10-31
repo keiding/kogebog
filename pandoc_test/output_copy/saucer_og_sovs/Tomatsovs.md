@@ -4,15 +4,15 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- 1 løg
-	- 1 fed hvidløg
-	- 3 spsk. kraftig olivenolie
-	- 1 spsk. tomatpuré
-	- 400 gram gode flåede tomater på dåse
-	- Tørret oregano (kan udelades)
-	- Salt
-	- Peber
-	- Sukker
+  - 1 løg
+  - 1 fed hvidløg
+  - 3 spsk. kraftig olivenolie
+  - 1 spsk. tomatpuré
+  - 400 gram gode flåede tomater på dåse
+  - Tørret oregano (kan udelades)
+  - Salt
+  - Peber
+  - Sukker
 ---
 
 Sautér løg og hvidløg i olivenolie i en gryde, krydret med salt, peber

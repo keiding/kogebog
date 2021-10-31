@@ -4,13 +4,13 @@ draft: false
 weight: 1
 noOfServings: 6
 ingredients:
-	- 1 hel røget kylling
-	- 3-4 hoveder hjertesalat
-	- 100 ml Cæsar-dressing (side 144)
-	- 100 gram cherrytomater
-	- Brød til croutoner
-	- Salt
-	- Peber
+  - 1 hel røget kylling
+  - 3-4 hoveder hjertesalat
+  - 100 ml Cæsar-dressing (side 144)
+  - 100 gram cherrytomater
+  - Brød til croutoner
+  - Salt
+  - Peber
 ---
 
 Varm kyllingen i en 160 grader ovn uden varmluft en halv times tid. Skru

@@ -4,11 +4,11 @@ draft: false
 weight: 1
 noOfServings: 4
 ingredients:
-	- 1 lille knoldselleri
-	- Salt
-	- Peber
-	- 2-3 fed hvidløg
-	- Olivenolie
+  - 1 lille knoldselleri
+  - Salt
+  - Peber
+  - 2-3 fed hvidløg
+  - Olivenolie
 ---
 
 Skræl knoldsellerien, halvér og skær i både. Krydr rundhåndet med salt

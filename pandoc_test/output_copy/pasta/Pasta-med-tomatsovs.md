@@ -4,12 +4,12 @@ draft: false
 weight: 1
 noOfServings: 4
 ingredients:
-	- 500 gram tørret pasta
-	- Tomatsovs (se side 125)
-	- Basilikum
-	- Olivenolie
-	- Salt
-	- Peber
+  - 500 gram tørret pasta
+  - Tomatsovs (se side 125)
+  - Basilikum
+  - Olivenolie
+  - Salt
+  - Peber
 ---
 
 Kog 500 gram god tørret pasta i rigeligt saltet vand. Når pastaen har

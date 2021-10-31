@@ -4,10 +4,10 @@ draft: false
 weight: 1
 noOfServings: 4
 ingredients:
-	- 1 lille hoved spidskål
-	- ½ bundt dild
-	- 100 gram fine ærter (eventuelt fra frost)
-	- Vinaigrette på koldpresset rapsolie og æblecidereddike
+  - 1 lille hoved spidskål
+  - ½ bundt dild
+  - 100 gram fine ærter (eventuelt fra frost)
+  - Vinaigrette på koldpresset rapsolie og æblecidereddike
 ---
 
 Kom ærterne i kogende saltet vand, og blanchér i 1-2 minutter. Køl dem i

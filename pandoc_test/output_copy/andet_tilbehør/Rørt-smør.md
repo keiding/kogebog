@@ -4,9 +4,9 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- 1 del brunet smør
-	- 3 dele tempereret smør
-	- Kærnemælk
+  - 1 del brunet smør
+  - 3 dele tempereret smør
+  - Kærnemælk
 ---
 
 En fjerdedel af smørret brunes kraftigt, hvorefter det nedkøles mens

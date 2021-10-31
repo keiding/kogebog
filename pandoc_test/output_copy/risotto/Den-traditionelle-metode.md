@@ -4,15 +4,15 @@ draft: false
 weight: 1
 noOfServings: 2
 ingredients:
-	- 1 skalotteløg
-	- 3-4 håndfulde carnaroli- eller arborio-ris
-	- 1-1¼ liter lys hønsefond, eller efter behov
-	- 1 lille glas hvidvin
-	- 1 tsk. smør
-	- 2 håndfulde friskrevet ægte parmesan
-	- Olivenolie
-	- Salt
-	- Peber
+  - 1 skalotteløg
+  - 3-4 håndfulde carnaroli- eller arborio-ris
+  - 1-1¼ liter lys hønsefond, eller efter behov
+  - 1 lille glas hvidvin
+  - 1 tsk. smør
+  - 2 håndfulde friskrevet ægte parmesan
+  - Olivenolie
+  - Salt
+  - Peber
 ---
 
 Sautér finthakkede skalotteløg i olivenolie uden at de tager farve. Når

@@ -4,11 +4,11 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- 100-150 gram søde cherrytomater
-	- 30-50 gram koldt smør i tern
-	- Salt
-	- Sukker
-	- Citronsaft
+  - 100-150 gram søde cherrytomater
+  - 30-50 gram koldt smør i tern
+  - Salt
+  - Sukker
+  - Citronsaft
 ---
 
 Blend søde cherrytomater i en blender, og passér igennem en finmasket

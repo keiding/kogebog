@@ -4,20 +4,20 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- 3 store økologiske squash
-	- 2 forårsløg
-	- 3 æg
-	- Rasp
-	- Salt
-	- Peber
-	- Olivenolie
-	- Cayennepeber
-	- 400 gram hvedemel
-	- 100 gram olivenolie
-	- 80-120 gram koldt vand
-	- Salt
-	- *\
-	- *
+  - 3 store økologiske squash
+  - 2 forårsløg
+  - 3 æg
+  - Rasp
+  - Salt
+  - Peber
+  - Olivenolie
+  - Cayennepeber
+  - 400 gram hvedemel
+  - 100 gram olivenolie
+  - 80-120 gram koldt vand
+  - Salt
+  - *\
+  - *
 ---
 
 Sigt hvedemelet ud på et rent bord, kom et nip salt ved, og hæld

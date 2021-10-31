@@ -4,14 +4,14 @@ draft: false
 weight: 1
 noOfServings: 4
 ingredients:
-	- 6 peberfrugter, gerne forskellige farver
-	- 1 bundt forårsløg
-	- 1½ spsk. tomatpuré
-	- 80-100 gram tørret chorizo
-	- Cayennepeber
-	- Sherryeddike
-	- Salt
-	- Peber
+  - 6 peberfrugter, gerne forskellige farver
+  - 1 bundt forårsløg
+  - 1½ spsk. tomatpuré
+  - 80-100 gram tørret chorizo
+  - Cayennepeber
+  - Sherryeddike
+  - Salt
+  - Peber
 ---
 
 Pil skindet af chorizoen, og skær i fine tern. Smelt langsomt fedtet fra

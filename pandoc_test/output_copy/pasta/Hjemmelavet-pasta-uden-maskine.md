@@ -4,9 +4,9 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- 2 æg
-	- 160-170 gram tipo 00 mel
-	- 1 stort nip salt
+  - 2 æg
+  - 160-170 gram tipo 00 mel
+  - 1 stort nip salt
 ---
 
 Lav en brønd af mel, og kom æg og salt i midten. Pisk langsomt melet ind

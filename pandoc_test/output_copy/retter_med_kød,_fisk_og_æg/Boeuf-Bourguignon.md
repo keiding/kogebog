@@ -4,19 +4,19 @@ draft: false
 weight: 1
 noOfServings: 4
 ingredients:
-	- 500 gram trimmet skulder eller kæbe fra en okse
-	- 2 gulerødder
-	- 1 løg
-	- 2 fed hvidløg
-	- 2 stængler blegselleri
-	- 2 laurbærblade
-	- Frisk timian (kan erstattes af tørret timian, men brug da kun en anelse)
-	- 1 flaske kraftig rødvin i fornuftig kvalitet
-	- 200 ml kalvefond
-	- Hvedemel
-	- Smør
-	- Salt
-	- Peber
+  - 500 gram trimmet skulder eller kæbe fra en okse
+  - 2 gulerødder
+  - 1 løg
+  - 2 fed hvidløg
+  - 2 stængler blegselleri
+  - 2 laurbærblade
+  - Frisk timian (kan erstattes af tørret timian, men brug da kun en anelse)
+  - 1 flaske kraftig rødvin i fornuftig kvalitet
+  - 200 ml kalvefond
+  - Hvedemel
+  - Smør
+  - Salt
+  - Peber
 ---
 
 Rens grøntsagerne. Skær løgene i kvarte, gulerødderne og sellerien i

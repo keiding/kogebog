@@ -4,10 +4,10 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- Æg
-	- Salt
-	- Peber
-	- Smør
+  - Æg
+  - Salt
+  - Peber
+  - Smør
 ---
 
 En slip-let-pande varmes over middelhøj varme. Smelt smør så bunden af

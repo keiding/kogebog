@@ -4,13 +4,13 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- 125 ml. mælk
-	- 125 ml. vand
-	- 100 gram smør
-	- 150 gram sigtet mel
-	- 3-4 mellemstore æg
-	- Nip salt
-	- Stort nip sukker
+  - 125 ml. mælk
+  - 125 ml. vand
+  - 100 gram smør
+  - 150 gram sigtet mel
+  - 3-4 mellemstore æg
+  - Nip salt
+  - Stort nip sukker
 ---
 
 Smørret smeltes over moderat varme med sukker, salt, vand og mælk. Når

@@ -4,10 +4,10 @@ draft: false
 weight: 1
 noOfServings: 2
 ingredients:
-	- 2-3 store bagekartofler
-	- Koldpresset rapsolie
-	- Salt
-	- Peber
+  - 2-3 store bagekartofler
+  - Koldpresset rapsolie
+  - Salt
+  - Peber
 ---
 
 Bagekartofler skrælles og skæres i tern på cirka en stor tomme på hvert

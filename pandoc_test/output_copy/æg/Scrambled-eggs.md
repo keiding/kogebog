@@ -4,10 +4,10 @@ draft: false
 weight: 1
 noOfServings: 2
 ingredients:
-	- 6 æg
-	- 3-4 tsk. smør
-	- Salt
-	- Peber
+  - 6 æg
+  - 3-4 tsk. smør
+  - Salt
+  - Peber
 ---
 
 Kom æggene i en slip-let-gryde eller sauteuse sammen med 10 gram smør.

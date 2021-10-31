@@ -4,10 +4,10 @@ draft: false
 weight: 1
 noOfServings: 4
 ingredients:
-	- 1 kilo blandede rodfrugter
-	- Olivenolie
-	- Salt
-	- Peber
+  - 1 kilo blandede rodfrugter
+  - Olivenolie
+  - Salt
+  - Peber
 ---
 
 De fleste rodfrugter egner sig godt til at blive tilberedt i ovn med

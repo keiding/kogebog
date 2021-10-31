@@ -4,11 +4,11 @@ draft: false
 weight: 1
 noOfServings: 4
 ingredients:
-	- 1 hoved broccoli
-	- Smør
-	- Citronsaft
-	- Salt
-	- Peber
+  - 1 hoved broccoli
+  - Smør
+  - Citronsaft
+  - Salt
+  - Peber
 ---
 
 Et stort hoved broccoli deles i små buketter og koges møre i saltet

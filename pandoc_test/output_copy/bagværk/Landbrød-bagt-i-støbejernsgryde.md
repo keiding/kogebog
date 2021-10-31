@@ -4,11 +4,11 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- 440 gram koldt vand
-	- 8 gram gær
-	- 320 gram hvedemel
-	- 300 gram fuldkornsrugmel
-	- 14 gram salt
+  - 440 gram koldt vand
+  - 8 gram gær
+  - 320 gram hvedemel
+  - 300 gram fuldkornsrugmel
+  - 14 gram salt
 ---
 
 Rær gæren ud i det kolde vand, og bland efterfølgende med resten af

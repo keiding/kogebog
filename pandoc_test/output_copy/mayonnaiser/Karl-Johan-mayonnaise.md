@@ -4,13 +4,13 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- 1 bæger pasteuriserede æggeblommer
-	- ½ tsk. dijonsennep
-	- 1 tsk. hvidvinseddike
-	- 1 håndfuld tørrede Karl Johan-svampe
-	- 1½-2 dl neutral olie
-	- Salt
-	- Peber
+  - 1 bæger pasteuriserede æggeblommer
+  - ½ tsk. dijonsennep
+  - 1 tsk. hvidvinseddike
+  - 1 håndfuld tørrede Karl Johan-svampe
+  - 1½-2 dl neutral olie
+  - Salt
+  - Peber
 ---
 
 Kom de tørrede Karl Johan-svampe ned i lille gryde med 100 ml. neutral

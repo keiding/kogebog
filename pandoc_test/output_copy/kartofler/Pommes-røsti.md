@@ -4,11 +4,11 @@ draft: false
 weight: 1
 noOfServings: 2
 ingredients:
-	- 3 bagekartofler
-	- 1 stort løg
-	- Olivenolie
-	- Salt
-	- Peber
+  - 3 bagekartofler
+  - 1 stort løg
+  - Olivenolie
+  - Salt
+  - Peber
 ---
 
 Riv kartofler og løg på den grove side af et råkostjern og krydr med

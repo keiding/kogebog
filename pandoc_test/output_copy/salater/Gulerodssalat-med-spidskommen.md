@@ -4,13 +4,13 @@ draft: false
 weight: 1
 noOfServings: 2
 ingredients:
-	- 4-5 store gulerødder
-	- 4-5 spsk. 2 % græsk yoghurt
-	- 1-2 håndfulde græskarkerner
-	- ½ tsk. spidskommen
-	- ¼ tsk. sukker
-	- Salt
-	- Peber
+  - 4-5 store gulerødder
+  - 4-5 spsk. 2 % græsk yoghurt
+  - 1-2 håndfulde græskarkerner
+  - ½ tsk. spidskommen
+  - ¼ tsk. sukker
+  - Salt
+  - Peber
 ---
 
 Rist solsikkekernerne på en tør pande, og sæt til afkøling. Riv

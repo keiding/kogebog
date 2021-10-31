@@ -4,10 +4,10 @@ draft: false
 weight: 1
 noOfServings: 2
 ingredients:
-	- 1 lille aubergine
-	- Salt
-	- Peber
-	- Olivenolie
+  - 1 lille aubergine
+  - Salt
+  - Peber
+  - Olivenolie
 ---
 
 Trim bunden samt eventuelle blade i toppen af auberginen, og halvér den.

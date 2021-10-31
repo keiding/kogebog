@@ -4,12 +4,12 @@ draft: false
 weight: 1
 noOfServings: 4
 ingredients:
-	- 1 kg muslinger
-	- 60-80 gram tørret chorizo
-	- 500 gram tørret linguine
-	- 1 stort skalotteløg
-	- ½ fed hvidløg, kernen fjernet
-	- 125 ml tør hvidvin
+  - 1 kg muslinger
+  - 60-80 gram tørret chorizo
+  - 500 gram tørret linguine
+  - 1 stort skalotteløg
+  - ½ fed hvidløg, kernen fjernet
+  - 125 ml tør hvidvin
 ---
 
 Sautér tern af chorizo over medium varme. Samtidig koges tørret pasta i

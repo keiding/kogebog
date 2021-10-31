@@ -4,10 +4,10 @@ draft: false
 weight: 1
 noOfServings: 2
 ingredients:
-	- 200 gram rosenkål
-	- 2-3 spsk. olivenolie (eller koldpresset rapsolie)
-	- Salt
-	- Peber
+  - 200 gram rosenkål
+  - 2-3 spsk. olivenolie (eller koldpresset rapsolie)
+  - Salt
+  - Peber
 ---
 
 Skær bunden af rosenkålen, og pil de yderste blade af. Skyl de ordnede

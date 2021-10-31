@@ -4,12 +4,12 @@ draft: false
 weight: 1
 noOfServings: 4
 ingredients:
-	- 500 gram god tørret fuldkornspasta
-	- 1 lille bakke markchampignon
-	- 250 gram græskarpuré (se side 37)
-	- 2-3 håndfulde solsikkekerner
-	- 80 gram rucola
-	- Vinaigrette
+  - 500 gram god tørret fuldkornspasta
+  - 1 lille bakke markchampignon
+  - 250 gram græskarpuré (se side 37)
+  - 2-3 håndfulde solsikkekerner
+  - 80 gram rucola
+  - Vinaigrette
 ---
 
 Kog pastaen i saltet vand. Imens renses svampene og skæres i kvarte,

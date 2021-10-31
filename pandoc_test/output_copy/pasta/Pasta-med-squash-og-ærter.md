@@ -4,14 +4,14 @@ draft: false
 weight: 1
 noOfServings: 2
 ingredients:
-	- 1 portion hjemmelavet pasta skåret til pappardelle
-	- 1 lille økologisk squash
-	- 2 håndfulde ærter, gerne friske
-	- 125 ml tør vermouth
-	- 1 spsk. smør
-	- Citronsaft
-	- Salt
-	- Peber
+  - 1 portion hjemmelavet pasta skåret til pappardelle
+  - 1 lille økologisk squash
+  - 2 håndfulde ærter, gerne friske
+  - 125 ml tør vermouth
+  - 1 spsk. smør
+  - Citronsaft
+  - Salt
+  - Peber
 ---
 
 Bring en gryde med rigeligt saltet vand i kog. Sæt en pande over medium

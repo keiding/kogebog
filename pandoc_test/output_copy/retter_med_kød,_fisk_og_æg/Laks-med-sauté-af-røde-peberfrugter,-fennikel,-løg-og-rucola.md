@@ -4,14 +4,14 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- 2 portioner laksefilet
-	- 1 stort løg
-	- 1 lille fennikel
-	- 1 rød peberfrugt
-	- 80-100 gram vasket og tørret rucola
-	- Olivenolie
-	- Salt
-	- Peber
+  - 2 portioner laksefilet
+  - 1 stort løg
+  - 1 lille fennikel
+  - 1 rød peberfrugt
+  - 80-100 gram vasket og tørret rucola
+  - Olivenolie
+  - Salt
+  - Peber
 ---
 
 

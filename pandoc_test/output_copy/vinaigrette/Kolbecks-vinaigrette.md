@@ -4,17 +4,17 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- 2 gram hvidløg
-	- 13,5 gram grov sennep
-	- 1 gram cayennepeber
-	- 1,8 gram karry
-	- 2 dråber tabasco
-	- 50 gram æbleeddike
-	- 35,5 gram hvidvinseddike
-	- 8,5 gram ketchup
-	- 2,5 gram soya
-	- 20 gram koldpresset rapsolie
-	- 200 gram rapsolie
+  - 2 gram hvidløg
+  - 13,5 gram grov sennep
+  - 1 gram cayennepeber
+  - 1,8 gram karry
+  - 2 dråber tabasco
+  - 50 gram æbleeddike
+  - 35,5 gram hvidvinseddike
+  - 8,5 gram ketchup
+  - 2,5 gram soya
+  - 20 gram koldpresset rapsolie
+  - 200 gram rapsolie
 ---
 
 Blend alt, undtagen olierne, sammen med en stavblender. Tilsæt derefter

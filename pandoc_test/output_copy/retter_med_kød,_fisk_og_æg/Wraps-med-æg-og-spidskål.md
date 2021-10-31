@@ -4,17 +4,17 @@ draft: false
 weight: 1
 noOfServings: 2
 ingredients:
-	- 4 madpandekager/tortillas
-	- 4 æg
-	- 1 lille spidskål
-	- 2 forårsløg
-	- ½-1 spsk. fiskesauce
-	- ½-1 spsk. risvineddike
-	- Sesamfrø
-	- Chiliflager
-	- Sriracha eller anden chilisauce
-	- Neutral olie
-	- Salt
+  - 4 madpandekager/tortillas
+  - 4 æg
+  - 1 lille spidskål
+  - 2 forårsløg
+  - ½-1 spsk. fiskesauce
+  - ½-1 spsk. risvineddike
+  - Sesamfrø
+  - Chiliflager
+  - Sriracha eller anden chilisauce
+  - Neutral olie
+  - Salt
 ---
 
 Fjern de yderste blade fra spidskålet, og hak det groft. Varm en pande

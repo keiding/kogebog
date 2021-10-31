@@ -4,9 +4,9 @@ draft: false
 weight: 1
 noOfServings: 4
 ingredients:
-	- 600 gram spisekastanjer
-	- Smør
-	- Havsalt
+  - 600 gram spisekastanjer
+  - Smør
+  - Havsalt
 ---
 
 Forvarm ovnen til 200 grader varmluft. Med en tournierkniv eller

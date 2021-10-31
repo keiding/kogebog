@@ -4,14 +4,14 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- 700 gram koldt vand
-	- 4 spsk. surdej
-	- 7 gram gær
-	- 400 gram hvedemel
-	- 100 gram rugmel
-	- 400 gram fuldkornsmel (for eksempel durummel)
-	- 100 gram finvalsede havregryn
-	- 22 gram salt
+  - 700 gram koldt vand
+  - 4 spsk. surdej
+  - 7 gram gær
+  - 400 gram hvedemel
+  - 100 gram rugmel
+  - 400 gram fuldkornsmel (for eksempel durummel)
+  - 100 gram finvalsede havregryn
+  - 22 gram salt
 ---
 
 Bland vand, surdej og gær. Tilsæt mel og salt, og ælt indtil elastisk,

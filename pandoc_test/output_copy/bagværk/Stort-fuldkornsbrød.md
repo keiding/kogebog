@@ -4,11 +4,11 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- 660 gram koldt vand
-	- 600 gram stenkværnet fuldkornshvedemel
-	- 320 gram hvedemel
-	- 10 gram gær
-	- 20 gram salt
+  - 660 gram koldt vand
+  - 600 gram stenkværnet fuldkornshvedemel
+  - 320 gram hvedemel
+  - 10 gram gær
+  - 20 gram salt
 ---
 
 Rør gæren ud i vandet, og bland derefter med de resterende ingredienser.

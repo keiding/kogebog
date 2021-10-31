@@ -4,13 +4,13 @@ draft: false
 weight: 1
 noOfServings: 4
 ingredients:
-	- 1,5 kg nedkølede kogte kartofler
-	- 4 spsk. neutral mayonnaise
-	- 5-6 spsk. 18 % creme fraiche
-	- 3 forårsløg
-	- Salt
-	- Peber
-	- Sherryvineddike
+  - 1,5 kg nedkølede kogte kartofler
+  - 4 spsk. neutral mayonnaise
+  - 5-6 spsk. 18 % creme fraiche
+  - 3 forårsløg
+  - Salt
+  - Peber
+  - Sherryvineddike
 ---
 
 Skær kartoflerne i ens stykker. Rens forårsløgene, og snit dem fint.

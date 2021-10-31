@@ -4,13 +4,13 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- 300 gram lunket vand
-	- 1,5 spsk. surdej
-	- 3 gram gær
-	- 260 gram hvedemel
-	- 50 gram rugmel
-	- 80 gram durummel
-	- 10 gram salt
+  - 300 gram lunket vand
+  - 1,5 spsk. surdej
+  - 3 gram gær
+  - 260 gram hvedemel
+  - 50 gram rugmel
+  - 80 gram durummel
+  - 10 gram salt
 ---
 
 Bland vand, surdej og gær. Tilsæt mel og salt, og ælt indtil elastisk,

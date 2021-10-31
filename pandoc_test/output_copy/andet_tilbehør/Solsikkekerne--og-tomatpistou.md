@@ -4,14 +4,14 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- 2 store og faste tomater
-	- 2 håndfulde solsikkekerner
-	- 1-2 tsk. sambal oelek
-	- Salt
-	- Sukker
-	- Citronsaft/limesaft
-	- Olivenolie
-	- Frisk koriander (kan udelades)
+  - 2 store og faste tomater
+  - 2 håndfulde solsikkekerner
+  - 1-2 tsk. sambal oelek
+  - Salt
+  - Sukker
+  - Citronsaft/limesaft
+  - Olivenolie
+  - Frisk koriander (kan udelades)
 ---
 
 Rist kernerne gyldne på en tør pande, og sæt til side. Skær tomaterne,

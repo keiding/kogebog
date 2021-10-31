@@ -4,16 +4,16 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- ½ skalotteløg
-	- 1 kvist timian
-	- ½ laurbærblad
-	- 2 spsk. hvidvinseddike
-	- 3 spsk. hvidvin/tør vermouth
-	- 2 spsk. piskefløde
-	- 100 gram koldt smør i tern
-	- 1 økologisk citron
-	- Salt
-	- Peber
+  - ½ skalotteløg
+  - 1 kvist timian
+  - ½ laurbærblad
+  - 2 spsk. hvidvinseddike
+  - 3 spsk. hvidvin/tør vermouth
+  - 2 spsk. piskefløde
+  - 100 gram koldt smør i tern
+  - 1 økologisk citron
+  - Salt
+  - Peber
 ---
 
 Hak skalotteløget fint, og kom i en lille gryde med timianen,

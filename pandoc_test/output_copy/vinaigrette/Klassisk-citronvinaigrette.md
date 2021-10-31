@@ -4,10 +4,10 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- 1 økologisk citron
-	- 4-6 spsk. olivenolie
-	- Salt
-	- Peber
+  - 1 økologisk citron
+  - 4-6 spsk. olivenolie
+  - Salt
+  - Peber
 ---
 
 Pres saften fra en citron, og bland med lidt under 3 gange så meget

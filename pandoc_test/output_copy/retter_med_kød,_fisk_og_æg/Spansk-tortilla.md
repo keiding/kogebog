@@ -4,14 +4,14 @@ draft: false
 weight: 1
 noOfServings: 4
 ingredients:
-	- 8 æg
-	- 300 gram små forkogte kartofler
-	- 3 store løg
-	- 2 fed hvidløg
-	- ¼ tsk. cayennepeber
-	- ¼-½ tsk. røget paprika
-	- Salt
-	- Peber
+  - 8 æg
+  - 300 gram små forkogte kartofler
+  - 3 store løg
+  - 2 fed hvidløg
+  - ¼ tsk. cayennepeber
+  - ¼-½ tsk. røget paprika
+  - Salt
+  - Peber
 ---
 
 Steg løg og hvidløg indtil let karamelliserede, og krydr med salt og

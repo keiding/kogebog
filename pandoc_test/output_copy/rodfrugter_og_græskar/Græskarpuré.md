@@ -4,12 +4,12 @@ draft: false
 weight: 1
 noOfServings: 6-8
 ingredients:
-	- 1 butternutsquash
-	- 2 spsk. olivenolie
-	- 1 fed hvidløg
-	- Citronsaft
-	- Salt
-	- Peber
+  - 1 butternutsquash
+  - 2 spsk. olivenolie
+  - 1 fed hvidløg
+  - Citronsaft
+  - Salt
+  - Peber
 ---
 
 Sautér store tern af butternutsquash i olivenolie med et upillet fed

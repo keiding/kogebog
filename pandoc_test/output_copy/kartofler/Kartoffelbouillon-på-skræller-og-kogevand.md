@@ -4,11 +4,11 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- Skræl fra 500 gram kartofler
-	- 1 fed hvidløg
-	- 1 laurbærblad
-	- 10 korianderfrø
-	- Peber
+  - Skræl fra 500 gram kartofler
+  - 1 fed hvidløg
+  - 1 laurbærblad
+  - 10 korianderfrø
+  - Peber
 ---
 
 Skræl kartoflerne, og vend skrællerne i lidt neutral olie med et nip

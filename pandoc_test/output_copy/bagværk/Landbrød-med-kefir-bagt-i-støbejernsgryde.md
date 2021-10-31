@@ -4,13 +4,13 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- 400 gram koldt vand
-	- 40 gram kefir eller kærnemælk
-	- 6 gram gær
-	- 220 gram hvedemel
-	- 200 gram tipo 00 hvedemel
-	- 200 gram rugmel
-	- 12 gram salt
+  - 400 gram koldt vand
+  - 40 gram kefir eller kærnemælk
+  - 6 gram gær
+  - 220 gram hvedemel
+  - 200 gram tipo 00 hvedemel
+  - 200 gram rugmel
+  - 12 gram salt
 ---
 
 Rør 200 gram koldt vand, kefiren og rugmelet sammen til en fordej, og

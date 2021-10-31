@@ -4,12 +4,12 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- 50 gram smør
-	- 50 gram hvedemel
-	- 500-600 gram kold sødmælk
-	- Salt
-	- Peber
-	- Muskatnød
+  - 50 gram smør
+  - 50 gram hvedemel
+  - 500-600 gram kold sødmælk
+  - Salt
+  - Peber
+  - Muskatnød
 ---
 
 Smelt smør i en gryde over medium varme. Når smørret er bruset op, men

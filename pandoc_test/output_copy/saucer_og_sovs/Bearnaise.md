@@ -4,15 +4,15 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- 1 skalotteløg
-	- 5-7 sorte peberkorn, knuste
-	- 2 spsk. hvidvinseddike/sherry- eddike
-	- 1 laurbærblad
-	- 2 spsk. vand
-	- 2 bægre pasteuriserede æggeblommer
-	- 250 gram usaltet smør
-	- 1 lille bundt estragon adskilt i stilke og blade
-	- Salt
+  - 1 skalotteløg
+  - 5-7 sorte peberkorn, knuste
+  - 2 spsk. hvidvinseddike/sherry- eddike
+  - 1 laurbærblad
+  - 2 spsk. vand
+  - 2 bægre pasteuriserede æggeblommer
+  - 250 gram usaltet smør
+  - 1 lille bundt estragon adskilt i stilke og blade
+  - Salt
 ---
 
 En bearnaisesauce er en videreudvikling af en hollandaise. Her laves en

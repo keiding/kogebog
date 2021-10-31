@@ -4,9 +4,9 @@ draft: false
 weight: 1
 noOfServings: 4
 ingredients:
-	- 1 kilo spisekartofler
-	- Salt
-	- Sukker
+  - 1 kilo spisekartofler
+  - Salt
+  - Sukker
 ---
 
 Skræl kartoflerne og dæk med vand tilsmagt med salt og sukker. En

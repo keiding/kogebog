@@ -4,10 +4,10 @@ draft: false
 weight: 1
 noOfServings: 2
 ingredients:
-	- ½ bundt grønkål, ribbet
-	- Neutral olie
-	- Salt
-	- Peber
+  - ½ bundt grønkål, ribbet
+  - Neutral olie
+  - Salt
+  - Peber
 ---
 
 Det ribbede grønkål tørres grundigt og sauteres over meget høj varme i

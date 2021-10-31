@@ -4,9 +4,9 @@ draft: false
 weight: 1
 noOfServings: 6-8
 ingredients:
-	- 1 hoved selleri
-	- 80 gram æggehvider/2 bægre pasteuriserede æggehvider
-	- 200 gram fint salt
+  - 1 hoved selleri
+  - 80 gram æggehvider/2 bægre pasteuriserede æggehvider
+  - 200 gram fint salt
 ---
 
 Forvarm ovnen til 200 grader. Et helt hoved af selleri skrælles og

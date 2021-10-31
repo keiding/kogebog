@@ -4,15 +4,15 @@ draft: false
 weight: 1
 noOfServings: 8
 ingredients:
-	- 285 gram mel
-	- 130 gram sukker
-	- 110 gram smør
-	- 1 tsk. natron
-	- ¼ tsk. salt
-	- 1 tsk. vaniljesukker
-	- 2 æg
-	- 4 modne bananer
-	- 90 gram kærnemælk eller kefir
+  - 285 gram mel
+  - 130 gram sukker
+  - 110 gram smør
+  - 1 tsk. natron
+  - ¼ tsk. salt
+  - 1 tsk. vaniljesukker
+  - 2 æg
+  - 4 modne bananer
+  - 90 gram kærnemælk eller kefir
 ---
 
 Forvarm en ovn på 160 grader varmluft. Tag halvdelen af smørret fra, og

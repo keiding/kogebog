@@ -4,16 +4,16 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- 2 bægre pasteuriserede æggeblommer
-	- 250 ml. neutral olie
-	- 2 fed hvidløg, kernen fjernet
-	- 40 gram parmesan
-	- 1½ tsk. sherryeddike
-	- 10 stænk Worcestershire sauce
-	- 1 knivspids cayennepeber
-	- 20 ml. koldt vand
-	- Salt
-	- Peber
+  - 2 bægre pasteuriserede æggeblommer
+  - 250 ml. neutral olie
+  - 2 fed hvidløg, kernen fjernet
+  - 40 gram parmesan
+  - 1½ tsk. sherryeddike
+  - 10 stænk Worcestershire sauce
+  - 1 knivspids cayennepeber
+  - 20 ml. koldt vand
+  - Salt
+  - Peber
 ---
 
 Saml alle ingredienserne, undtagen olie og vand, i et blenderglas, og

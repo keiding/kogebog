@@ -4,9 +4,9 @@ draft: false
 weight: 1
 noOfServings: 4
 ingredients:
-	- ½ hoved selleri
-	- 30 gram smør
-	- Salt
+  - ½ hoved selleri
+  - 30 gram smør
+  - Salt
 ---
 
 Skræl sellerien, og skær den i meget tynde skiver. Sautér i smør med et

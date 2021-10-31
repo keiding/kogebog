@@ -4,10 +4,10 @@ draft: false
 weight: 1
 noOfServings: 2
 ingredients:
-	- 1 lille spidskål
-	- Neutral olie
-	- Salt
-	- Peber
+  - 1 lille spidskål
+  - Neutral olie
+  - Salt
+  - Peber
 ---
 
 Spidskål deles i kvarte eller halve afhængigt af kålens størrelse. Krydr

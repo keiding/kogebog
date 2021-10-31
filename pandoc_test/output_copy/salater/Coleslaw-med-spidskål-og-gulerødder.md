@@ -4,11 +4,11 @@ draft: false
 weight: 1
 noOfServings: 2
 ingredients:
-	- 3 spsk. neutral mayonnaise
-	- 4 spsk. 2 % græsk yoghurt eller mager creme fraiche
-	- 1 tsk. dijonsennep
-	- 2 store gulerødder
-	- ½ spidskål eller hvidkål
+  - 3 spsk. neutral mayonnaise
+  - 4 spsk. 2 % græsk yoghurt eller mager creme fraiche
+  - 1 tsk. dijonsennep
+  - 2 store gulerødder
+  - ½ spidskål eller hvidkål
 ---
 
 En neutral mayonnaise lettes med lidt creme fraiche og smages yderligere

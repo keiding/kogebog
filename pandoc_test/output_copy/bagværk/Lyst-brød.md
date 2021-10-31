@@ -4,13 +4,13 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- 400 gram koldt vand
-	- 80 gram kefir eller kærnemælk
-	- 6 gram gær
-	- 425 gram hvedemel
-	- 100 gram rugmel
-	- 100 gram speltmel
-	- 10 gram salt
+  - 400 gram koldt vand
+  - 80 gram kefir eller kærnemælk
+  - 6 gram gær
+  - 425 gram hvedemel
+  - 100 gram rugmel
+  - 100 gram speltmel
+  - 10 gram salt
 ---
 
 Bland vand, kefir og gær. Tilsæt mel og salt, og ælt indtil elastisk,

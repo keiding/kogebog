@@ -4,17 +4,17 @@ draft: false
 weight: 1
 noOfServings: 4
 ingredients:
-	- 500 gram god tørret pasta
-	- 250-350 gram optøet spinat fra frost
-	- 15-20 cherrytomater
-	- 3 forårsløg
-	- ½ fed hvidløg, kernen fjernet
-	- Tørrede chiliflager
-	- 1 lille bæger 38 % creme fraiche
-	- Olivenolie
-	- Salt
-	- Peber
-	- Citronsaft
+  - 500 gram god tørret pasta
+  - 250-350 gram optøet spinat fra frost
+  - 15-20 cherrytomater
+  - 3 forårsløg
+  - ½ fed hvidløg, kernen fjernet
+  - Tørrede chiliflager
+  - 1 lille bæger 38 % creme fraiche
+  - Olivenolie
+  - Salt
+  - Peber
+  - Citronsaft
 ---
 
 Kog pasta i saltet vand. Når der er 5 minutter tilbage af kogetiden,
