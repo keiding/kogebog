@@ -4,16 +4,16 @@ draft: false
 weight: 1
 noOfServings: 6
 ingredients:
-	- 500 gram hakket oksekød
-	- 2 løg
-	- 2 fed hvidløg
-	- 1 æg
-	- 1 kop sødmælk
-	- 2 håndfulde rasp
-	- 80 gram pistacienødder
-	- Muskatnød
-	- Salt
-	- Peber
+  - 500 gram hakket oksekød
+  - 2 løg
+  - 2 fed hvidløg
+  - 1 æg
+  - 1 kop sødmælk
+  - 2 håndfulde rasp
+  - 80 gram pistacienødder
+  - Muskatnød
+  - Salt
+  - Peber
 ---
 
 Udblød rasp i sødmælk en halv time. Imens steges et fintsnittet løg og

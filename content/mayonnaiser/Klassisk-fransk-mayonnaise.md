@@ -4,12 +4,12 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- 1 bæger pasteuriserede æggeblommer
-	- 1 økologisk citron
-	- ½ tsk. dijonsennep
-	- 1½ dl neutral olie
-	- Salt
-	- Peber
+  - 1 bæger pasteuriserede æggeblommer
+  - 1 økologisk citron
+  - ½ tsk. dijonsennep
+  - 1½ dl neutral olie
+  - Salt
+  - Peber
 ---
 
 Pasteuriserede æggeblommer piskes sammen med salt, peber, dijonsennep og

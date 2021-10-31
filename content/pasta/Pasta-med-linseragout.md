@@ -4,21 +4,21 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- 200 gram Puy-linser (også solgt som delikatesselinser)
-	- 125 ml tør vermouth
-	- 1 stort løg
-	- 1 stor gulerod
-	- 2 stængler blegselleri
-	- 2 fed hvidløg
-	- 2 spsk. tomatpuré
-	- 1 dåse flåede tomater
-	- Olivenolie
-	- Grøntsagsfond
-	- Sherryeddike
-	- Cayennepeber
-	- Salt
-	- Peber
-	- Sukker
+  - 200 gram Puy-linser (også solgt som delikatesselinser)
+  - 125 ml tør vermouth
+  - 1 stort løg
+  - 1 stor gulerod
+  - 2 stængler blegselleri
+  - 2 fed hvidløg
+  - 2 spsk. tomatpuré
+  - 1 dåse flåede tomater
+  - Olivenolie
+  - Grøntsagsfond
+  - Sherryeddike
+  - Cayennepeber
+  - Salt
+  - Peber
+  - Sukker
 ---
 
 Snit løg, hvidløg og blegselleri fint, skyl linserne under koldt vand,

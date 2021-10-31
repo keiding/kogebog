@@ -4,12 +4,12 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- 250 gram hvedemel
-	- 125 gram smør i tern, halvt blødt
-	- 40 ml. koldt vand
-	- 1 æg
-	- ½ tsk. salt
-	- 1 tsk. sukker
+  - 250 gram hvedemel
+  - 125 gram smør i tern, halvt blødt
+  - 40 ml. koldt vand
+  - 1 æg
+  - ½ tsk. salt
+  - 1 tsk. sukker
 ---
 
 Rør mel, sukker og salt sammen i skål, og hæld blandingen ud på en ren

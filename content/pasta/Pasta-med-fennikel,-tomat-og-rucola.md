@@ -4,12 +4,12 @@ draft: false
 weight: 1
 noOfServings: 4
 ingredients:
-	- 500 gram tørret pasta
-	- 1 stort hoved fennikel
-	- 80-100 gram vasket rucola
-	- Olivenolie
-	- Salt
-	- Peber
+  - 500 gram tørret pasta
+  - 1 stort hoved fennikel
+  - 80-100 gram vasket rucola
+  - Olivenolie
+  - Salt
+  - Peber
 ---
 
 Skær et hoved fennikel i både med roden intakt, krydr med salt og peber,

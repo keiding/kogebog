@@ -4,13 +4,13 @@ draft: false
 weight: 1
 noOfServings: 8
 ingredients:
-	- 400-450 gram udstenede kirsebær
-	- 2 æg
-	- 70-80 gram mel
-	- 50 gram sukker
-	- 10 gram vaniljesukker
-	- 300 ml. sødmælk
-	- 20 gram smør, plus ekstra til smøring
+  - 400-450 gram udstenede kirsebær
+  - 2 æg
+  - 70-80 gram mel
+  - 50 gram sukker
+  - 10 gram vaniljesukker
+  - 300 ml. sødmælk
+  - 20 gram smør, plus ekstra til smøring
 ---
 
 Smelt smørret over lav varme. Pisk æg og sukker sammen, og bland med

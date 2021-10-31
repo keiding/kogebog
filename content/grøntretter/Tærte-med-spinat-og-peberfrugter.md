@@ -4,15 +4,15 @@ draft: false
 weight: 1
 noOfServings: 4
 ingredients:
-	- 1 portion tærtedej (side 169)
-	- 500 gram optøet spinat fra frost eller blancheret frisk spinat
-	- 2 peberfrugter
-	- 80-100 gram feta
-	- 8 æg
-	- 1 fed hvidløg
-	- Salt
-	- Peber
-	- ½ dl olivenolie
+  - 1 portion tærtedej (side 169)
+  - 500 gram optøet spinat fra frost eller blancheret frisk spinat
+  - 2 peberfrugter
+  - 80-100 gram feta
+  - 8 æg
+  - 1 fed hvidløg
+  - Salt
+  - Peber
+  - ½ dl olivenolie
 ---
 
 Drys et bord let med mel, og rul tærtedejen ud så den er 2-3 mm tyk.

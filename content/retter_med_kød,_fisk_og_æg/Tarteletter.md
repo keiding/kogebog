@@ -4,15 +4,15 @@ draft: false
 weight: 1
 noOfServings: 6
 ingredients:
-	- 1 hel høne
-	- 2 løg
-	- 1 stor gulerod
-	- 2 stænger blegselleri
-	- Peberkorn
-	- Tørret timian
-	- Laurbærblade\
-	- Tarteletskaller
-	- Salt
+  - 1 hel høne
+  - 2 løg
+  - 1 stor gulerod
+  - 2 stænger blegselleri
+  - Peberkorn
+  - Tørret timian
+  - Laurbærblade\
+  - Tarteletskaller
+  - Salt
 ---
 
 I en stor gryde sauteres grofthakket løg, hvidløg, gulerødder og

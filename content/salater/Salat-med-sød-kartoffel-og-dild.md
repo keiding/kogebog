@@ -4,14 +4,14 @@ draft: false
 weight: 1
 noOfServings: 2
 ingredients:
-	- 1 stor sød kartoffel
-	- 10 cherrytomater
-	- 100 gram frisk spinat
-	- Frisk eller tørret dild
-	- Sennepsvinaigrette
-	- Olivenolie
-	- Salt
-	- Peber
+  - 1 stor sød kartoffel
+  - 10 cherrytomater
+  - 100 gram frisk spinat
+  - Frisk eller tørret dild
+  - Sennepsvinaigrette
+  - Olivenolie
+  - Salt
+  - Peber
 ---
 
 Skræl kartoflen, og skær den i 1 cm skiver. Krydr med salt og peber, og

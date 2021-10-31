@@ -4,10 +4,10 @@ draft: false
 weight: 1
 noOfServings: 2
 ingredients:
-	- ½ spidskål
-	- 1 spsk. smør
-	- 2 spsk. vand
-	- Salt
+  - ½ spidskål
+  - 1 spsk. smør
+  - 2 spsk. vand
+  - Salt
 ---
 
 Spidskålen deles i blade, der efterfølgende deles i 2-3 stykker

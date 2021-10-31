@@ -4,16 +4,16 @@ draft: false
 weight: 1
 noOfServings: 8
 ingredients:
-	- 6 store, let syrlige og faste æbler
-	- 100 gram hvedemel
-	- 50 gram sukker
-	- 40 gram brun farin
-	- 75 gram saltet smør
-	- ¼ tsk. vaniljesukker
-	- ¼ tsk. kanel
-	- Citronsaft
-	- Sukker
-	- Koldt vand
+  - 6 store, let syrlige og faste æbler
+  - 100 gram hvedemel
+  - 50 gram sukker
+  - 40 gram brun farin
+  - 75 gram saltet smør
+  - ¼ tsk. vaniljesukker
+  - ¼ tsk. kanel
+  - Citronsaft
+  - Sukker
+  - Koldt vand
 ---
 
 Formvarm en ovn til 175 grader varmluft. Skær æblerne i ensartede små

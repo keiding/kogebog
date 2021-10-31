@@ -4,11 +4,11 @@ draft: false
 weight: 1
 noOfServings: 2-3
 ingredients:
-	- 75 gram chokolade (70-80 %)
-	- 2 bægre pasteuriserede æggehvider
-	- 2 strøgne spsk. sukker
-	- 75 gram piskefløde
-	- Citronsaft
+  - 75 gram chokolade (70-80 %)
+  - 2 bægre pasteuriserede æggehvider
+  - 2 strøgne spsk. sukker
+  - 75 gram piskefløde
+  - Citronsaft
 ---
 
 Smelt chokoladen i en varmefast skål sat over en gryde med simrende

@@ -4,20 +4,20 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- 2 dl Puy-linser
-	- 5 dl vand
-	- 1 æg
-	- ½ dl finvalsede havregryn
-	- 1 tsk. hvidvinseddike
-	- 1 tsk. tørret salvie
-	- 1 spsk. vand
-	- 1 spsk. olivenolie
-	- 1 knivspids cayennepeber
-	- 2 fed hvidløg
-	- 3 laurbærblade
-	- Worcestershire sauce
-	- Salt
-	- Peber
+  - 2 dl Puy-linser
+  - 5 dl vand
+  - 1 æg
+  - ½ dl finvalsede havregryn
+  - 1 tsk. hvidvinseddike
+  - 1 tsk. tørret salvie
+  - 1 spsk. vand
+  - 1 spsk. olivenolie
+  - 1 knivspids cayennepeber
+  - 2 fed hvidløg
+  - 3 laurbærblade
+  - Worcestershire sauce
+  - Salt
+  - Peber
 ---
 
 Kog linserne i vandet med hele fed hvidløg og laurbærblade i 15-20

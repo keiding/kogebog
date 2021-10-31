@@ -3,7 +3,7 @@ title: "Ratatouille"
 draft: false
 weight: 1
 noOfServings: 4-2
-	ingredients:
+  ingredients:
 ---
 
 Forvarm en ovn på 175 grader varmluft. Skær auberginen i store stykker,

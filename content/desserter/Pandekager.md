@@ -4,12 +4,12 @@ draft: false
 weight: 1
 noOfServings: 2
 ingredients:
-	- 40 gram hvedemel
-	- 2 æg
-	- 2-3 tsk. smør
-	- 330 ml. sødmælk
-	- Sukker
-	- Salt
+  - 40 gram hvedemel
+  - 2 æg
+  - 2-3 tsk. smør
+  - 330 ml. sødmælk
+  - Sukker
+  - Salt
 ---
 
 Halvdelen af smørret kommes på en pande over medium varme, hvor det

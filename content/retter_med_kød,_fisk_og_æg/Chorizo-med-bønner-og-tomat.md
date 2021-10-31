@@ -4,16 +4,16 @@ draft: false
 weight: 1
 noOfServings: 2
 ingredients:
-	- 2 løg
-	- 2 fed hvidløg
-	- 1 dåse forkogte hvide bønner/butterbeans, skyllede
-	- 80 gram tørret chorizo
-	- 1½ spsk. tomatpuré
-	- 125 ml tør vermouth
-	- Cayennepeber
-	- Sherryeddike
-	- Salt
-	- Peber
+  - 2 løg
+  - 2 fed hvidløg
+  - 1 dåse forkogte hvide bønner/butterbeans, skyllede
+  - 80 gram tørret chorizo
+  - 1½ spsk. tomatpuré
+  - 125 ml tør vermouth
+  - Cayennepeber
+  - Sherryeddike
+  - Salt
+  - Peber
 ---
 
 Skær chorizoen i tern, og sautér over medium varme indtil fedtet er

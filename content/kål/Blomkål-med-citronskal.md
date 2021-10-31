@@ -4,11 +4,11 @@ draft: false
 weight: 1
 noOfServings: 2
 ingredients:
-	- ½ hoved blomkål
-	- 1 økologisk citron
-	- Smør
-	- Salt
-	- Peber
+  - ½ hoved blomkål
+  - 1 økologisk citron
+  - Smør
+  - Salt
+  - Peber
 ---
 
 Blomkålen deles i buketter, krydres med salt og brunes kraftigt i olie.

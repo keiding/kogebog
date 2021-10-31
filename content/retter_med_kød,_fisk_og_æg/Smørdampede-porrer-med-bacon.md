@@ -4,13 +4,13 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- 4 porrer
-	- 8 skiver økologisk bacon (cirka 100 gram)
-	- 7-8 spsk. rasp
-	- Smør
-	- Salt
-	- Peber
-	- Citronsaft
+  - 4 porrer
+  - 8 skiver økologisk bacon (cirka 100 gram)
+  - 7-8 spsk. rasp
+  - Smør
+  - Salt
+  - Peber
+  - Citronsaft
 ---
 
 Skær de grønne toppe af porrerne, og gem til anden brug. Fjern det

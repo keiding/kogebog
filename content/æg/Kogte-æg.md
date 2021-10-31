@@ -4,7 +4,7 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- Æg
+  - Æg
 ---
 
 Bring en gryde med usaltet vand i kog, og kom forsigtigt æggene i når

@@ -4,20 +4,20 @@ draft: false
 weight: 1
 noOfServings: 4
 ingredients:
-	- 500 gram hakket oksekød 9-15 %
-	- 1 stort løg
-	- 1 stor gulerod
-	- 1½ stængel blegselleri
-	- 1 fed hvidløg
-	- 2½ spsk. tomatpuré
-	- ½ tsk. tørret timian
-	- 3 laurbærblade
-	- 4½ dl sødmælk
-	- 1½ dl tør vermouth (eller hvidvin)
-	- ½ dl grøntsagsfond/hønsefond
-	- Salt
-	- Peber
-	- Olivenolie
+  - 500 gram hakket oksekød 9-15 %
+  - 1 stort løg
+  - 1 stor gulerod
+  - 1½ stængel blegselleri
+  - 1 fed hvidløg
+  - 2½ spsk. tomatpuré
+  - ½ tsk. tørret timian
+  - 3 laurbærblade
+  - 4½ dl sødmælk
+  - 1½ dl tør vermouth (eller hvidvin)
+  - ½ dl grøntsagsfond/hønsefond
+  - Salt
+  - Peber
+  - Olivenolie
 ---
 
 Hak løget fint, skær sellerien i tynde skiver, riv guleroden groft og

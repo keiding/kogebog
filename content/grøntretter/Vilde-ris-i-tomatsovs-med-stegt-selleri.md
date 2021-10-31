@@ -4,18 +4,18 @@ draft: false
 weight: 1
 noOfServings: 4
 ingredients:
-	- 4 dl vilde røde ris
-	- 2 spsk. tomatpuré
-	- 1 løg
-	- 2 fed hvidløg
-	- 2 dåser flåede tomater
-	- 125 ml tør vermouth
-	- ¼ tsk. røget paprika
-	- ½ knoldselleri
-	- Salt
-	- Peber
-	- Olivenolie
-	- Smør
+  - 4 dl vilde røde ris
+  - 2 spsk. tomatpuré
+  - 1 løg
+  - 2 fed hvidløg
+  - 2 dåser flåede tomater
+  - 125 ml tør vermouth
+  - ¼ tsk. røget paprika
+  - ½ knoldselleri
+  - Salt
+  - Peber
+  - Olivenolie
+  - Smør
 ---
 
 Sautér løg og hvidløg i olivenolien med et nip salt. Undgå at løgene

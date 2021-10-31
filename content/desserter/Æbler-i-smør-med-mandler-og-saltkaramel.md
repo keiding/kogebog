@@ -4,17 +4,17 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- 4 spsk. sukker
-	- 1 dl. piskefløde
-	- ½ tsk. fintreven citronskal
-	- 1-2 tsk. smør
-	- ½-1 tsk. Maldon-salt
-	- ½ spsk. citronsaft
-	- ½ syrligt æble (for eksempel Granny Smith)
-	- 1 stort fast og let sødligt æble (for eksempel Ingrid Marie)
-	- 1 håndfuld mandler
-	- 1 spsk. smør
-	- Citronsaft
+  - 4 spsk. sukker
+  - 1 dl. piskefløde
+  - ½ tsk. fintreven citronskal
+  - 1-2 tsk. smør
+  - ½-1 tsk. Maldon-salt
+  - ½ spsk. citronsaft
+  - ½ syrligt æble (for eksempel Granny Smith)
+  - 1 stort fast og let sødligt æble (for eksempel Ingrid Marie)
+  - 1 håndfuld mandler
+  - 1 spsk. smør
+  - Citronsaft
 ---
 
 Smelt sukkeret i en tykbundet pande over medium varme indtil det bliver

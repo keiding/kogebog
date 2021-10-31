@@ -4,13 +4,13 @@ draft: false
 weight: 1
 noOfServings: 2
 ingredients:
-	- 1 stort kyllingebryst
-	- 1¼ dl polenta
-	- 1 tsk. smør
-	- 1 stor håndfuld revet parmesan
-	- Hønsefond
-	- Salt
-	- Peber
+  - 1 stort kyllingebryst
+  - 1¼ dl polenta
+  - 1 tsk. smør
+  - 1 stor håndfuld revet parmesan
+  - Hønsefond
+  - Salt
+  - Peber
 ---
 
 Kog polentaen efter anvisning på posen, som regel 1:4 polenta til fond i

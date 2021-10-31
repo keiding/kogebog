@@ -4,11 +4,11 @@ draft: false
 weight: 1
 noOfServings: 4
 ingredients:
-	- 6 bagekartofler/500 gram kartoffelpuré
-	- 200 gram tipo 00 hvedemel
-	- 1 æggeblomme
-	- 3 gram salt (eller efter smag)
-	- Rismel
+  - 6 bagekartofler/500 gram kartoffelpuré
+  - 200 gram tipo 00 hvedemel
+  - 1 æggeblomme
+  - 3 gram salt (eller efter smag)
+  - Rismel
 ---
 
 Prik kartoflerne med en kødnål, og bag dem meget møre i en 180 grader

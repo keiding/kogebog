@@ -4,16 +4,16 @@ draft: false
 weight: 1
 noOfServings: 4
 ingredients:
-	- 1 lille hoved blomkål
-	- 2 dåser gode flåede tomater
-	- 1 dåse kikærter
-	- 2-3 spsk. cremet 100 % peanutbutter
-	- 1-2 spsk. stærk rød karrypasta
-	- Soyasauce
-	- Risvineddike
-	- Sambal oelek/chilisauce
-	- Salt
-	- Peber
+  - 1 lille hoved blomkål
+  - 2 dåser gode flåede tomater
+  - 1 dåse kikærter
+  - 2-3 spsk. cremet 100 % peanutbutter
+  - 1-2 spsk. stærk rød karrypasta
+  - Soyasauce
+  - Risvineddike
+  - Sambal oelek/chilisauce
+  - Salt
+  - Peber
 ---
 
 I en gryde over medium varme ristes rød karry pasta af indtil det

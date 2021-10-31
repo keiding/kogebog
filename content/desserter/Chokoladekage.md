@@ -4,11 +4,11 @@ draft: false
 weight: 1
 noOfServings: 8
 ingredients:
-	- 100 gram blødt usaltet smør
-	- 160 gram sukker
-	- 160 gram 70-80 % chokolade
-	- 133 gram marcipan
-	- 4 æg
+  - 100 gram blødt usaltet smør
+  - 160 gram sukker
+  - 160 gram 70-80 % chokolade
+  - 133 gram marcipan
+  - 4 æg
 ---
 
 Tag en 18 cm springform, beklæd bunden med et tilskåret stykke madpapir,

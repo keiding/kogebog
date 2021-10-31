@@ -4,11 +4,11 @@ draft: false
 weight: 1
 noOfServings: 2
 ingredients:
-	- 300-320 gram tipo 00 hvedemel
-	- 5 gram gær
-	- 6 gram salt
-	- 1½ spsk. olivenolie
-	- 180 gram koldt vand
+  - 300-320 gram tipo 00 hvedemel
+  - 5 gram gær
+  - 6 gram salt
+  - 1½ spsk. olivenolie
+  - 180 gram koldt vand
 ---
 
 Rør gæren ud i det kolde vand, og bland efterfølgende med 300 gram mel

@@ -4,12 +4,12 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- ½ bakke økologiske champignon
-	- ½ bundt grønkål, ribbet
-	- 100 ml piskefløde
-	- 1 økologisk citron
-	- Salt
-	- Peber
+  - ½ bakke økologiske champignon
+  - ½ bundt grønkål, ribbet
+  - 100 ml piskefløde
+  - 1 økologisk citron
+  - Salt
+  - Peber
 ---
 
 Rensede champignon halveres, krydres med salt og brunes på skærefladen

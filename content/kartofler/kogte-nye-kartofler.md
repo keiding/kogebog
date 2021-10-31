@@ -4,8 +4,8 @@ draft: false
 weight: 1
 noOfServings: 4
 ingredients:
-	- 1 kilo nye kartofler
-	- Salt
+  - 1 kilo nye kartofler
+  - Salt
 ---
 
 Skyl og rens kartoflerne, og dæk med koldt vandt tilsmagt med salt. Vær

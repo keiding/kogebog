@@ -4,10 +4,10 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- 5 dl sødmælk
-	- 6 æggeblommer
-	- 160 sukker (hvoraf noget kan erstattes af vaniljesukker)
-	- 30 gram majsmel/majsstivelse
+  - 5 dl sødmælk
+  - 6 æggeblommer
+  - 160 sukker (hvoraf noget kan erstattes af vaniljesukker)
+  - 30 gram majsmel/majsstivelse
 ---
 
 Bring mælken i kog mens blommer og sukker piskes hvide. Hvis massen skal

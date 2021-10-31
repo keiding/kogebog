@@ -4,11 +4,11 @@ draft: false
 weight: 1
 noOfServings: 3-4
 ingredients:
-	- 1 kilo små spisekartofler
-	- Olivenolie
-	- Hvidløg
-	- Salt
-	- Peber
+  - 1 kilo små spisekartofler
+  - Olivenolie
+  - Hvidløg
+  - Salt
+  - Peber
 ---
 
 Hele små spisekartofler skylles og tørres. Krydr med salt og peber,

@@ -4,22 +4,22 @@ draft: false
 weight: 1
 noOfServings: 6
 ingredients:
-	- ½ dl olivenolie
-	- 4 fed hvidløg
-	- 5 gulerødder
-	- 5 kartofler
-	- ½ spidskål
-	- 2 dl Puy-linser
-	- 3 spsk. tomatpuré
-	- 1 dåse hakkede tomater
-	- **¼** tsk. røget paprika
-	- ½ tsk. cayennepeber
-	- 1½ dl tør vermouth
-	- 4-5 dl hønsefond
-	- Salt
-	- Peber
-	- Sukker
-	- Balsamico
+  - ½ dl olivenolie
+  - 4 fed hvidløg
+  - 5 gulerødder
+  - 5 kartofler
+  - ½ spidskål
+  - 2 dl Puy-linser
+  - 3 spsk. tomatpuré
+  - 1 dåse hakkede tomater
+  - **¼** tsk. røget paprika
+  - ½ tsk. cayennepeber
+  - 1½ dl tør vermouth
+  - 4-5 dl hønsefond
+  - Salt
+  - Peber
+  - Sukker
+  - Balsamico
 ---
 
 Hak hvidløget fint, og kom i en stor gryde sammen med olivenolien. Sæt

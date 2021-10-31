@@ -4,13 +4,13 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- 1 bæger pasteuriserede
-	- æggeblommer
-	- 1 tsk. sherryeddike
-	- 50 ml. græskarkerneolie
-	- 100 ml. neutral olie
-	- Salt
-	- Peber
+  - 1 bæger pasteuriserede
+  - æggeblommer
+  - 1 tsk. sherryeddike
+  - 50 ml. græskarkerneolie
+  - 100 ml. neutral olie
+  - Salt
+  - Peber
 ---
 
 De pasteuriserede æggeblommer piskes hvide og luftige med salt og

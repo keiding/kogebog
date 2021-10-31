@@ -4,17 +4,17 @@ draft: false
 weight: 1
 noOfServings: 4
 ingredients:
-	- 8 rødbeder
-	- 2 tsk. kapers
-	- 1 tsk. ketchup
-	- 3 tsk. finthakkede skalotteløg
-	- ½ tsk. dijonsennep
-	- 3 dråber Tabasco
-	- 4 tsk. Worcestershire
-	- 2 tsk. cornichoner
-	- Groft salt
-	- Salt
-	- Peber
+  - 8 rødbeder
+  - 2 tsk. kapers
+  - 1 tsk. ketchup
+  - 3 tsk. finthakkede skalotteløg
+  - ½ tsk. dijonsennep
+  - 3 dråber Tabasco
+  - 4 tsk. Worcestershire
+  - 2 tsk. cornichoner
+  - Groft salt
+  - Salt
+  - Peber
 ---
 
 Rødbeder skylles, tørres, sættes på et leje af groft salt og bages

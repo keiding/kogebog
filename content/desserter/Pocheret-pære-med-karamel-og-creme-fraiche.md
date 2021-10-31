@@ -4,14 +4,14 @@ draft: false
 weight: 1
 noOfServings: 4
 ingredients:
-	- 2 Conference-pærer
-	- 70 gram mørk muscovadosukker
-	- 45 gram usaltet smør
-	- 80 gram piskefløde
-	- Smør til stegning
-	- Balsamisk æbleeddike, cirka 2 tsk.
-	- Godt havsalt i flager, cirka 1 tsk.
-	- Sukker
+  - 2 Conference-pærer
+  - 70 gram mørk muscovadosukker
+  - 45 gram usaltet smør
+  - 80 gram piskefløde
+  - Smør til stegning
+  - Balsamisk æbleeddike, cirka 2 tsk.
+  - Godt havsalt i flager, cirka 1 tsk.
+  - Sukker
 ---
 
 Denne dessert kan i det store og hele laves en dag i forvejen og holdes

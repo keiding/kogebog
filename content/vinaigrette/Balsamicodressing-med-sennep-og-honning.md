@@ -4,12 +4,12 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- 1 tsk. akaciehonning
-	- 1 tsk. dijonsennep
-	- 3 spsk. balsamico
-	- 5-7 spsk. olivenolie
-	- Salt
-	- Peber
+  - 1 tsk. akaciehonning
+  - 1 tsk. dijonsennep
+  - 3 spsk. balsamico
+  - 5-7 spsk. olivenolie
+  - Salt
+  - Peber
 ---
 
 I en skål blandes akaciehonning, dijonsennep, salt, peber og balsamico.

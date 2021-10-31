@@ -4,10 +4,10 @@ draft: false
 weight: 1
 noOfServings: 2
 ingredients:
-	- ½ spidskål eller hvidkål
-	- 100 ml piskefløde
-	- 1 økologisk citron
-	- Sukker
+  - ½ spidskål eller hvidkål
+  - 100 ml piskefløde
+  - 1 økologisk citron
+  - Sukker
 ---
 
 Fløde syrnes med citronsaft og smages til med sukker. Pisk dressingen

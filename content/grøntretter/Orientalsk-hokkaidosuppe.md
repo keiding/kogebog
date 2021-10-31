@@ -4,14 +4,14 @@ draft: false
 weight: 1
 noOfServings: 6
 ingredients:
-	- 1 hokkaidogræskar
-	- 8-10 cm ingefær
-	- 3 fed hvidløg
-	- 1 stjerneanis
-	- Hønsefond
-	- 2 laurbærblade
-	- 1-1½ spsk. sambal oelek (kan erstattes med en anden form for chili)
-	- Fiskesauce
+  - 1 hokkaidogræskar
+  - 8-10 cm ingefær
+  - 3 fed hvidløg
+  - 1 stjerneanis
+  - Hønsefond
+  - 2 laurbærblade
+  - 1-1½ spsk. sambal oelek (kan erstattes med en anden form for chili)
+  - Fiskesauce
 ---
 
 Skær græsskaret i ensartede tern, og sautér over høj varme med et stort

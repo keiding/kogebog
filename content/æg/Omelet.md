@@ -4,11 +4,11 @@ draft: false
 weight: 1
 noOfServings: 1-2
 ingredients:
-	- 3 æg
-	- 1 tsk. smør
-	- Salt
-	- Peber
-	- Neutral olie
+  - 3 æg
+  - 1 tsk. smør
+  - Salt
+  - Peber
+  - Neutral olie
 ---
 
 Slå 3 æg ud i en skål, krydr med salt og peber samt et lille nip

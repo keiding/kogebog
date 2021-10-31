@@ -4,14 +4,14 @@ draft: false
 weight: 1
 noOfServings: 
 ingredients:
-	- 170-200 gram forkogte rejer i så god kvalitet som kan findes
-	- 8 store hvide asparges, gerne danske eller tyske
-	- 300-350 ml beurre blanc (side 135)
-	- 1 bund dild
-	- 1 økologisk citron
-	- Sukker
-	- Salt
-	- Peber
+  - 170-200 gram forkogte rejer i så god kvalitet som kan findes
+  - 8 store hvide asparges, gerne danske eller tyske
+  - 300-350 ml beurre blanc (side 135)
+  - 1 bund dild
+  - 1 økologisk citron
+  - Sukker
+  - Salt
+  - Peber
 ---
 
 Det er vigtigt at rejerne er af meget høj kvalitet og smager frisk og

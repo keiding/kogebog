@@ -4,10 +4,10 @@ draft: false
 weight: 1
 noOfServings: 2
 ingredients:
-	- 1 stor sød kartoffel (cirka 600 gram)
-	- Cajun-krydderi
-	- Neutral olie
-	- Coleslaw
+  - 1 stor sød kartoffel (cirka 600 gram)
+  - Cajun-krydderi
+  - Neutral olie
+  - Coleslaw
 ---
 
 Skær kartoflen i store både, dæk bådene let i olie, og krydr rundhåndet

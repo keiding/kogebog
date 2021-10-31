@@ -4,10 +4,10 @@ draft: false
 weight: 1
 noOfServings: 4
 ingredients:
-	- 5-6 store bagekartofler
-	- Olivenolie
-	- Salt
-	- Peber
+  - 5-6 store bagekartofler
+  - Olivenolie
+  - Salt
+  - Peber
 ---
 
 Skræl kartoflerne, skær i halve eller kvarte på den lange led, afhængigt

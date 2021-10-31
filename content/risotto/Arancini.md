@@ -4,14 +4,14 @@ draft: false
 weight: 1
 noOfServings: 2-4
 ingredients:
-	- 900 gram kold risotto
-	- 1 æg
-	- 3-4 håndfulde rasp
-	- 500-600 ml neutral olie
-	- Tørret salvie
-	- Cayennepeber
-	- Salt
-	- Peber
+  - 900 gram kold risotto
+  - 1 æg
+  - 3-4 håndfulde rasp
+  - 500-600 ml neutral olie
+  - Tørret salvie
+  - Cayennepeber
+  - Salt
+  - Peber
 ---
 
 Rør æg og den kolde risotto sammen, og form til små kugler på størrelse

@@ -4,12 +4,12 @@ draft: false
 weight: 1
 noOfServings: 2
 ingredients:
-	- 150 gram grønkål
-	- 1 håndfuld ristede solsikkekerner
-	- 2 æbler
-	- 10-12 grønne asparges
-	- Sennepsvinaigrette
-	- Parmesan
+  - 150 gram grønkål
+  - 1 håndfuld ristede solsikkekerner
+  - 2 æbler
+  - 10-12 grønne asparges
+  - Sennepsvinaigrette
+  - Parmesan
 ---
 
 Befri bladene på grønkålen fra de grove stilke, og kassér stilkene. Skyl
