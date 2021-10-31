@@ -1,5 +1,5 @@
 ---
-title: "Køkkennoter"
+title: ""
 draft: false
 weight: 00
 ---
