@@ -1,4 +1,4 @@
-title: "{}"
+title: "Confiteret andelår"
 draft: false
 weight: 1
 noOfServings: 4

@@ -1,4 +1,4 @@
-title: "{}"
+title: "Farsbrød"
 draft: false
 weight: 1
 noOfServings: 6

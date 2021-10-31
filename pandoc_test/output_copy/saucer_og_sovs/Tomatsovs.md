@@ -1,4 +1,4 @@
-title: "{}"
+title: "Tomatsovs"
 draft: false
 weight: 1
 noOfServings: 

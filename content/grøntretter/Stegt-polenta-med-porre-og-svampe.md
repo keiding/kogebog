@@ -1,4 +1,4 @@
-title: "{}"
+title: "Stegt polenta med porre og svampe"
 draft: false
 weight: 1
 noOfServings: 2

@@ -1,4 +1,4 @@
-title: "{}"
+title: "Smørdampet spidskål"
 draft: false
 weight: 1
 noOfServings: 2

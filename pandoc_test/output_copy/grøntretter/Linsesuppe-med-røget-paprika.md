@@ -1,4 +1,4 @@
-title: "{}"
+title: "Linsesuppe med røget paprika"
 draft: false
 weight: 1
 noOfServings: 6

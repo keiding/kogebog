@@ -1,4 +1,4 @@
-title: "{}"
+title: "Kogte kartofler uden for sæson"
 draft: false
 weight: 1
 noOfServings: 4

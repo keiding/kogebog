@@ -1,4 +1,4 @@
-title: "{}"
+title: "Rejer med hvide asparges og dild-beurre blanc"
 draft: false
 weight: 1
 noOfServings: 

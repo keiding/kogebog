@@ -1,4 +1,4 @@
-title: "{}"
+title: "Arancini"
 draft: false
 weight: 1
 noOfServings: 2-4

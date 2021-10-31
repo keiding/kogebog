@@ -1,4 +1,4 @@
-title: "{}"
+title: "Vegetarkarry med peanutbutter og tomat"
 draft: false
 weight: 1
 noOfServings: 4

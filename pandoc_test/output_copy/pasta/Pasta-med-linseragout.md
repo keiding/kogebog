@@ -1,4 +1,4 @@
-title: "{}"
+title: "Pasta med linseragout"
 draft: false
 weight: 1
 noOfServings: 

@@ -1,4 +1,4 @@
-title: "{}"
+title: "Kartoffelgnocchi"
 draft: false
 weight: 1
 noOfServings: 4

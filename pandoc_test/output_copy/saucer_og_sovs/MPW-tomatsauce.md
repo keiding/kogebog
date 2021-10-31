@@ -1,4 +1,4 @@
-title: "{}"
+title: "MPW-tomatsauce"
 draft: false
 weight: 1
 noOfServings: 

@@ -1,4 +1,4 @@
-title: "{}"
+title: "Pasta med squash og ærter"
 draft: false
 weight: 1
 noOfServings: 2

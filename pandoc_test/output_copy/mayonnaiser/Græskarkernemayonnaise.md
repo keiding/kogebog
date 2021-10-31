@@ -1,4 +1,4 @@
-title: "{}"
+title: "Græskarkernemayonnaise"
 draft: false
 weight: 1
 noOfServings: 

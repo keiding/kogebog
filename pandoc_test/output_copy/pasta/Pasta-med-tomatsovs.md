@@ -1,4 +1,4 @@
-title: "{}"
+title: "Pasta med tomatsovs"
 draft: false
 weight: 1
 noOfServings: 4

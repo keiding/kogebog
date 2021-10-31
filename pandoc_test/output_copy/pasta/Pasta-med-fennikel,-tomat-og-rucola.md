@@ -1,4 +1,4 @@
-title: "{}"
+title: "Pasta med fennikel, tomat og rucola"
 draft: false
 weight: 1
 noOfServings: 4

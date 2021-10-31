@@ -1,4 +1,4 @@
-title: "{}"
+title: "Salat med sød kartoffel og dild"
 draft: false
 weight: 1
 noOfServings: 2

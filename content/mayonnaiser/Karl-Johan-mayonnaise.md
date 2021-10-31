@@ -1,4 +1,4 @@
-title: "{}"
+title: "Karl Johan-mayonnaise"
 draft: false
 weight: 1
 noOfServings: 

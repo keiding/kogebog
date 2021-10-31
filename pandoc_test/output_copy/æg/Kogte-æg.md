@@ -1,4 +1,4 @@
-title: "{}"
+title: "Kogte æg"
 draft: false
 weight: 1
 noOfServings: 

@@ -1,4 +1,4 @@
-title: "{}"
+title: "Stegt aubergine"
 draft: false
 weight: 1
 noOfServings: 2

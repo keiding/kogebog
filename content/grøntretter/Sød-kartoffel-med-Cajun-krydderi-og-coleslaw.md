@@ -1,4 +1,4 @@
-title: "{}"
+title: "Sød kartoffel med Cajun-krydderi og coleslaw"
 draft: false
 weight: 1
 noOfServings: 2

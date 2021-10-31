@@ -1,4 +1,4 @@
-title: "{}"
+title: "Pommes røsti"
 draft: false
 weight: 1
 noOfServings: 2

@@ -1,4 +1,4 @@
-title: "{}"
+title: "Kastanjer"
 draft: false
 weight: 1
 noOfServings: 4

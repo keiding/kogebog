@@ -1,4 +1,4 @@
-title: "{}"
+title: "Rørt smør"
 draft: false
 weight: 1
 noOfServings: 

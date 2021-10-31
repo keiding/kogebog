@@ -1,4 +1,4 @@
-title: "{}"
+title: "Vilde ris i tomatsovs med stegt selleri"
 draft: false
 weight: 1
 noOfServings: 4

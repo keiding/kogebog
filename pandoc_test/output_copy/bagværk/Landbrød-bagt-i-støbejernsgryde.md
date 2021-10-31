@@ -1,4 +1,4 @@
-title: "{}"
+title: "Landbrød bagt i støbejernsgryde"
 draft: false
 weight: 1
 noOfServings: 

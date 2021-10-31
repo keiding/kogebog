@@ -1,4 +1,4 @@
-title: "{}"
+title: "Svampesauce"
 draft: false
 weight: 1
 noOfServings: 

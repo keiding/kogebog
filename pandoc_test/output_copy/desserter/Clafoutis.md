@@ -1,4 +1,4 @@
-title: "{}"
+title: "Clafoutis"
 draft: false
 weight: 1
 noOfServings: 8

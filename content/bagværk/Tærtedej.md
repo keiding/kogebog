@@ -1,4 +1,4 @@
-title: "{}"
+title: "Tærtedej"
 draft: false
 weight: 1
 noOfServings: 

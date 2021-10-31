@@ -1,4 +1,4 @@
-title: "{}"
+title: "Klassisk citronvinaigrette"
 draft: false
 weight: 1
 noOfServings: 

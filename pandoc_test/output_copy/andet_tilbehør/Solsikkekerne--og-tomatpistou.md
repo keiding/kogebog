@@ -1,4 +1,4 @@
-title: "{}"
+title: "Solsikkekerne- og tomatpistou"
 draft: false
 weight: 1
 noOfServings: 

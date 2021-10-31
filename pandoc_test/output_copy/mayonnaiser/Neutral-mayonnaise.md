@@ -1,4 +1,4 @@
-title: "{}"
+title: "Neutral mayonnaise"
 draft: false
 weight: 1
 noOfServings: 

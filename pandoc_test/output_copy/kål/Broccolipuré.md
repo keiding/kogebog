@@ -1,4 +1,4 @@
-title: "{}"
+title: "Broccolipuré"
 draft: false
 weight: 1
 noOfServings: 4

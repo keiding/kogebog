@@ -1,4 +1,4 @@
-title: "{}"
+title: "Ovnbagte stykker knoldselleri"
 draft: false
 weight: 1
 noOfServings: 4

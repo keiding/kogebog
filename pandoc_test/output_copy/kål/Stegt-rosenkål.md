@@ -1,4 +1,4 @@
-title: "{}"
+title: "Stegt rosenkål"
 draft: false
 weight: 1
 noOfServings: 2

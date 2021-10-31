@@ -1,4 +1,4 @@
-title: "{}"
+title: "Stort fuldkornsbrød"
 draft: false
 weight: 1
 noOfServings: 

@@ -1,4 +1,4 @@
-title: "{}"
+title: "Lyst brød"
 draft: false
 weight: 1
 noOfServings: 

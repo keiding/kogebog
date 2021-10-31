@@ -1,4 +1,4 @@
-title: "{}"
+title: "Sauterede kartofler"
 draft: false
 weight: 1
 noOfServings: 2

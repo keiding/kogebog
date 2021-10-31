@@ -1,4 +1,4 @@
-title: "{}"
+title: "Kolbecks vinaigrette"
 draft: false
 weight: 1
 noOfServings: 

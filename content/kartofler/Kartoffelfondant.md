@@ -1,4 +1,4 @@
-title: "{}"
+title: "Kartoffelfondant"
 draft: false
 weight: 1
 noOfServings: 2

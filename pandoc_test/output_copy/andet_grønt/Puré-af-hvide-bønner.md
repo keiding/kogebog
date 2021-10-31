@@ -1,4 +1,4 @@
-title: "{}"
+title: "Puré af hvide bønner"
 draft: false
 weight: 1
 noOfServings: 4-6

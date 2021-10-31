@@ -1,4 +1,4 @@
-title: "{}"
+title: "Balsamicodressing med sennep og honning"
 draft: false
 weight: 1
 noOfServings: 

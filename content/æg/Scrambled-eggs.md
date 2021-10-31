@@ -1,4 +1,4 @@
-title: "{}"
+title: "Scrambled eggs"
 draft: false
 weight: 1
 noOfServings: 2

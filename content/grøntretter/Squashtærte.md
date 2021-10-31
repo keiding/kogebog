@@ -1,4 +1,4 @@
-title: "{}"
+title: "Squashtærte"
 draft: false
 weight: 1
 noOfServings: 

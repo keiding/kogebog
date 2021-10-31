@@ -1,4 +1,4 @@
-title: "{}"
+title: "Laks med sauté af røde peberfrugter, fennikel, løg og rucola"
 draft: false
 weight: 1
 noOfServings: 

@@ -1,4 +1,4 @@
-title: "{}"
+title: "Pasta med svampe og græskar"
 draft: false
 weight: 1
 noOfServings: 4

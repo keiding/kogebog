@@ -1,4 +1,4 @@
-title: "{}"
+title: "Tatar af tørrede rødbeder"
 draft: false
 weight: 1
 noOfServings: 4

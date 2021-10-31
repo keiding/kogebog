@@ -1,4 +1,4 @@
-title: "{}"
+title: "Vildtsauce med Creme de Cassis"
 draft: false
 weight: 1
 noOfServings: 
