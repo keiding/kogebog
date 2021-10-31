@@ -86,7 +86,7 @@ def convert_format_recipe(path, root, filename, save):
     
             elif ingrident_bool is True and line != '':
 
-                tmp_ingredienser = tmp_ingredienser + '\t'+ '- ' + line + '\n' 
+                tmp_ingredienser = tmp_ingredienser + '  '+ '- ' + line + '\n' 
 
             elif opskrift_bool is True:
 
@@ -102,7 +102,7 @@ def convert_format_recipe(path, root, filename, save):
     
     if visited_ingredients is False: 
 
-        tmp_ingredienser = '\tingredients:\n'
+        tmp_ingredienser = '  ' + 'ingredients:\n'
 
     new_text = '---\n' + tmp_header + '\n' + 'draft: false\n' + 'weight: 1\n' + tmp_servering + tmp_ingredienser + tmp_opskrift
 
