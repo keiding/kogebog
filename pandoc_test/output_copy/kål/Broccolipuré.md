@@ -1,3 +1,4 @@
+---
 title: "Broccolipuré"
 draft: false
 weight: 1

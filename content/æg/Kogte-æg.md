@@ -1,3 +1,4 @@
+---
 title: "Kogte æg"
 draft: false
 weight: 1

@@ -1,3 +1,4 @@
+---
 title: "Stegt rosenkål"
 draft: false
 weight: 1

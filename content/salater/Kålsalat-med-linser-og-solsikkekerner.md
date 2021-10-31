@@ -1,3 +1,4 @@
+---
 title: "Kålsalat med linser og solsikkekerner"
 draft: false
 weight: 1

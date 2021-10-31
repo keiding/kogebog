@@ -1,3 +1,4 @@
+---
 title: "Beurre Blanc"
 draft: false
 weight: 1

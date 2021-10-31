@@ -1,3 +1,4 @@
+---
 title: "Græskarkernemayonnaise"
 draft: false
 weight: 1

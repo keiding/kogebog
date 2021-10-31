@@ -1,3 +1,4 @@
+---
 title: "Frikassé af grønkål og svampe"
 draft: false
 weight: 1

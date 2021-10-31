@@ -1,3 +1,4 @@
+---
 title: "Chorizo piperade"
 draft: false
 weight: 1

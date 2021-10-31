@@ -1,3 +1,4 @@
+---
 title: "Kogte nye kartofler"
 draft: false
 weight: 1

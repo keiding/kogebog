@@ -1,3 +1,4 @@
+---
 title: "Den nemme metode"
 draft: false
 weight: 1

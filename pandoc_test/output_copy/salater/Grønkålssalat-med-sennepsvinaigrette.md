@@ -1,3 +1,4 @@
+---
 title: "Grønkålssalat med sennepsvinaigrette"
 draft: false
 weight: 1

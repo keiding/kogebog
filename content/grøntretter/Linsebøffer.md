@@ -1,3 +1,4 @@
+---
 title: "Linsebøffer"
 draft: false
 weight: 1

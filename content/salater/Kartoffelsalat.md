@@ -1,3 +1,4 @@
+---
 title: "Kartoffelsalat"
 draft: false
 weight: 1

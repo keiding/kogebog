@@ -1,3 +1,4 @@
+---
 title: "Græskarpuré"
 draft: false
 weight: 1

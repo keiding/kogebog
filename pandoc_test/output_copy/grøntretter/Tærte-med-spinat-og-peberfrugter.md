@@ -1,3 +1,4 @@
+---
 title: "Tærte med spinat og peberfrugter"
 draft: false
 weight: 1

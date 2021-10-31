@@ -1,3 +1,4 @@
+---
 title: "Scrambled eggs"
 draft: false
 weight: 1

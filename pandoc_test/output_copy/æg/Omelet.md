@@ -1,3 +1,4 @@
+---
 title: "Omelet"
 draft: false
 weight: 1

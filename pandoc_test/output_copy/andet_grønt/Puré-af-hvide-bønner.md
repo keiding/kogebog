@@ -1,3 +1,4 @@
+---
 title: "Puré af hvide bønner"
 draft: false
 weight: 1

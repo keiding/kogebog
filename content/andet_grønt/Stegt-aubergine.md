@@ -1,3 +1,4 @@
+---
 title: "Stegt aubergine"
 draft: false
 weight: 1

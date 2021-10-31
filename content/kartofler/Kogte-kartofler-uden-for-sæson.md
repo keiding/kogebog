@@ -1,3 +1,4 @@
+---
 title: "Kogte kartofler uden for sæson"
 draft: false
 weight: 1

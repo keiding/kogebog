@@ -1,3 +1,4 @@
+---
 title: "Clafoutis"
 draft: false
 weight: 1

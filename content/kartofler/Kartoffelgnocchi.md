@@ -1,3 +1,4 @@
+---
 title: "Kartoffelgnocchi"
 draft: false
 weight: 1

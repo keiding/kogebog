@@ -1,3 +1,4 @@
+---
 title: "Smørdampet spidskål"
 draft: false
 weight: 1

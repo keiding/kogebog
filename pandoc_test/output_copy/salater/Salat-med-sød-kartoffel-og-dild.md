@@ -1,3 +1,4 @@
+---
 title: "Salat med sød kartoffel og dild"
 draft: false
 weight: 1

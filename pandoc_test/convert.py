@@ -103,7 +103,7 @@ def convert_format_recipe(path, root, filename, save):
 
         tmp_ingredienser = '\tingredients:\n'
 
-    new_text = tmp_header + '\n' + 'draft: false\n' + 'weight: 1\n' + tmp_servering + tmp_ingredienser + tmp_opskrift
+    new_text = '---\n' + tmp_header + '\n' + 'draft: false\n' + 'weight: 1\n' + tmp_servering + tmp_ingredienser + tmp_opskrift
 
     new_filename = filename[5:-6] + '.md'
     new_filename = os.path.join(root, new_filename)

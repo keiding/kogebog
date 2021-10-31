@@ -1,3 +1,4 @@
+---
 title: "Boeuf Bourguignon"
 draft: false
 weight: 1
