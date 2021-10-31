@@ -12,7 +12,7 @@ with open(filename, 'r') as f:
     for line in text.splitlines():
 
         # get heading, remove ## and spaces
-        if '##' in line:
+        if '##' in line and '###' not in line:
             tmp_header = line[2:].strip()
             heading = 'title: ' + '"{}"'.format(tmp_header)
         
