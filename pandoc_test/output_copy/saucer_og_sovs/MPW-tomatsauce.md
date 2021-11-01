@@ -1,7 +1,7 @@
 ---
 title: MPW-tomatsauce
+weight: 10
 draft: false
-weight: 1
 noOfServings: 
 ingredients:
   - 100-150 gram søde cherrytomater

@@ -1,7 +1,7 @@
 ---
 title: Persillepesto med solsikkekerner
+weight: 10
 draft: false
-weight: 1
 noOfServings: 
 ingredients:
   - 1 stort bundt persille (stilkene kan bruges eller gemmes til anden brug)

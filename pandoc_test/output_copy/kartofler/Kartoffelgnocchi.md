@@ -1,7 +1,7 @@
 ---
 title: Kartoffelgnocchi
+weight: 10
 draft: false
-weight: 1
 noOfServings: 4
 ingredients:
   - 6 bagekartofler/500 gram kartoffelpuré

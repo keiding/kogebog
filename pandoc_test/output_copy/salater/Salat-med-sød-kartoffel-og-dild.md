@@ -1,7 +1,7 @@
 ---
 title: Salat med sød kartoffel og dild
+weight: 10
 draft: false
-weight: 1
 noOfServings: 2
 ingredients:
   - 1 stor sød kartoffel

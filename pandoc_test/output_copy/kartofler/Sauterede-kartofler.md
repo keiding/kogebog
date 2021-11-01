@@ -1,7 +1,7 @@
 ---
 title: Sauterede kartofler
+weight: 10
 draft: false
-weight: 1
 noOfServings: 2
 ingredients:
   - 2-3 store bagekartofler

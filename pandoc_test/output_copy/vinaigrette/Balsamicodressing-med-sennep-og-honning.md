@@ -1,7 +1,7 @@
 ---
 title: Balsamicodressing med sennep og honning
+weight: 10
 draft: false
-weight: 1
 noOfServings: 
 ingredients:
   - 1 tsk. akaciehonning

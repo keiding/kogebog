@@ -1,7 +1,7 @@
 ---
 title: Squashtærte
+weight: 10
 draft: false
-weight: 1
 noOfServings: 
 ingredients:
   - 3 store økologiske squash

@@ -1,7 +1,7 @@
 ---
 title: Broccolipuré
+weight: 10
 draft: false
-weight: 1
 noOfServings: 4
 ingredients:
   - 1 hoved broccoli

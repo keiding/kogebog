@@ -1,7 +1,7 @@
 ---
 title: Boeuf Bourguignon
+weight: 10
 draft: false
-weight: 1
 noOfServings: 4
 ingredients:
   - 500 gram trimmet skulder eller kæbe fra en okse

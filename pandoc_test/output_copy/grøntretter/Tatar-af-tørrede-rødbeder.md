@@ -1,7 +1,7 @@
 ---
 title: Tatar af tørrede rødbeder
+weight: 10
 draft: false
-weight: 1
 noOfServings: 4
 ingredients:
   - 8 rødbeder

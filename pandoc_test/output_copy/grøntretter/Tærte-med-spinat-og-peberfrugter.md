@@ -1,7 +1,7 @@
 ---
 title: Tærte med spinat og peberfrugter
+weight: 10
 draft: false
-weight: 1
 noOfServings: 4
 ingredients:
   - 1 portion tærtedej (side 169)

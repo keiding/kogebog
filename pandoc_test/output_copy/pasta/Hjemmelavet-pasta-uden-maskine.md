@@ -1,7 +1,7 @@
 ---
 title: Hjemmelavet pasta uden maskine
+weight: 10
 draft: false
-weight: 1
 noOfServings: 
 ingredients:
   - 2 æg

@@ -1,7 +1,7 @@
 ---
 title: Pasta med linseragout
+weight: 10
 draft: false
-weight: 1
 noOfServings: 
 ingredients:
   - 200 gram Puy-linser (også solgt som delikatesselinser)

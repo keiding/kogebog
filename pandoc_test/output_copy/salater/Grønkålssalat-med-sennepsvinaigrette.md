@@ -1,7 +1,7 @@
 ---
 title: Grønkålssalat med sennepsvinaigrette
+weight: 10
 draft: false
-weight: 1
 noOfServings: 2
 ingredients:
   - 150 gram grønkål

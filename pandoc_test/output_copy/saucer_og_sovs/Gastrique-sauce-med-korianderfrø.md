@@ -1,7 +1,7 @@
 ---
 title: Gastrique-sauce med korianderfrø
+weight: 10
 draft: false
-weight: 1
 noOfServings: 
 ingredients:
   - 60 gram brun farin

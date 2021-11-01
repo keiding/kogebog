@@ -1,7 +1,7 @@
 ---
 title: Stegt spidskål
+weight: 10
 draft: false
-weight: 1
 noOfServings: 2
 ingredients:
   - 1 lille spidskål

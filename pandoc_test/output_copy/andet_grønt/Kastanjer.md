@@ -1,7 +1,7 @@
 ---
 title: Kastanjer
+weight: 10
 draft: false
-weight: 1
 noOfServings: 4
 ingredients:
   - 600 gram spisekastanjer

@@ -1,7 +1,7 @@
 ---
 title: Klassisk citronvinaigrette
+weight: 10
 draft: false
-weight: 1
 noOfServings: 
 ingredients:
   - 1 økologisk citron

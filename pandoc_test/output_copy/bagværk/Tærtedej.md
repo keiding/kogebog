@@ -1,7 +1,7 @@
 ---
 title: Tærtedej
+weight: 10
 draft: false
-weight: 1
 noOfServings: 
 ingredients:
   - 250 gram hvedemel

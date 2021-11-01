@@ -1,7 +1,7 @@
 ---
 title: Surdejsboller
+weight: 10
 draft: false
-weight: 1
 noOfServings: 
 ingredients:
   - 700 gram koldt vand

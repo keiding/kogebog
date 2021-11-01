@@ -1,7 +1,7 @@
 ---
 title: Saltbagt selleri
+weight: 10
 draft: false
-weight: 1
 noOfServings: 6-8
 ingredients:
   - 1 hoved selleri

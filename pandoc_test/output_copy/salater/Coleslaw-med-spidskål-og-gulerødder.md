@@ -1,7 +1,7 @@
 ---
 title: Coleslaw med spidskål og gulerødder
+weight: 10
 draft: false
-weight: 1
 noOfServings: 2
 ingredients:
   - 3 spsk. neutral mayonnaise

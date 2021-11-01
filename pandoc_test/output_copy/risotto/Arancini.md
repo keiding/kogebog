@@ -1,7 +1,7 @@
 ---
 title: Arancini
+weight: 10
 draft: false
-weight: 1
 noOfServings: 2-4
 ingredients:
   - 900 gram kold risotto

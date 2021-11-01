@@ -1,7 +1,7 @@
 ---
 title: Pasta med spinat i fløde
+weight: 10
 draft: false
-weight: 1
 noOfServings: 4
 ingredients:
   - 500 gram god tørret pasta

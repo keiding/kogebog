@@ -1,7 +1,7 @@
 ---
 title: Laks med sauté af røde peberfrugter, fennikel, løg og rucola
+weight: 10
 draft: false
-weight: 1
 noOfServings: 
 ingredients:
   - 2 portioner laksefilet

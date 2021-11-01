@@ -1,7 +1,7 @@
 ---
 title: Clafoutis
+weight: 10
 draft: false
-weight: 1
 noOfServings: 8
 ingredients:
   - 400-450 gram udstenede kirsebær

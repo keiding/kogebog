@@ -1,7 +1,7 @@
 ---
 title: Råstegte kartofler
+weight: 10
 draft: false
-weight: 1
 noOfServings: 3-4
 ingredients:
   - 1 kilo små spisekartofler

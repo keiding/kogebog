@@ -1,7 +1,7 @@
 ---
 title: Rejer med hvide asparges og dild-beurre blanc
+weight: 10
 draft: false
-weight: 1
 noOfServings: 
 ingredients:
   - 170-200 gram forkogte rejer i så god kvalitet som kan findes

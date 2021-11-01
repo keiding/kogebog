@@ -1,7 +1,7 @@
 ---
 title: Ratatouille
+weight: 10
 draft: false
-weight: 1
 noOfServings: 4-2
   ingredients:
 ---

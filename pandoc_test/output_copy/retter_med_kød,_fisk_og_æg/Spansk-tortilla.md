@@ -1,7 +1,7 @@
 ---
 title: Spansk tortilla
+weight: 10
 draft: false
-weight: 1
 noOfServings: 4
 ingredients:
   - 8 æg

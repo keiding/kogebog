@@ -1,7 +1,7 @@
 ---
 title: Chorizo med bønner og tomat
+weight: 10
 draft: false
-weight: 1
 noOfServings: 2
 ingredients:
   - 2 løg

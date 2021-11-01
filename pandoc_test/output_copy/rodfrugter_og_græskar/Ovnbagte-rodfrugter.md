@@ -1,7 +1,7 @@
 ---
 title: Ovnbagte rodfrugter
+weight: 10
 draft: false
-weight: 1
 noOfServings: 4
 ingredients:
   - 1 kilo blandede rodfrugter

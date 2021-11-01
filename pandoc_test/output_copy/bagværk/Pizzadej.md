@@ -1,7 +1,7 @@
 ---
 title: Pizzadej
+weight: 10
 draft: false
-weight: 1
 noOfServings: 2
 ingredients:
   - 300-320 gram tipo 00 hvedemel

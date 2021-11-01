@@ -1,7 +1,7 @@
 ---
 title: Kogte kartofler uden for sæson
+weight: 10
 draft: false
-weight: 1
 noOfServings: 4
 ingredients:
   - 1 kilo spisekartofler

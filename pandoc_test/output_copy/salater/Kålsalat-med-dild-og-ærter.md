@@ -1,7 +1,7 @@
 ---
 title: Kålsalat med dild og ærter
+weight: 10
 draft: false
-weight: 1
 noOfServings: 4
 ingredients:
   - 1 lille hoved spidskål

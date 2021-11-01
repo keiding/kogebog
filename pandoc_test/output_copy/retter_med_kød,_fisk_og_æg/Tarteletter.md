@@ -1,7 +1,7 @@
 ---
 title: Tarteletter
+weight: 10
 draft: false
-weight: 1
 noOfServings: 6
 ingredients:
   - 1 hel høne

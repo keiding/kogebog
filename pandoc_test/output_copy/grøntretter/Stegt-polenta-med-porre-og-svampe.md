@@ -1,7 +1,7 @@
 ---
 title: Stegt polenta med porre og svampe
+weight: 10
 draft: false
-weight: 1
 noOfServings: 2
 ingredients:
   - 1 dl polenta

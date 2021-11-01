@@ -1,7 +1,7 @@
 ---
 title: Selleripuré
+weight: 10
 draft: false
-weight: 1
 noOfServings: 4
 ingredients:
   - ½ hoved selleri

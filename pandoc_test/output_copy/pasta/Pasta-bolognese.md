@@ -1,7 +1,7 @@
 ---
 title: Pasta bolognese
+weight: 10
 draft: false
-weight: 1
 noOfServings: 4
 ingredients:
   - 500 gram hakket oksekød 9-15 %

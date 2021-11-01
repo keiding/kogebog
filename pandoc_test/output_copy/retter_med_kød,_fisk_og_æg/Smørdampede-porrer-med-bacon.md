@@ -1,7 +1,7 @@
 ---
 title: Smørdampede porrer med bacon
+weight: 10
 draft: false
-weight: 1
 noOfServings: 
 ingredients:
   - 4 porrer

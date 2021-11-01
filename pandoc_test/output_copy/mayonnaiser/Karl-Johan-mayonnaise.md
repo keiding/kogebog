@@ -1,7 +1,7 @@
 ---
 title: Karl Johan-mayonnaise
+weight: 10
 draft: false
-weight: 1
 noOfServings: 
 ingredients:
   - 1 bæger pasteuriserede æggeblommer

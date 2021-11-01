@@ -1,7 +1,7 @@
 ---
 title: Grillede bagte løg
+weight: 10
 draft: false
-weight: 1
 noOfServings: 4
 ingredients:
   - 500 gram løg, medium størrelse

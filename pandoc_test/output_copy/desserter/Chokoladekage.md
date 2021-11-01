@@ -1,7 +1,7 @@
 ---
 title: Chokoladekage
+weight: 10
 draft: false
-weight: 1
 noOfServings: 8
 ingredients:
   - 100 gram blødt usaltet smør

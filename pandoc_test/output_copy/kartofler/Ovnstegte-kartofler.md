@@ -1,7 +1,7 @@
 ---
 title: Ovnstegte kartofler
+weight: 10
 draft: false
-weight: 1
 noOfServings: 4
 ingredients:
   - 5-6 store bagekartofler

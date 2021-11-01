@@ -1,7 +1,7 @@
 ---
 title: Bananbrød
+weight: 10
 draft: false
-weight: 1
 noOfServings: 8
 ingredients:
   - 285 gram mel

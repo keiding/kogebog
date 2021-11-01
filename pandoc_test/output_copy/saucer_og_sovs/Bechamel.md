@@ -1,7 +1,7 @@
 ---
 title: Bechamel
+weight: 10
 draft: false
-weight: 1
 noOfServings: 
 ingredients:
   - 50 gram smør

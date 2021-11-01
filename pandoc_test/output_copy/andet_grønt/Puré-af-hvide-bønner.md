@@ -1,7 +1,7 @@
 ---
 title: Puré af hvide bønner
+weight: 10
 draft: false
-weight: 1
 noOfServings: 4-6
 ingredients:
   - 500 gram hvide bønner

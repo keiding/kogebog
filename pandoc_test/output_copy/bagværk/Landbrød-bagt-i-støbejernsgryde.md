@@ -1,7 +1,7 @@
 ---
 title: Landbrød bagt i støbejernsgryde
+weight: 10
 draft: false
-weight: 1
 noOfServings: 
 ingredients:
   - 440 gram koldt vand

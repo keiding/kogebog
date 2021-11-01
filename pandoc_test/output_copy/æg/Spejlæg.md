@@ -1,7 +1,7 @@
 ---
 title: Spejlæg
+weight: 10
 draft: false
-weight: 1
 noOfServings: 
 ingredients:
   - Æg

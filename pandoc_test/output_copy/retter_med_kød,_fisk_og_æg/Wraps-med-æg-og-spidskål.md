@@ -1,7 +1,7 @@
 ---
 title: Wraps med æg og spidskål
+weight: 10
 draft: false
-weight: 1
 noOfServings: 2
 ingredients:
   - 4 madpandekager/tortillas
