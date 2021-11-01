@@ -1,7 +1,8 @@
 ---
 title: Linsesuppe med røget paprika
-weight: 10
+weight: 25
 draft: false
+date: 2021-10-31 23:15:06.790431 +0100 CET m=+0.045181293
 noOfServings: 6
 ingredients:
   - ½ dl olivenolie
@@ -12,7 +13,7 @@ ingredients:
   - 2 dl Puy-linser
   - 3 spsk. tomatpuré
   - 1 dåse hakkede tomater
-  - **¼** tsk. røget paprika
+  - ¼ tsk. røget paprika
   - ½ tsk. cayennepeber
   - 1½ dl tør vermouth
   - 4-5 dl hønsefond
@@ -21,6 +22,8 @@ ingredients:
   - Sukker
   - Balsamico
 ---
+
+
 
 Hak hvidløget fint, og kom i en stor gryde sammen med olivenolien. Sæt
 over lav varme, så hvidløgene trækker smag ud i olien. Imens skrælles

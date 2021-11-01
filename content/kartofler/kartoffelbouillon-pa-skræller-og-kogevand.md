@@ -1,8 +1,8 @@
 ---
 title: Kartoffelbouillon på skræller og kogevand
-weight: 10
+weight: 30
 draft: false
-noOfServings: 
+date: 2021-10-31 23:15:06.785521 +0100 CET m=+0.040271585
 ingredients:
   - Skræl fra 500 gram kartofler
   - 1 fed hvidløg
@@ -10,6 +10,8 @@ ingredients:
   - 10 korianderfrø
   - Peber
 ---
+
+
 
 Skræl kartoflerne, og vend skrællerne i lidt neutral olie med et nip
 salt. Spred i ét lag på en bradepande, og brun i ovnen ved 175 grader
@@ -29,4 +31,6 @@ bouillon. Det skal dog bemærkes, at vælger man gøre dette, skal man
 reducere saltindholdet i kartoflernes kogevand en anelse; her kan man
 med fordel sigte efter at vandet smager som en lidt kedelig suppe.*
 
+*\
+*
 

@@ -1,7 +1,8 @@
 ---
 title: Kartoffelmos
-weight: 10
+weight: 45
 draft: false
+date: 2021-10-31 23:15:06.785777 +0100 CET m=+0.040527001
 noOfServings: 4
 ingredients:
   - 7 store bagekartofler
@@ -10,6 +11,8 @@ ingredients:
   - Salt
   - Peber
 ---
+
+
 
 Skær bagekartofler i ensartede store stykker, og kog i usaltet vand
 indtil de er meget møre. Dræn i et dørslag, og lad kartoflerne dampe af

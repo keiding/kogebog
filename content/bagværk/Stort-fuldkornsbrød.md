@@ -1,8 +1,8 @@
 ---
 title: Stort fuldkornsbrød
-weight: 10
+weight: 50
 draft: false
-noOfServings: 
+date: 2021-10-31 23:15:06.796034 +0100 CET m=+0.050784126
 ingredients:
   - 660 gram koldt vand
   - 600 gram stenkværnet fuldkornshvedemel
@@ -10,6 +10,8 @@ ingredients:
   - 10 gram gær
   - 20 gram salt
 ---
+
+
 
 Rør gæren ud i vandet, og bland derefter med de resterende ingredienser.
 Rør på maskine i 15-20 minutter på medium hastighed, og lad dejen
@@ -23,4 +25,5 @@ i cirka 40 minutter.
 go-to-opskrift, hvis man bare skal bage til at have noget godt brød i
 fryseren, der giver en god mæthed. Derfor er brødet her velegnet som
 hverdagsbrød.\
+*
 

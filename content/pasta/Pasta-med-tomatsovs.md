@@ -1,7 +1,8 @@
 ---
 title: Pasta med tomatsovs
-weight: 10
+weight: 15
 draft: false
+date: 2021-10-31 23:15:06.78865 +0100 CET m=+0.043400293
 noOfServings: 4
 ingredients:
   - 500 gram tørret pasta
@@ -11,6 +12,8 @@ ingredients:
   - Salt
   - Peber
 ---
+
+
 
 Kog 500 gram god tørret pasta i rigeligt saltet vand. Når pastaen har
 1-2 tilbage af den vejledende kogetid, tages en kop kogevand fra, og

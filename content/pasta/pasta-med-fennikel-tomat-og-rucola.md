@@ -1,7 +1,8 @@
 ---
 title: Pasta med fennikel, tomat og rucola
-weight: 10
+weight: 20
 draft: false
+date: 2021-10-31 23:15:06.788737 +0100 CET m=+0.043487335
 noOfServings: 4
 ingredients:
   - 500 gram tørret pasta
@@ -11,6 +12,8 @@ ingredients:
   - Salt
   - Peber
 ---
+
+
 
 Skær et hoved fennikel i både med roden intakt, krydr med salt og peber,
 og steg gyldne og møre i olivenolie. Mens bådene af fennikel steger,

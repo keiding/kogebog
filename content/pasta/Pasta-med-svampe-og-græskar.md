@@ -1,7 +1,8 @@
 ---
 title: Pasta med svampe og græskar
-weight: 10
+weight: 40
 draft: false
+date: 2021-10-31 23:15:06.789061 +0100 CET m=+0.043811793
 noOfServings: 4
 ingredients:
   - 500 gram god tørret fuldkornspasta
@@ -11,6 +12,8 @@ ingredients:
   - 80 gram rucola
   - Vinaigrette
 ---
+
+
 
 Kog pastaen i saltet vand. Imens renses svampene og skæres i kvarte,
 salaten skylles og solsikkekernerne ristes gyldne og sættes til

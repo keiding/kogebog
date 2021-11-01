@@ -1,8 +1,8 @@
 ---
 title: Surdejsboller
-weight: 10
+weight: 30
 draft: false
-noOfServings: 
+date: 2021-10-31 23:15:06.795728 +0100 CET m=+0.050478501
 ingredients:
   - 700 gram koldt vand
   - 4 spsk. surdej
@@ -13,6 +13,8 @@ ingredients:
   - 100 gram finvalsede havregryn
   - 22 gram salt
 ---
+
+
 
 Bland vand, surdej og gær. Tilsæt mel og salt, og ælt indtil elastisk,
 cirka 15-20 minutter på middellav hastighed i en røremaskine. Lad dejen

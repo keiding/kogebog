@@ -1,8 +1,8 @@
 ---
 title: Arancini
-weight: 10
+weight: 20
 draft: false
-noOfServings: 2-4
+date: 2021-10-31 23:15:06.789657 +0100 CET m=+0.044407293
 ingredients:
   - 900 gram kold risotto
   - 1 æg
@@ -13,6 +13,8 @@ ingredients:
   - Salt
   - Peber
 ---
+
+
 
 Rør æg og den kolde risotto sammen, og form til små kugler på størrelse
 med en golfbold. Sæt eventuelt de formede kugler på køl en halv time, så
@@ -42,5 +44,13 @@ stykker mozzarella. Som ved al fritering -- især uden en friteuse med
 termostat -- skal man være opmærksom på den varme olie. Hav eventuelt et
 opvredet viskestykke klar, og undlad naturligvis at komme vand i den
 varme olie.*
+
+*\
+*
+
+
+
+
+
 
 

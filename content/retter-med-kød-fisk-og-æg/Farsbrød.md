@@ -1,7 +1,8 @@
 ---
 title: Farsbrød
-weight: 10
+weight: 45
 draft: false
+date: 2021-10-31 23:15:06.792591 +0100 CET m=+0.047341085
 noOfServings: 6
 ingredients:
   - 500 gram hakket oksekød
@@ -15,6 +16,8 @@ ingredients:
   - Salt
   - Peber
 ---
+
+
 
 Udblød rasp i sødmælk en halv time. Imens steges et fintsnittet løg og
 et fed hvidløg indtil klaret, hvorefter de afkøles. Når raspen har

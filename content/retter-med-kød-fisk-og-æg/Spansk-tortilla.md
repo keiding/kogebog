@@ -2,6 +2,7 @@
 title: Spansk tortilla
 weight: 10
 draft: false
+date: 2021-10-31 23:15:06.792013 +0100 CET m=+0.046763626
 noOfServings: 4
 ingredients:
   - 8 æg
@@ -13,6 +14,8 @@ ingredients:
   - Salt
   - Peber
 ---
+
+
 
 Steg løg og hvidløg indtil let karamelliserede, og krydr med salt og
 peber. Det er vigtigt, at grøntsagerne steges så længe at de frigiver

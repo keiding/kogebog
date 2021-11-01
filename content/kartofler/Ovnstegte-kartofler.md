@@ -1,7 +1,8 @@
 ---
 title: Ovnstegte kartofler
-weight: 10
+weight: 25
 draft: false
+date: 2021-10-31 23:15:06.785431 +0100 CET m=+0.040181126
 noOfServings: 4
 ingredients:
   - 5-6 store bagekartofler
@@ -9,6 +10,8 @@ ingredients:
   - Salt
   - Peber
 ---
+
+
 
 Skræl kartoflerne, skær i halve eller kvarte på den lange led, afhængigt
 af størrelse, og kom i koldt saltet vand. Bring i kog, og blanchér i 5

@@ -1,7 +1,8 @@
 ---
 title: Orientalsk hokkaidosuppe
-weight: 10
+weight: 15
 draft: false
+date: 2021-10-31 23:15:06.790201 +0100 CET m=+0.044951751
 noOfServings: 6
 ingredients:
   - 1 hokkaidogræskar
@@ -13,6 +14,8 @@ ingredients:
   - 1-1½ spsk. sambal oelek (kan erstattes med en anden form for chili)
   - Fiskesauce
 ---
+
+
 
 Skær græsskaret i ensartede tern, og sautér over høj varme med et stort
 nip salt. Tilsæt grove skiver ingefær, hel stjerneanis samt 3

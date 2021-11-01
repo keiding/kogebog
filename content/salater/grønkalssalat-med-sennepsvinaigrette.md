@@ -1,7 +1,8 @@
 ---
 title: Grønkålssalat med sennepsvinaigrette
-weight: 10
+weight: 35
 draft: false
+date: 2021-10-31 23:15:06.791648 +0100 CET m=+0.046398043
 noOfServings: 2
 ingredients:
   - 150 gram grønkål
@@ -11,6 +12,8 @@ ingredients:
   - Sennepsvinaigrette
   - Parmesan
 ---
+
+
 
 Befri bladene på grønkålen fra de grove stilke, og kassér stilkene. Skyl
 bladene, og tør dem. Skær den nederste del af de grønne asparges af, og

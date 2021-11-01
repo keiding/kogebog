@@ -1,8 +1,8 @@
 ---
 title: Cæsardressing
-weight: 10
+weight: 25
 draft: false
-noOfServings: 
+date: 2021-10-31 23:15:06.794432 +0100 CET m=+0.049182376
 ingredients:
   - 2 bægre pasteuriserede æggeblommer
   - 250 ml. neutral olie
@@ -16,6 +16,8 @@ ingredients:
   - Peber
 ---
 
+
+
 Saml alle ingredienserne, undtagen olie og vand, i et blenderglas, og
 kør glat med en stavblender. Tilføj olien og vandet, og blend dressingen
 sammen -- hold eventuelt en hånd over blenderglasset, da det kan sprøjte
@@ -27,4 +29,10 @@ som piskefløde.
 *Note: Cæsardressing kan få det meste til at smage godt, og kan nemt
 bruges til andet en cæsarsalat; undlader man parmesanen, har man dybest
 set en traditionel carpaccio-dressing.*
+
+
+
+
+
+
 

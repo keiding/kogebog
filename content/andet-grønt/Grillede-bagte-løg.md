@@ -2,6 +2,7 @@
 title: Grillede bagte løg
 weight: 10
 draft: false
+date: 2021-10-31 23:15:06.787515 +0100 CET m=+0.042264876
 noOfServings: 4
 ingredients:
   - 500 gram løg, medium størrelse
@@ -9,6 +10,8 @@ ingredients:
   - Neutral olie
   - Salt
 ---
+
+
 
 Skær et kryds i bunden af de upillede løg -- blot nogle få millimeter,
 så fugten kan slippe ud under bagningen. Løgene lægges på et leje af

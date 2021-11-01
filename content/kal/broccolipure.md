@@ -1,7 +1,8 @@
 ---
 title: Broccolipuré
-weight: 10
+weight: 5
 draft: false
+date: 2021-10-31 23:15:06.786658 +0100 CET m=+0.041408543
 noOfServings: 4
 ingredients:
   - 1 hoved broccoli
@@ -10,6 +11,8 @@ ingredients:
   - Salt
   - Peber
 ---
+
+
 
 Et stort hoved broccoli deles i små buketter og koges møre i saltet
 vand. Når en urtekniv kan glide igennem uden modstand, kommes de i en

@@ -1,7 +1,8 @@
 ---
 title: Wraps med æg og spidskål
-weight: 10
+weight: 15
 draft: false
+date: 2021-10-31 23:15:06.792095 +0100 CET m=+0.046845085
 noOfServings: 2
 ingredients:
   - 4 madpandekager/tortillas
@@ -16,6 +17,8 @@ ingredients:
   - Neutral olie
   - Salt
 ---
+
+
 
 Fjern de yderste blade fra spidskålet, og hak det groft. Varm en pande
 med høje sider over middel varme, og kom en anelse neutral olie ved.

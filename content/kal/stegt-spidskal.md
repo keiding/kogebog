@@ -1,7 +1,8 @@
 ---
 title: Stegt spidskål
-weight: 10
+weight: 15
 draft: false
+date: 2021-10-31 23:15:06.786843 +0100 CET m=+0.041593251
 noOfServings: 2
 ingredients:
   - 1 lille spidskål
@@ -9,6 +10,8 @@ ingredients:
   - Salt
   - Peber
 ---
+
+
 
 Spidskål deles i kvarte eller halve afhængigt af kålens størrelse. Krydr
 med salt, og steg i olie på skæresiden indtil denne er kraftigt brunet

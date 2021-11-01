@@ -1,7 +1,8 @@
 ---
 title: Stegt rosenkål
-weight: 10
+weight: 25
 draft: false
+date: 2021-10-31 23:15:06.787013 +0100 CET m=+0.041763293
 noOfServings: 2
 ingredients:
   - 200 gram rosenkål
@@ -9,6 +10,8 @@ ingredients:
   - Salt
   - Peber
 ---
+
+
 
 Skær bunden af rosenkålen, og pil de yderste blade af. Skyl de ordnede
 rosenkål, og tør i et rent klæde eller dryp af i et dørslag. Halvér

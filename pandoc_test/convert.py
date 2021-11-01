@@ -177,7 +177,7 @@ def rename_folders(dir):
 
                     continue # don't treat folders already renamed 
 
-                if char != '-' and char.isnumeric() is False:
+                if char != '-' and char.isnumeric() is False and char != ',':
 
                     new_name = new_name + char.lower()
                     first_character_passed = True

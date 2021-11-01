@@ -1,7 +1,8 @@
 ---
 title: Chokoladekage
-weight: 10
+weight: 40
 draft: false
+date: 2021-10-31 23:15:06.796769 +0100 CET m=+0.051519376
 noOfServings: 8
 ingredients:
   - 100 gram blødt usaltet smør
@@ -10,6 +11,8 @@ ingredients:
   - 133 gram marcipan
   - 4 æg
 ---
+
+
 
 Tag en 18 cm springform, beklæd bunden med et tilskåret stykke madpapir,
 og smør hele formen grundigt med smør. Forvarm en ovn til 180 grader
@@ -26,4 +29,6 @@ kagedej hænger ved. Lad kagen køle i springformen, før den tages ud.
 *Note: Kagen er meget rig, så servér den gerne med noget frisk,
 eventuelt frisk frugt eller en sorbet.*
 
+*\
+*
 

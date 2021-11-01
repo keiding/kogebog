@@ -1,7 +1,8 @@
 ---
 title: Pasta med squash og ærter
-weight: 10
+weight: 50
 draft: false
+date: 2021-10-31 23:15:06.789236 +0100 CET m=+0.043986168
 noOfServings: 2
 ingredients:
   - 1 portion hjemmelavet pasta skåret til pappardelle
@@ -13,6 +14,8 @@ ingredients:
   - Salt
   - Peber
 ---
+
+
 
 Bring en gryde med rigeligt saltet vand i kog. Sæt en pande over medium
 varme, kom vermouth ved, og reducér til det halve. Trim top og bund af
@@ -29,4 +32,10 @@ minutter, og smag til med salt, peber og citronsaft.
 få gode ingredienser. Derfor er det vigtigt at pastaen er af god
 kvalitet, hvis ikke hjemlavet, samt at squashen er lille og økologisk,
 så den forbliver fast efter tilberedning.*
+
+
+
+
+
+
 

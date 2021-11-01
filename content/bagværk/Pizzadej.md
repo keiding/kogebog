@@ -1,7 +1,8 @@
 ---
 title: Pizzadej
-weight: 10
+weight: 55
 draft: false
+date: 2021-10-31 23:15:06.796101 +0100 CET m=+0.050851835
 noOfServings: 2
 ingredients:
   - 300-320 gram tipo 00 hvedemel
@@ -10,6 +11,8 @@ ingredients:
   - 1½ spsk. olivenolie
   - 180 gram koldt vand
 ---
+
+
 
 Rør gæren ud i det kolde vand, og bland efterfølgende med 300 gram mel
 samt salt og olivenolie. Rør på medium hastighed, eller ælt, indtil det

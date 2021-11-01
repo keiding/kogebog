@@ -1,7 +1,8 @@
 ---
 title: Puré af hvide bønner
-weight: 10
+weight: 5
 draft: false
+date: 2021-10-31 23:15:06.787432 +0100 CET m=+0.042182001
 noOfServings: 4-6
 ingredients:
   - 500 gram hvide bønner
@@ -10,6 +11,8 @@ ingredients:
   - Salt
   - Citronsaft
 ---
+
+
 
 Udblød hvide bønner natten over i koldt vand. Forvent, at de dobler i
 volumen mens de ligger i blød. Kog bønnerne roligt indtil møre, cirka en

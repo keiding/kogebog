@@ -1,7 +1,8 @@
 ---
 title: Confiteret andelår
-weight: 10
+weight: 60
 draft: false
+date: 2021-10-31 23:15:06.792826 +0100 CET m=+0.047576751
 noOfServings: 4
 ingredients:
   - 4 andelår
@@ -10,6 +11,8 @@ ingredients:
   - 2-3 enebær
   - Salt
 ---
+
+
 
 I en minihakker eller morter køres salt, peber, timian, rosmarin,
 laurbærblade og enebær til et groft pulver. Andelår saltes let med
@@ -36,4 +39,6 @@ en lun ovn.
 vigtigt, at den bøtte, man bruger til at salte sine andelår i, er meget
 ren.*
 
+*\
+*
 

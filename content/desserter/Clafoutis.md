@@ -1,7 +1,8 @@
 ---
 title: Clafoutis
-weight: 10
+weight: 30
 draft: false
+date: 2021-10-31 23:15:06.796642 +0100 CET m=+0.051392210
 noOfServings: 8
 ingredients:
   - 400-450 gram udstenede kirsebær
@@ -12,6 +13,8 @@ ingredients:
   - 300 ml. sødmælk
   - 20 gram smør, plus ekstra til smøring
 ---
+
+
 
 Smelt smørret over lav varme. Pisk æg og sukker sammen, og bland med
 melet. Pisk gradvist mælken i dejen for at undgå klumper, og tilsæt til

@@ -1,8 +1,8 @@
 ---
 title: Kolbecks vinaigrette
-weight: 10
+weight: 20
 draft: false
-noOfServings: 
+date: 2021-10-31 23:15:06.794867 +0100 CET m=+0.049617085
 ingredients:
   - 2 gram hvidløg
   - 13,5 gram grov sennep
@@ -17,6 +17,8 @@ ingredients:
   - 200 gram rapsolie
 ---
 
+
+
 Blend alt, undtagen olierne, sammen med en stavblender. Tilsæt derefter
 gradvist olien mens der blendes, så blandingen emulgerer. Smag til med
 salt, sukker og æbleeddike. Lad gerne vinaigretten trække natten over
@@ -28,5 +30,12 @@ velsmagende og alsidig vinaigrette, der er besværet værd. Fordi
 opskriften er taget fra en restaurantopskrift, er alt i gram -- og det
 kan betale sig at følge den efter bedste evne, selvom det ikke er en
 ulykke, hvis det ikke er præcis 2 gram hvidløg, der kommer i.*
+
+
+
+
+
+
+
 
 

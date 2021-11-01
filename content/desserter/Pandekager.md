@@ -1,7 +1,8 @@
 ---
 title: Pandekager
-weight: 10
+weight: 35
 draft: false
+date: 2021-10-31 23:15:06.796709 +0100 CET m=+0.051459418
 noOfServings: 2
 ingredients:
   - 40 gram hvedemel
@@ -11,6 +12,8 @@ ingredients:
   - Sukker
   - Salt
 ---
+
+
 
 Halvdelen af smørret kommes på en pande over medium varme, hvor det
 brunes til en nøddebrun farve. Dernæst tages panden af varmen, og det

@@ -1,7 +1,8 @@
 ---
 title: Chorizo med bønner og tomat
-weight: 10
+weight: 40
 draft: false
+date: 2021-10-31 23:15:06.792501 +0100 CET m=+0.047251626
 noOfServings: 2
 ingredients:
   - 2 løg
@@ -15,6 +16,8 @@ ingredients:
   - Salt
   - Peber
 ---
+
+
 
 Skær chorizoen i tern, og sautér over medium varme indtil fedtet er
 smeltet fra. Kom fintsnittet løg og hvidløg på, og sautér uden at det

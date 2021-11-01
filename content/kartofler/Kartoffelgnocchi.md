@@ -1,7 +1,8 @@
 ---
 title: Kartoffelgnocchi
-weight: 10
+weight: 35
 draft: false
+date: 2021-10-31 23:15:06.785614 +0100 CET m=+0.040364043
 noOfServings: 4
 ingredients:
   - 6 bagekartofler/500 gram kartoffelpuré
@@ -10,6 +11,8 @@ ingredients:
   - 3 gram salt (eller efter smag)
   - Rismel
 ---
+
+
 
 Prik kartoflerne med en kødnål, og bag dem meget møre i en 180 grader
 ovn uden varmluft, cirka 2 timer. Skær kartoflerne midt over, og lad dem

@@ -2,12 +2,15 @@
 title: Kogte kartofler uden for sæson
 weight: 10
 draft: false
+date: 2021-10-31 23:15:06.78515 +0100 CET m=+0.039900001
 noOfServings: 4
 ingredients:
   - 1 kilo spisekartofler
   - Salt
   - Sukker
 ---
+
+
 
 Skræl kartoflerne og dæk med vand tilsmagt med salt og sukker. En
 vinterkartoffel kræver lidt mere tilsmagning af kogevandet end nye

@@ -1,8 +1,8 @@
 ---
 title: Hollandaise
-weight: 10
+weight: 35
 draft: false
-noOfServings: 
+date: 2021-10-31 23:15:06.793641 +0100 CET m=+0.048391710
 ingredients:
   - 5-7 sorte eller hvide peberkorn, knuste
   - 2 spsk. hvidvinseddike
@@ -12,6 +12,8 @@ ingredients:
   - 1 økologisk citron
   - Salt
 ---
+
+
 
 Smørret klares i en gryde over lav varme indtil mælkeproteinerne og
 vallen bundfælder. Når man snakker klaret smør, menes der det rene

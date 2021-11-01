@@ -1,7 +1,8 @@
 ---
 title: Scrambled eggs
-weight: 10
+weight: 15
 draft: false
+date: 2021-10-31 23:15:06.788236 +0100 CET m=+0.042986710
 noOfServings: 2
 ingredients:
   - 6 æg
@@ -9,6 +10,8 @@ ingredients:
   - Salt
   - Peber
 ---
+
+
 
 Kom æggene i en slip-let-gryde eller sauteuse sammen med 10 gram smør.
 Tilbered over medium varme og med konstant omrøring med en varmefast

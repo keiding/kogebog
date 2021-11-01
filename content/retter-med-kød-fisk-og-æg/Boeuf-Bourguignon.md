@@ -1,7 +1,8 @@
 ---
 title: Boeuf Bourguignon
-weight: 10
+weight: 65
 draft: false
+date: 2021-10-31 23:15:06.792903 +0100 CET m=+0.047653335
 noOfServings: 4
 ingredients:
   - 500 gram trimmet skulder eller kæbe fra en okse
@@ -18,6 +19,8 @@ ingredients:
   - Salt
   - Peber
 ---
+
+
 
 Rens grøntsagerne. Skær løgene i kvarte, gulerødderne og sellerien i
 store stykker, og knus hvidløgene let med bagsiden af en kniv. Skær
@@ -77,4 +80,10 @@ tørrer ud under tilberedning. I så fald skal bare man reducere sin
 rødvin mindre før kødet tilsættes. Braiserer man over et blus med kødet
 helt dækket, koges kødet egentlig mere, end det decideret braiseres. Det
 er der ikke noget i vejen med, man får bare et anderledes slutresultat.*
+
+
+
+
+
+
 

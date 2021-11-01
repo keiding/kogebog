@@ -1,7 +1,8 @@
 ---
 title: Cæsarsalat med røget kylling
-weight: 10
+weight: 30
 draft: false
+date: 2021-10-31 23:15:06.792339 +0100 CET m=+0.047089793
 noOfServings: 6
 ingredients:
   - 1 hel røget kylling
@@ -12,6 +13,8 @@ ingredients:
   - Salt
   - Peber
 ---
+
+
 
 Varm kyllingen i en 160 grader ovn uden varmluft en halv times tid. Skru
 ovnen op til 200 varmluft i 5-10 minutter, så skindet bliver sprødt.

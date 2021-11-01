@@ -1,8 +1,8 @@
 ---
 title: Smørdampede porrer med bacon
-weight: 10
+weight: 55
 draft: false
-noOfServings: 
+date: 2021-10-31 23:15:06.792747 +0100 CET m=+0.047497585
 ingredients:
   - 4 porrer
   - 8 skiver økologisk bacon (cirka 100 gram)
@@ -12,6 +12,8 @@ ingredients:
   - Peber
   - Citronsaft
 ---
+
+
 
 Skær de grønne toppe af porrerne, og gem til anden brug. Fjern det
 yderste lag af bunden, og rens porrerne ved at sætte dem med toppen

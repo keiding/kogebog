@@ -1,14 +1,16 @@
 ---
 title: Klassisk citronvinaigrette
-weight: 10
+weight: 5
 draft: false
-noOfServings: 
+date: 2021-10-31 23:15:06.794603 +0100 CET m=+0.049352876
 ingredients:
   - 1 økologisk citron
   - 4-6 spsk. olivenolie
   - Salt
   - Peber
 ---
+
+
 
 Pres saften fra en citron, og bland med lidt under 3 gange så meget
 olivenolie samt salt og peber. Ryst sammen i enten en dressingflaske
@@ -24,4 +26,6 @@ af det høje indhold af olie.
 sammen før brug. Det er imidlertid meningen, at den skiller, da en skilt
 vinaigrette dækker salaten lettere end en emulgeret dressing.*
 
+*\
+*
 

@@ -1,8 +1,8 @@
 ---
 title: Græskarkernemayonnaise
-weight: 10
+weight: 15
 draft: false
-noOfServings: 
+date: 2021-10-31 23:15:06.794276 +0100 CET m=+0.049026168
 ingredients:
   - 1 bæger pasteuriserede
   - æggeblommer
@@ -12,6 +12,8 @@ ingredients:
   - Salt
   - Peber
 ---
+
+
 
 De pasteuriserede æggeblommer piskes hvide og luftige med salt og
 sherryeddike. Når blommerne er hvide, emulgeres de med en neutral olie

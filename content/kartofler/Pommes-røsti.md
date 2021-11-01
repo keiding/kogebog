@@ -1,7 +1,8 @@
 ---
 title: Pommes røsti
-weight: 10
+weight: 20
 draft: false
+date: 2021-10-31 23:15:06.785338 +0100 CET m=+0.040088585
 noOfServings: 2
 ingredients:
   - 3 bagekartofler
@@ -10,6 +11,8 @@ ingredients:
   - Salt
   - Peber
 ---
+
+
 
 Riv kartofler og løg på den grove side af et råkostjern og krydr med
 salt og peber. Lad blandingen stå 10 minutter, og klem derefter så meget

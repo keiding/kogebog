@@ -2,7 +2,7 @@
 title: Solsikkekerne- og tomatpistou
 weight: 10
 draft: false
-noOfServings: 
+date: 2021-10-31 23:15:06.795108 +0100 CET m=+0.049858751
 ingredients:
   - 2 store og faste tomater
   - 2 håndfulde solsikkekerner
@@ -13,6 +13,8 @@ ingredients:
   - Olivenolie
   - Frisk koriander (kan udelades)
 ---
+
+
 
 Rist kernerne gyldne på en tør pande, og sæt til side. Skær tomaterne,
 befriet for kerner og eventuelt pillet, i tern på omkring en halv

@@ -1,7 +1,8 @@
 ---
 title: Kartoffelfondant
-weight: 10
+weight: 50
 draft: false
+date: 2021-10-31 23:15:06.785854 +0100 CET m=+0.040604251
 noOfServings: 2
 ingredients:
   - 2 store bagekartofler
@@ -12,6 +13,8 @@ ingredients:
   - Salt
   - Peber
 ---
+
+
 
 Skræl kartoflerne, og skær dem over på midten. Dæk med koldt vand i en
 stor skål, og lad det stå en halv til en hel time, gerne hvor vandet
@@ -26,4 +29,10 @@ næsten er dækkede. Dæk gryden med et låg sat lidt på klem, og bag
 kartoflerne færdige i ovnen indtil fonden er kogt væk og kartoflerne er
 møre. Glasér kartoflerne i det resterende fedtstof i bunden af panden,
 og servér.
+
+
+
+
+
+
 

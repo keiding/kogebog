@@ -1,8 +1,8 @@
 ---
 title: Vildtsauce med Creme de Cassis
-weight: 10
+weight: 50
 draft: false
-noOfServings: 
+date: 2021-10-31 23:15:06.793889 +0100 CET m=+0.048639668
 ingredients:
   - 50-100 gram afpuds fra vildt (kan erstattes af en smule god vildtfond)
   - 1 løg
@@ -20,6 +20,8 @@ ingredients:
   - Salt
   - Peber
 ---
+
+
 
 Afpuds fra vildkød brunes i neutral olie med grofthakket løg og et fed
 upillet hvidløg. Tilsæt to enebær samt timian og laurbærblade. Når kødet

@@ -1,8 +1,8 @@
 ---
 title: Lyst brød
-weight: 10
+weight: 35
 draft: false
-noOfServings: 
+date: 2021-10-31 23:15:06.795807 +0100 CET m=+0.050557335
 ingredients:
   - 400 gram koldt vand
   - 80 gram kefir eller kærnemælk
@@ -12,6 +12,8 @@ ingredients:
   - 100 gram speltmel
   - 10 gram salt
 ---
+
+
 
 Bland vand, kefir og gær. Tilsæt mel og salt, og ælt indtil elastisk,
 cirka 15-20 minutter på middellav hastighed i en røremaskine. Lad dejen

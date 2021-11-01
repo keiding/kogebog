@@ -1,8 +1,8 @@
 ---
 title: Karl Johan-mayonnaise
-weight: 10
+weight: 20
 draft: false
-noOfServings: 
+date: 2021-10-31 23:15:06.794353 +0100 CET m=+0.049102876
 ingredients:
   - 1 bæger pasteuriserede æggeblommer
   - ½ tsk. dijonsennep
@@ -12,6 +12,8 @@ ingredients:
   - Salt
   - Peber
 ---
+
+
 
 Kom de tørrede Karl Johan-svampe ned i lille gryde med 100 ml. neutral
 olie, og lad dem trække over svag varme en stor times tid. Sig olien

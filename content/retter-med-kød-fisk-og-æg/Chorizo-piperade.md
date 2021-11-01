@@ -1,7 +1,8 @@
 ---
 title: Chorizo piperade
-weight: 10
+weight: 35
 draft: false
+date: 2021-10-31 23:15:06.79242 +0100 CET m=+0.047170001
 noOfServings: 4
 ingredients:
   - 6 peberfrugter, gerne forskellige farver
@@ -13,6 +14,8 @@ ingredients:
   - Salt
   - Peber
 ---
+
+
 
 Pil skindet af chorizoen, og skær i fine tern. Smelt langsomt fedtet fra
 i en pande over middel varme. Skær peberfrugterne i tern. Når chorizoen

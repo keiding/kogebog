@@ -1,8 +1,8 @@
 ---
 title: Tomatsovs
-weight: 10
+weight: 5
 draft: false
-noOfServings: 
+date: 2021-10-31 23:15:06.793147 +0100 CET m=+0.047897043
 ingredients:
   - 1 løg
   - 1 fed hvidløg
@@ -14,6 +14,8 @@ ingredients:
   - Peber
   - Sukker
 ---
+
+
 
 Sautér løg og hvidløg i olivenolie i en gryde, krydret med salt, peber
 og en smule tørret oregano. Når løgene er klaret, uden dog at have taget

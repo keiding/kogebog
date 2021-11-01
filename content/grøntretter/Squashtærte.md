@@ -2,8 +2,10 @@
 title: Squashtærte
 weight: 10
 draft: false
-noOfServings: 
+date: 2021-10-31 23:15:06.789899 +0100 CET m=+0.044649626
+noOfServings: 4
 ingredients:
+  - Til fyldet
   - 3 store økologiske squash
   - 2 forårsløg
   - 3 æg
@@ -12,13 +14,16 @@ ingredients:
   - Peber
   - Olivenolie
   - Cayennepeber
+  - Til dejen
   - 400 gram hvedemel
   - 100 gram olivenolie
   - 80-120 gram koldt vand
   - Salt
-  - *\
-  - *
+  - \
+
 ---
+
+
 
 Sigt hvedemelet ud på et rent bord, kom et nip salt ved, og hæld
 langsomt olien ned i midten af melet mens massen blandes sammen med

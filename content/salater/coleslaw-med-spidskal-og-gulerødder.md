@@ -1,8 +1,8 @@
 ---
 title: Coleslaw med spidskål og gulerødder
-weight: 10
+weight: 15
 draft: false
-noOfServings: 2
+date: 2021-10-31 23:15:06.791286 +0100 CET m=+0.046036585
 ingredients:
   - 3 spsk. neutral mayonnaise
   - 4 spsk. 2 % græsk yoghurt eller mager creme fraiche
@@ -10,6 +10,8 @@ ingredients:
   - 2 store gulerødder
   - ½ spidskål eller hvidkål
 ---
+
+
 
 En neutral mayonnaise lettes med lidt creme fraiche og smages yderligere
 til med dijonsennep. Hakket hvidkål eller spidskål og revne gulerødder

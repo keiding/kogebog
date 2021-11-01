@@ -1,7 +1,8 @@
 ---
 title: Kålsalat med linser og solsikkekerner
-weight: 10
+weight: 25
 draft: false
+date: 2021-10-31 23:15:06.79146 +0100 CET m=+0.046209960
 noOfServings: 4
 ingredients:
   - 2 dl Puy-linser
@@ -11,6 +12,8 @@ ingredients:
   - Olivenolie
   - Æbleeddike
 ---
+
+
 
 *Forberedelse*
 

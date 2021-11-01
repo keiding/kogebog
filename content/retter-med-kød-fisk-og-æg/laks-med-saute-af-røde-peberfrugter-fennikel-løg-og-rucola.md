@@ -1,8 +1,9 @@
 ---
 title: Laks med sauté af røde peberfrugter, fennikel, løg og rucola
-weight: 10
+weight: 5
 draft: false
-noOfServings: 
+date: 2021-10-31 23:15:06.791918 +0100 CET m=+0.046668043
+noOfServings: 2
 ingredients:
   - 2 portioner laksefilet
   - 1 stort løg
@@ -15,6 +16,9 @@ ingredients:
 ---
 
 
+
+*Til laksen*
+
 Forvarm en ovn på 180 grader uden varmluft. Tjek laksen for ben, og dup
 den tør med køkkenrulle. Varm en slip-let-pande, der kan gå i ovnen,
 over medium varme. Når panden er varm, uden dog at være rygende, kommes
@@ -23,6 +27,7 @@ steges med skindsiden nedad. Efter 2 minutters stegning kommes panden i
 ovnen og fiskes steges videre her i 7-8 minutter, hvis man stadig vil
 have den en smule rosa i midten.
 
+*Til tilbehøret*
 
 Snit løg og fennikel i fine strimler, og skær peberfrugterne i ensartede
 tern. Varm neutral olie op til det næsten ryger, og tilsæt ternene af

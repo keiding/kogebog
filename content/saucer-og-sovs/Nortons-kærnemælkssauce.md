@@ -1,13 +1,15 @@
 ---
 title: Nortons kærnemælkssauce
-weight: 10
+weight: 25
 draft: false
-noOfServings: 
+date: 2021-10-31 23:15:06.793477 +0100 CET m=+0.048227585
 ingredients:
   - 1 liter kærnemælk
   - 2 pakker smør
   - Salt
 ---
+
+
 
 Varm kærnemælken over moderat varme indtil den skiller, og lad den simre
 i 10 minutter. Brun smørret indtil det har en nøddebrun farve, og lad

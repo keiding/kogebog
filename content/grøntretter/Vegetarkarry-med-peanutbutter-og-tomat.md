@@ -1,7 +1,8 @@
 ---
 title: Vegetarkarry med peanutbutter og tomat
-weight: 10
+weight: 40
 draft: false
+date: 2021-10-31 23:15:06.790706 +0100 CET m=+0.045456335
 noOfServings: 4
 ingredients:
   - 1 lille hoved blomkål
@@ -15,6 +16,8 @@ ingredients:
   - Salt
   - Peber
 ---
+
+
 
 I en gryde over medium varme ristes rød karry pasta af indtil det
 afgiver sin smag, hvorefter gryden koges af med risvineddike. Når

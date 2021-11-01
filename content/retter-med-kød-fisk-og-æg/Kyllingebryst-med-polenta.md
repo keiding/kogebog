@@ -1,7 +1,8 @@
 ---
 title: Kyllingebryst med polenta
-weight: 10
+weight: 20
 draft: false
+date: 2021-10-31 23:15:06.792178 +0100 CET m=+0.046927918
 noOfServings: 2
 ingredients:
   - 1 stort kyllingebryst
@@ -12,6 +13,8 @@ ingredients:
   - Salt
   - Peber
 ---
+
+
 
 Kog polentaen efter anvisning på posen, som regel 1:4 polenta til fond i
 omkring 30-40 minutter. Når polentaen har kogt halvdelen af den anviste

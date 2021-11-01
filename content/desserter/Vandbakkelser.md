@@ -1,8 +1,8 @@
 ---
 title: Vandbakkelser
-weight: 10
+weight: 15
 draft: false
-noOfServings: 
+date: 2021-10-31 23:15:06.796444 +0100 CET m=+0.051194001
 ingredients:
   - 125 ml. mælk
   - 125 ml. vand
@@ -12,6 +12,8 @@ ingredients:
   - Nip salt
   - Stort nip sukker
 ---
+
+
 
 Smørret smeltes over moderat varme med sukker, salt, vand og mælk. Når
 blandingen når kogepunktet, samles den med melet. Denne masse bages af i

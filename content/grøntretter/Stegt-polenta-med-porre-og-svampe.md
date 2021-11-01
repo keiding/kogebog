@@ -1,7 +1,8 @@
 ---
 title: Stegt polenta med porre og svampe
-weight: 10
+weight: 20
 draft: false
+date: 2021-10-31 23:15:06.790326 +0100 CET m=+0.045075835
 noOfServings: 2
 ingredients:
   - 1 dl polenta
@@ -13,6 +14,8 @@ ingredients:
   - Salt
   - Peber
 ---
+
+
 
 Rens porren for sand ved at skære den i fjerdedele med roden holdt
 intakt, hvorefter den skylles grundigt under rindende vand. Rens

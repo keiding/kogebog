@@ -1,8 +1,8 @@
 ---
 title: Landbrød bagt i støbejernsgryde
-weight: 10
+weight: 45
 draft: false
-noOfServings: 
+date: 2021-10-31 23:15:06.795957 +0100 CET m=+0.050707626
 ingredients:
   - 440 gram koldt vand
   - 8 gram gær
@@ -10,6 +10,8 @@ ingredients:
   - 300 gram fuldkornsrugmel
   - 14 gram salt
 ---
+
+
 
 Rær gæren ud i det kolde vand, og bland efterfølgende med resten af
 melet. Lad gerne dejen stå 30 minutter, kom så saltet i, og ælt på

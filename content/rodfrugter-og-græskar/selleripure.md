@@ -1,13 +1,16 @@
 ---
 title: Selleripuré
-weight: 10
+weight: 15
 draft: false
+date: 2021-10-31 23:15:06.786227 +0100 CET m=+0.040977751
 noOfServings: 4
 ingredients:
   - ½ hoved selleri
   - 30 gram smør
   - Salt
 ---
+
+
 
 Skræl sellerien, og skær den i meget tynde skiver. Sautér i smør med et
 nip salt uden at sellerien tager farve. Når sellerien begynder at blive

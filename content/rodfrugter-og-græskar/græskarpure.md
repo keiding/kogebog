@@ -1,7 +1,8 @@
 ---
 title: Græskarpuré
-weight: 10
+weight: 20
 draft: false
+date: 2021-10-31 23:15:06.786323 +0100 CET m=+0.041073043
 noOfServings: 6-8
 ingredients:
   - 1 butternutsquash
@@ -11,6 +12,8 @@ ingredients:
   - Salt
   - Peber
 ---
+
+
 
 Sautér store tern af butternutsquash i olivenolie med et upillet fed
 hvidløg samt lidt salt. Når ternene begynder at tage farve, lægges der

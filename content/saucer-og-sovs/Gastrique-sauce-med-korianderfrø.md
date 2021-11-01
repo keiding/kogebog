@@ -1,8 +1,8 @@
 ---
 title: Gastrique-sauce med korianderfrø
-weight: 10
+weight: 20
 draft: false
-noOfServings: 
+date: 2021-10-31 23:15:06.793397 +0100 CET m=+0.048147793
 ingredients:
   - 60 gram brun farin
   - 280 gram hvidvin
@@ -13,6 +13,8 @@ ingredients:
   - 1-1¼ liter kalvefond
   - ½ fed hvidløg, kernen fjernet
 ---
+
+
 
 Hvidløg, farin og koriander karamelliseres. Når ¼ af farinen er smeltet,
 tilsættes Worcestershire og reduceres væk. Eddiken tilsættes og

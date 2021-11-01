@@ -1,7 +1,8 @@
 ---
 title: Chokolademousse
-weight: 10
+weight: 25
 draft: false
+date: 2021-10-31 23:15:06.796577 +0100 CET m=+0.051327793
 noOfServings: 2-3
 ingredients:
   - 75 gram chokolade (70-80 %)
@@ -10,6 +11,8 @@ ingredients:
   - 75 gram piskefløde
   - Citronsaft
 ---
+
+
 
 Smelt chokoladen i en varmefast skål sat over en gryde med simrende
 vand. Imens piskes æggehviderne til en fransk marengsmasse, ved først at

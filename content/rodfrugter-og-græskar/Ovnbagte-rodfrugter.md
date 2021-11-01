@@ -1,7 +1,8 @@
 ---
 title: Ovnbagte rodfrugter
-weight: 10
+weight: 25
 draft: false
+date: 2021-10-31 23:15:06.786409 +0100 CET m=+0.041159085
 noOfServings: 4
 ingredients:
   - 1 kilo blandede rodfrugter
@@ -9,6 +10,8 @@ ingredients:
   - Salt
   - Peber
 ---
+
+
 
 De fleste rodfrugter egner sig godt til at blive tilberedt i ovn med
 blot olivenolie og salt i cirka 45 minutter på 180 grader varmluft. Her

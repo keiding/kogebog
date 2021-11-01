@@ -1,8 +1,8 @@
 ---
 title: Sennepssovs
-weight: 10
+weight: 15
 draft: false
-noOfServings: 
+date: 2021-10-31 23:15:06.793314 +0100 CET m=+0.048064001
 ingredients:
   - 1 lille skalotteløg
   - ½ fed hvidløg, stiklen fjernet
@@ -15,6 +15,8 @@ ingredients:
   - Peber
   - Smør
 ---
+
+
 
 Sautér finthakkede skalotteløg og hvidløg i lidt smør. Når løgene er
 bløde, men ikke har farve, tilsættes dijon- og grovkornet sennep.

@@ -1,7 +1,8 @@
 ---
 title: Apple crumble
-weight: 10
+weight: 50
 draft: false
+date: 2021-10-31 23:15:06.796901 +0100 CET m=+0.051651501
 noOfServings: 8
 ingredients:
   - 6 store, let syrlige og faste æbler
@@ -15,6 +16,8 @@ ingredients:
   - Sukker
   - Koldt vand
 ---
+
+
 
 Formvarm en ovn til 175 grader varmluft. Skær æblerne i ensartede små
 stykker, og smag til med vaniljesukker, sukker, citronsaft og kanel
@@ -37,4 +40,5 @@ Ved en crumble kan man imidlertid improvisere meget og stadig få et godt
 resultat. Man kan for eksempel tilføje 50 gram havregryn, og så bare
 justere konsistensen med lidt vand, hvis blandingen bliver for tør.*
 
-
+*\
+*

@@ -1,8 +1,8 @@
 ---
 title: Pasta med linseragout
-weight: 10
+weight: 45
 draft: false
-noOfServings: 
+date: 2021-10-31 23:15:06.789155 +0100 CET m=+0.043905001
 ingredients:
   - 200 gram Puy-linser (også solgt som delikatesselinser)
   - 125 ml tør vermouth
@@ -20,6 +20,8 @@ ingredients:
   - Peber
   - Sukker
 ---
+
+
 
 Snit løg, hvidløg og blegselleri fint, skyl linserne under koldt vand,
 og riv guleroden groft. Sautér løg, hvidløg og blegselleri i olivenolie
