@@ -14,7 +14,7 @@ def convert_format_index(path, root, filename, save):
             if '#' in line:
 
                 tmp_header = line[2:].strip()
-                tmp_header = 'title: ' + '"{}"'.format(tmp_header)
+                tmp_header = 'title: ' + '{}'.format(tmp_header)
 
             elif line != '' or (line == '' and tmp_opskrift[-1:] != '\n'): # avoid double new lines
 
@@ -51,7 +51,7 @@ def convert_format_recipe(path, root, filename, save):
             # get heading, remove ## and spaces
             if '##' in line and '###' not in line:
                 tmp_header = line[2:].strip()
-                tmp_header = 'title: ' + '"{}"'.format(tmp_header) # check is this works 
+                tmp_header = 'title: ' + '{}'.format(tmp_header) # check is this works 
             
             # get number of servings for either 1 number or a range a,b
             elif '*Til' in line:
