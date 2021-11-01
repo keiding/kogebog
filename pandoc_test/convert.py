@@ -184,7 +184,7 @@ def rename_folders(dir):
                  
                 elif char == '-' and first_character_passed is True:
 
-                    new_name = new_name + '_' #replace - with space in line
+                    new_name = new_name + '-' #replace - with space in line
 
                 else:
 
