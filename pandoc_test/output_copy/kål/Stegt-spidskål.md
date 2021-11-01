@@ -1,5 +1,5 @@
 ---
-title: "Stegt spidskål"
+title: Stegt spidskål
 draft: false
 weight: 1
 noOfServings: 2

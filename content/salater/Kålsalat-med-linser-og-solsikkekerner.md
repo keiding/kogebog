@@ -1,5 +1,5 @@
 ---
-title: "Kålsalat med linser og solsikkekerner"
+title: Kålsalat med linser og solsikkekerner
 draft: false
 weight: 1
 noOfServings: 4

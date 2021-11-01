@@ -1,5 +1,5 @@
 ---
-title: "Landbrød med kefir bagt i støbejernsgryde"
+title: Landbrød med kefir bagt i støbejernsgryde
 draft: false
 weight: 1
 noOfServings: 

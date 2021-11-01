@@ -1,5 +1,5 @@
 ---
-title: "Wraps med æg og spidskål"
+title: Wraps med æg og spidskål
 draft: false
 weight: 1
 noOfServings: 2

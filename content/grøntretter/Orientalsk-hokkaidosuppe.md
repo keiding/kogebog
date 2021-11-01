@@ -1,5 +1,5 @@
 ---
-title: "Orientalsk hokkaidosuppe"
+title: Orientalsk hokkaidosuppe
 draft: false
 weight: 1
 noOfServings: 6

@@ -1,5 +1,5 @@
 ---
-title: "Grillede bagte løg"
+title: Grillede bagte løg
 draft: false
 weight: 1
 noOfServings: 4

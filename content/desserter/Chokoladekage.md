@@ -1,5 +1,5 @@
 ---
-title: "Chokoladekage"
+title: Chokoladekage
 draft: false
 weight: 1
 noOfServings: 8

@@ -1,5 +1,5 @@
 ---
-title: "Stort fuldkornsbrød"
+title: Stort fuldkornsbrød
 draft: false
 weight: 1
 noOfServings: 

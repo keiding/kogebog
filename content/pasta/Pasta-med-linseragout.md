@@ -1,5 +1,5 @@
 ---
-title: "Pasta med linseragout"
+title: Pasta med linseragout
 draft: false
 weight: 1
 noOfServings: 

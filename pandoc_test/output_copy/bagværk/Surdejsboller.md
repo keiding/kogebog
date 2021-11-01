@@ -1,5 +1,5 @@
 ---
-title: "Surdejsboller"
+title: Surdejsboller
 draft: false
 weight: 1
 noOfServings: 

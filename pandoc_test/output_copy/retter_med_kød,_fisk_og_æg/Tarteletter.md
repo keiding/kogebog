@@ -1,5 +1,5 @@
 ---
-title: "Tarteletter"
+title: Tarteletter
 draft: false
 weight: 1
 noOfServings: 6

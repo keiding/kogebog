@@ -1,5 +1,5 @@
 ---
-title: "Surdej og gær"
+title: Surdej og gær
 draft: false
 weight: 1
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Ovnbagte rodfrugter"
+title: Ovnbagte rodfrugter
 draft: false
 weight: 1
 noOfServings: 4

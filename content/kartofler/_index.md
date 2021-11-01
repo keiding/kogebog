@@ -1,5 +1,5 @@
 ---
-title: "Kartofler"
+title: Kartofler
 draft: false
 weight: 1
 ---

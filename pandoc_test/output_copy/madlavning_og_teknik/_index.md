@@ -1,5 +1,5 @@
 ---
-title: "Grundlæggende teknikker"
+title: Grundlæggende teknikker
 draft: false
 weight: 1
 ---

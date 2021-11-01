@@ -1,5 +1,5 @@
 ---
-title: "Omelet"
+title: Omelet
 draft: false
 weight: 1
 noOfServings: 1-2

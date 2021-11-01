@@ -1,5 +1,5 @@
 ---
-title: "Kagecreme"
+title: Kagecreme
 draft: false
 weight: 1
 noOfServings: 

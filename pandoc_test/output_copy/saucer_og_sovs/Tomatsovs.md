@@ -1,5 +1,5 @@
 ---
-title: "Tomatsovs"
+title: Tomatsovs
 draft: false
 weight: 1
 noOfServings: 

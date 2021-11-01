@@ -1,5 +1,5 @@
 ---
-title: "Kyllingebryst med polenta"
+title: Kyllingebryst med polenta
 draft: false
 weight: 1
 noOfServings: 2

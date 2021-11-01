@@ -1,5 +1,5 @@
 ---
-title: "Grønkålssalat med sennepsvinaigrette"
+title: Grønkålssalat med sennepsvinaigrette
 draft: false
 weight: 1
 noOfServings: 2

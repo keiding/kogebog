@@ -1,5 +1,5 @@
 ---
-title: "Kål i mormor-dressing"
+title: Kål i mormor-dressing
 draft: false
 weight: 1
 noOfServings: 2

@@ -1,5 +1,5 @@
 ---
-title: "Pasta med tomatsovs"
+title: Pasta med tomatsovs
 draft: false
 weight: 1
 noOfServings: 4

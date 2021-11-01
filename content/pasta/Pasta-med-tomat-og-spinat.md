@@ -1,5 +1,5 @@
 ---
-title: "Pasta med tomat og spinat"
+title: Pasta med tomat og spinat
 draft: false
 weight: 1
 noOfServings: 4

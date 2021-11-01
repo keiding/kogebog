@@ -1,5 +1,5 @@
 ---
-title: "Sennepsvinaigrette"
+title: Sennepsvinaigrette
 draft: false
 weight: 1
 noOfServings: 

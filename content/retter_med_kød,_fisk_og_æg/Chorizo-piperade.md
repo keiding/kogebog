@@ -1,5 +1,5 @@
 ---
-title: "Chorizo piperade"
+title: Chorizo piperade
 draft: false
 weight: 1
 noOfServings: 4

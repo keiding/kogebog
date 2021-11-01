@@ -1,5 +1,5 @@
 ---
-title: "Rodfrugter og græskar"
+title: Rodfrugter og græskar
 draft: false
 weight: 1
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Vandbakkelser"
+title: Vandbakkelser
 draft: false
 weight: 1
 noOfServings: 

@@ -1,5 +1,5 @@
 ---
-title: "Om bogen"
+title: Om bogen
 draft: false
 weight: 1
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Nortons kærnemælkssauce"
+title: Nortons kærnemælkssauce
 draft: false
 weight: 1
 noOfServings: 

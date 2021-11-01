@@ -1,5 +1,5 @@
 ---
-title: "Linsebøffer"
+title: Linsebøffer
 draft: false
 weight: 1
 noOfServings: 

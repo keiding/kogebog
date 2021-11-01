@@ -1,5 +1,5 @@
 ---
-title: "Bearnaise"
+title: Bearnaise
 draft: false
 weight: 1
 noOfServings: 

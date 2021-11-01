@@ -1,5 +1,5 @@
 ---
-title: "Æg"
+title: Æg
 draft: false
 weight: 1
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Tærte med spinat og peberfrugter"
+title: Tærte med spinat og peberfrugter
 draft: false
 weight: 1
 noOfServings: 4

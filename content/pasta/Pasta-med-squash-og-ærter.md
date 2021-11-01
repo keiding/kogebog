@@ -1,5 +1,5 @@
 ---
-title: "Pasta med squash og ærter"
+title: Pasta med squash og ærter
 draft: false
 weight: 1
 noOfServings: 2

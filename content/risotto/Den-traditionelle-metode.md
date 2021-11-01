@@ -1,5 +1,5 @@
 ---
-title: "Den traditionelle metode"
+title: Den traditionelle metode
 draft: false
 weight: 1
 noOfServings: 2

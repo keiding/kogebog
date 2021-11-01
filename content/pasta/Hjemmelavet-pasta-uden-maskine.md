@@ -1,5 +1,5 @@
 ---
-title: "Hjemmelavet pasta uden maskine"
+title: Hjemmelavet pasta uden maskine
 draft: false
 weight: 1
 noOfServings: 

@@ -1,5 +1,5 @@
 ---
-title: "Apple crumble"
+title: Apple crumble
 draft: false
 weight: 1
 noOfServings: 8

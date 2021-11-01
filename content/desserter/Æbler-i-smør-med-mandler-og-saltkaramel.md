@@ -1,5 +1,5 @@
 ---
-title: "Æbler i smør med mandler og saltkaramel"
+title: Æbler i smør med mandler og saltkaramel
 draft: false
 weight: 1
 noOfServings: 

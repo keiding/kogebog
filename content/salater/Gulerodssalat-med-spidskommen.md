@@ -1,5 +1,5 @@
 ---
-title: "Gulerodssalat med spidskommen"
+title: Gulerodssalat med spidskommen
 draft: false
 weight: 1
 noOfServings: 2

@@ -1,5 +1,5 @@
 ---
-title: "Cæsarsalat med røget kylling"
+title: Cæsarsalat med røget kylling
 draft: false
 weight: 1
 noOfServings: 6

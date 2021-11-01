@@ -1,5 +1,5 @@
 ---
-title: "Chorizo med bønner og tomat"
+title: Chorizo med bønner og tomat
 draft: false
 weight: 1
 noOfServings: 2

@@ -1,5 +1,5 @@
 ---
-title: "Hollandaise"
+title: Hollandaise
 draft: false
 weight: 1
 noOfServings: 

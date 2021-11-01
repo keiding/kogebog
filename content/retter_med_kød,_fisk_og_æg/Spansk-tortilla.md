@@ -1,5 +1,5 @@
 ---
-title: "Spansk tortilla"
+title: Spansk tortilla
 draft: false
 weight: 1
 noOfServings: 4

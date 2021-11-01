@@ -1,5 +1,5 @@
 ---
-title: "Kartoffelmos"
+title: Kartoffelmos
 draft: false
 weight: 1
 noOfServings: 4

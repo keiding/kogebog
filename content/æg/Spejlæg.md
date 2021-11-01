@@ -1,5 +1,5 @@
 ---
-title: "Spejlæg"
+title: Spejlæg
 draft: false
 weight: 1
 noOfServings: 

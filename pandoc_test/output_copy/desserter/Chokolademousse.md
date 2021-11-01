@@ -1,5 +1,5 @@
 ---
-title: "Chokolademousse"
+title: Chokolademousse
 draft: false
 weight: 1
 noOfServings: 2-3

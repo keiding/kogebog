@@ -1,5 +1,5 @@
 ---
-title: "Den nemme metode"
+title: Den nemme metode
 draft: false
 weight: 1
 noOfServings: 2

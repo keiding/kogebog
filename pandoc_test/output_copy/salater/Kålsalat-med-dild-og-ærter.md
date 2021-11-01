@@ -1,5 +1,5 @@
 ---
-title: "Kålsalat med dild og ærter"
+title: Kålsalat med dild og ærter
 draft: false
 weight: 1
 noOfServings: 4

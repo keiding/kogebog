@@ -1,5 +1,5 @@
 ---
-title: "Klassisk citronvinaigrette"
+title: Klassisk citronvinaigrette
 draft: false
 weight: 1
 noOfServings: 

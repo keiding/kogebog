@@ -1,5 +1,5 @@
 ---
-title: "Blomkål med citronskal"
+title: Blomkål med citronskal
 draft: false
 weight: 1
 noOfServings: 2

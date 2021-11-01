@@ -1,5 +1,5 @@
 ---
-title: "Kogte nye kartofler"
+title: Kogte nye kartofler
 draft: false
 weight: 1
 noOfServings: 4

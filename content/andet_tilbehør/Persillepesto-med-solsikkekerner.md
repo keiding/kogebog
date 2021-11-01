@@ -1,5 +1,5 @@
 ---
-title: "Persillepesto med solsikkekerner"
+title: Persillepesto med solsikkekerner
 draft: false
 weight: 1
 noOfServings: 

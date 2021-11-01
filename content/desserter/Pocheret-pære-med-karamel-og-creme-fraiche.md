@@ -1,5 +1,5 @@
 ---
-title: "Pocheret pære med karamel og creme fraiche"
+title: Pocheret pære med karamel og creme fraiche
 draft: false
 weight: 1
 noOfServings: 4

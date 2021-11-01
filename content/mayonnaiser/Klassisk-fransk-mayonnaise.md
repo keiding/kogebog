@@ -1,5 +1,5 @@
 ---
-title: "Klassisk fransk mayonnaise"
+title: Klassisk fransk mayonnaise
 draft: false
 weight: 1
 noOfServings: 

@@ -1,5 +1,5 @@
 ---
-title: "Gastrique-sauce med korianderfrø"
+title: Gastrique-sauce med korianderfrø
 draft: false
 weight: 1
 noOfServings: 

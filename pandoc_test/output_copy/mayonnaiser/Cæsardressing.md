@@ -1,5 +1,5 @@
 ---
-title: "Cæsardressing"
+title: Cæsardressing
 draft: false
 weight: 1
 noOfServings: 

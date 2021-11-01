@@ -1,5 +1,5 @@
 ---
-title: "Lyst brød"
+title: Lyst brød
 draft: false
 weight: 1
 noOfServings: 

@@ -1,5 +1,5 @@
 ---
-title: "Pasta med spinat i fløde"
+title: Pasta med spinat i fløde
 draft: false
 weight: 1
 noOfServings: 4

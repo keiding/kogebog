@@ -1,5 +1,5 @@
 ---
-title: "Ratatouille"
+title: Ratatouille
 draft: false
 weight: 1
 noOfServings: 4-2

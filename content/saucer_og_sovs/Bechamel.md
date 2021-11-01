@@ -1,5 +1,5 @@
 ---
-title: "Bechamel"
+title: Bechamel
 draft: false
 weight: 1
 noOfServings: 

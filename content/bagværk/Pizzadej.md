@@ -1,5 +1,5 @@
 ---
-title: "Pizzadej"
+title: Pizzadej
 draft: false
 weight: 1
 noOfServings: 2

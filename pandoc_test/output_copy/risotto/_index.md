@@ -1,5 +1,5 @@
 ---
-title: "# Risotto med ærter, squash og citronskal"
+title: # Risotto med ærter, squash og citronskal
 draft: false
 weight: 1
 ---

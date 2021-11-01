@@ -1,5 +1,5 @@
 ---
-title: "Kål"
+title: Kål
 draft: false
 weight: 1
 ---

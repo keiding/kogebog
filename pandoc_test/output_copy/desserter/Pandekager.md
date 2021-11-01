@@ -1,5 +1,5 @@
 ---
-title: "Pandekager"
+title: Pandekager
 draft: false
 weight: 1
 noOfServings: 2

@@ -1,5 +1,5 @@
 ---
-title: "Smørdampede porrer med bacon"
+title: Smørdampede porrer med bacon
 draft: false
 weight: 1
 noOfServings: 

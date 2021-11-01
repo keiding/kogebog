@@ -1,5 +1,5 @@
 ---
-title: "Landbrød bagt i støbejernsgryde"
+title: Landbrød bagt i støbejernsgryde
 draft: false
 weight: 1
 noOfServings: 

@@ -1,5 +1,5 @@
 ---
-title: "Andet tilbehør"
+title: Andet tilbehør
 draft: false
 weight: 1
 ---

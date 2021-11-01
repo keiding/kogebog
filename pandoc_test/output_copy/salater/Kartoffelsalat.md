@@ -1,5 +1,5 @@
 ---
-title: "Kartoffelsalat"
+title: Kartoffelsalat
 draft: false
 weight: 1
 noOfServings: 4
