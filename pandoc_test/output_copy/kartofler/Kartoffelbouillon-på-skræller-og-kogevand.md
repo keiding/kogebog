@@ -1,7 +1,7 @@
 ---
-title: Kartoffelbouillon på skræller og kogevand
-weight: 10
+title: "Kartoffelbouillon på skræller og kogevand"
 draft: false
+weight: 1
 noOfServings: 
 ingredients:
   - Skræl fra 500 gram kartofler

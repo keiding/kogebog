@@ -2,7 +2,7 @@
 title: Bearnaise
 weight: 40
 draft: false
-date: 2021-10-31 23:15:06.793723 +0100 CET m=+0.048473460
+date: 2021-11-01 21:10:30.95634 +0100 CET m=+0.045964168
 ingredients:
   - 1 skalotteløg
   - 5-7 sorte peberkorn, knuste

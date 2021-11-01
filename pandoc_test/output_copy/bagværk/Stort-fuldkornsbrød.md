@@ -1,7 +1,7 @@
 ---
-title: Stort fuldkornsbrød
-weight: 10
+title: "Stort fuldkornsbrød"
 draft: false
+weight: 1
 noOfServings: 
 ingredients:
   - 660 gram koldt vand

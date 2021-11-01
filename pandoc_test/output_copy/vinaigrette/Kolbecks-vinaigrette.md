@@ -1,7 +1,7 @@
 ---
-title: Kolbecks vinaigrette
-weight: 10
+title: "Kolbecks vinaigrette"
 draft: false
+weight: 1
 noOfServings: 
 ingredients:
   - 2 gram hvidløg

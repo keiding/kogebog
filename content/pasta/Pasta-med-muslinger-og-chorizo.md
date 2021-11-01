@@ -2,7 +2,7 @@
 title: Pasta med muslinger og chorizo
 weight: 10
 draft: false
-date: 2021-10-31 23:15:06.788559 +0100 CET m=+0.043309085
+date: 2021-11-01 21:10:30.950715 +0100 CET m=+0.040339543
 noOfServings: 4
 ingredients:
   - 1 kg muslinger

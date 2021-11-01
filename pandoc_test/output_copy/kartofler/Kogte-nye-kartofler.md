@@ -1,7 +1,7 @@
 ---
-title: Kogte nye kartofler
-weight: 10
+title: "Kogte nye kartofler"
 draft: false
+weight: 1
 noOfServings: 4
 ingredients:
   - 1 kilo nye kartofler

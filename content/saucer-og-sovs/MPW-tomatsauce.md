@@ -2,7 +2,7 @@
 title: MPW-tomatsauce
 weight: 30
 draft: false
-date: 2021-10-31 23:15:06.79355 +0100 CET m=+0.048300335
+date: 2021-11-01 21:10:30.956125 +0100 CET m=+0.045749960
 ingredients:
   - 100-150 gram søde cherrytomater
   - 30-50 gram koldt smør i tern

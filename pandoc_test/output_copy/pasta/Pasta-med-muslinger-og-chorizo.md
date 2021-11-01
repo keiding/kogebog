@@ -1,7 +1,7 @@
 ---
-title: Pasta med muslinger og chorizo
-weight: 10
+title: "Pasta med muslinger og chorizo"
 draft: false
+weight: 1
 noOfServings: 4
 ingredients:
   - 1 kg muslinger

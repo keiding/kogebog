@@ -2,7 +2,8 @@
 title: Mayonnaiser
 weight: 70
 draft: false
-date: 2021-10-31 23:15:06.794052 +0100 CET m=+0.048802210
+date: 2021-11-01 21:10:30.95669 +0100 CET m=+0.046314668
+bookCollapseSection: true
 ---
 
 

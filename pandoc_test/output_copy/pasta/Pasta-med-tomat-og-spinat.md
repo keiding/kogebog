@@ -1,7 +1,7 @@
 ---
-title: Pasta med tomat og spinat
-weight: 10
+title: "Pasta med tomat og spinat"
 draft: false
+weight: 1
 noOfServings: 4
 ingredients:
   - 500 gram god tørret pasta

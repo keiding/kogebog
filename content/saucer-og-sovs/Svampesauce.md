@@ -2,7 +2,7 @@
 title: Svampesauce
 weight: 55
 draft: false
-date: 2021-10-31 23:15:06.793971 +0100 CET m=+0.048721251
+date: 2021-11-01 21:10:30.956591 +0100 CET m=+0.046215501
 ingredients:
   - 1 bakke økologiske champignon
   - 125 gram brunet afkølet smør

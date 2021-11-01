@@ -1,7 +1,7 @@
 ---
-title: Kagecreme
-weight: 10
+title: "Kagecreme"
 draft: false
+weight: 1
 noOfServings: 
 ingredients:
   - 5 dl sødmælk

@@ -2,7 +2,8 @@
 title: Risotto
 weight: 45
 draft: false
-date: 2021-10-31 23:15:06.789318 +0100 CET m=+0.044068043
+date: 2021-11-01 21:10:30.951906 +0100 CET m=+0.041530876
+bookCollapseSection: true
 ---
 
 

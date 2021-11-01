@@ -1,7 +1,7 @@
 ---
-title: Kålsalat med linser og solsikkekerner
-weight: 10
+title: "Kålsalat med linser og solsikkekerner"
 draft: false
+weight: 1
 noOfServings: 4
 ingredients:
   - 2 dl Puy-linser

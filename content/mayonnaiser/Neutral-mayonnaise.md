@@ -2,7 +2,7 @@
 title: Neutral mayonnaise
 weight: 5
 draft: false
-date: 2021-10-31 23:15:06.794131 +0100 CET m=+0.048880876
+date: 2021-11-01 21:10:30.956776 +0100 CET m=+0.046401001
 ingredients:
   - 1 bæger pasteuriserede æggeblommer
   - 1 tsk. sherryeddike (kan erstattes med hvidvinseddike eller citronsaft)

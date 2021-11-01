@@ -14,7 +14,7 @@ def convert_format_index(path, root, filename, save):
             if '#' in line:
 
                 tmp_header = line[2:].strip()
-                tmp_header = 'title: ' + '{}'.format(tmp_header)
+                tmp_header = 'title: ' + '"{}"'.format(tmp_header)
 
             elif line != '' or (line == '' and tmp_opskrift[-1:] != '\n'): # avoid double new lines
 
@@ -51,7 +51,7 @@ def convert_format_recipe(path, root, filename, save):
             # get heading, remove ## and spaces
             if '##' in line and '###' not in line:
                 tmp_header = line[2:].strip()
-                tmp_header = 'title: ' + '{}'.format(tmp_header) # check is this works 
+                tmp_header = 'title: ' + '"{}"'.format(tmp_header) # check is this works 
             
             # get number of servings for either 1 number or a range a,b
             elif '*Til' in line:
@@ -104,7 +104,7 @@ def convert_format_recipe(path, root, filename, save):
 
         tmp_ingredienser = '  ' + 'ingredients:\n'
 
-    new_text = '---\n' + tmp_header + '\n' + 'weight: 10\n' + 'draft: false\n'  + tmp_servering + tmp_ingredienser + tmp_opskrift
+    new_text = '---\n' + tmp_header + '\n' + 'draft: false\n' + 'weight: 1\n' + tmp_servering + tmp_ingredienser + tmp_opskrift
 
     new_filename = filename[5:-6] + '.md'
     new_filename = os.path.join(root, new_filename)
@@ -177,14 +177,14 @@ def rename_folders(dir):
 
                     continue # don't treat folders already renamed 
 
-                if char != '-' and char.isnumeric() is False and char != ',':
+                if char != '-' and char.isnumeric() is False:
 
                     new_name = new_name + char.lower()
                     first_character_passed = True
                  
                 elif char == '-' and first_character_passed is True:
 
-                    new_name = new_name + '-' #replace - with space in line
+                    new_name = new_name + '_' #replace - with space in line
 
                 else:
 

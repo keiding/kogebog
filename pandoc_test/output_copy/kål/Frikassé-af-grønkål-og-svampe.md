@@ -1,7 +1,7 @@
 ---
-title: Frikassé af grønkål og svampe
-weight: 10
+title: "Frikassé af grønkål og svampe"
 draft: false
+weight: 1
 noOfServings: 
 ingredients:
   - ½ bakke økologiske champignon

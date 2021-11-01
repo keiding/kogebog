@@ -1,7 +1,7 @@
 ---
-title: Pasta med tomatsovs
-weight: 10
+title: "Pasta med tomatsovs"
 draft: false
+weight: 1
 noOfServings: 4
 ingredients:
   - 500 gram tørret pasta

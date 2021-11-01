@@ -2,7 +2,8 @@
 title: Saucer og sovs
 weight: 65
 draft: false
-date: 2021-10-31 23:15:06.793039 +0100 CET m=+0.047789585
+date: 2021-11-01 21:10:30.955555 +0100 CET m=+0.045179585
+bookCollapseSection: true
 ---
 
 

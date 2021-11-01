@@ -2,7 +2,7 @@
 title: Beurre Blanc
 weight: 45
 draft: false
-date: 2021-10-31 23:15:06.793806 +0100 CET m=+0.048556210
+date: 2021-11-01 21:10:30.956424 +0100 CET m=+0.046048585
 ingredients:
   - ½ skalotteløg
   - 1 kvist timian

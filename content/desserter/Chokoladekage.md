@@ -2,7 +2,7 @@
 title: Chokoladekage
 weight: 40
 draft: false
-date: 2021-10-31 23:15:06.796769 +0100 CET m=+0.051519376
+date: 2021-11-01 21:10:30.959977 +0100 CET m=+0.049601751
 noOfServings: 8
 ingredients:
   - 100 gram blødt usaltet smør

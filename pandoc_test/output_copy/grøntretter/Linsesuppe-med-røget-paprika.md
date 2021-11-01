@@ -1,7 +1,7 @@
 ---
-title: Linsesuppe med røget paprika
-weight: 10
+title: "Linsesuppe med røget paprika"
 draft: false
+weight: 1
 noOfServings: 6
 ingredients:
   - ½ dl olivenolie

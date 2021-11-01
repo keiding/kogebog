@@ -1,7 +1,7 @@
 ---
-title: Pasta med svampe og græskar
-weight: 10
+title: "Pasta med svampe og græskar"
 draft: false
+weight: 1
 noOfServings: 4
 ingredients:
   - 500 gram god tørret fuldkornspasta

@@ -1,7 +1,7 @@
 ---
-title: Scrambled eggs
-weight: 10
+title: "Scrambled eggs"
 draft: false
+weight: 1
 noOfServings: 2
 ingredients:
   - 6 æg

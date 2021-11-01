@@ -1,7 +1,7 @@
 ---
-title: Kål i mormor-dressing
-weight: 10
+title: "Kål i mormor-dressing"
 draft: false
+weight: 1
 noOfServings: 2
 ingredients:
   - ½ spidskål eller hvidkål

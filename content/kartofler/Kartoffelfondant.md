@@ -2,7 +2,7 @@
 title: Kartoffelfondant
 weight: 50
 draft: false
-date: 2021-10-31 23:15:06.785854 +0100 CET m=+0.040604251
+date: 2021-11-01 21:10:30.947739 +0100 CET m=+0.037363626
 noOfServings: 2
 ingredients:
   - 2 store bagekartofler

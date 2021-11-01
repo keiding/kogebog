@@ -1,7 +1,7 @@
 ---
-title: Vandbakkelser
-weight: 10
+title: "Vandbakkelser"
 draft: false
+weight: 1
 noOfServings: 
 ingredients:
   - 125 ml. mælk

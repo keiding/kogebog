@@ -1,7 +1,7 @@
 ---
-title: Linsebøffer
-weight: 10
+title: "Linsebøffer"
 draft: false
+weight: 1
 noOfServings: 
 ingredients:
   - 2 dl Puy-linser

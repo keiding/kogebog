@@ -1,7 +1,7 @@
 ---
-title: Apple crumble
-weight: 10
+title: "Apple crumble"
 draft: false
+weight: 1
 noOfServings: 8
 ingredients:
   - 6 store, let syrlige og faste æbler

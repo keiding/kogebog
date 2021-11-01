@@ -2,7 +2,7 @@
 title: Kogning og afskumning af supper og fond
 weight: 40
 draft: false
-date: 2021-10-31 23:15:06.784771 +0100 CET m=+0.039520751
+date: 2021-11-01 21:10:30.946543 +0100 CET m=+0.036167335
 ---
 
 

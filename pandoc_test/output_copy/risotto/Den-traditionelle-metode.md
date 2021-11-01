@@ -1,7 +1,7 @@
 ---
-title: Den traditionelle metode
-weight: 10
+title: "Den traditionelle metode"
 draft: false
+weight: 1
 noOfServings: 2
 ingredients:
   - 1 skalotteløg

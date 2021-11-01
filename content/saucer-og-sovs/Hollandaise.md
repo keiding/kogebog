@@ -2,7 +2,7 @@
 title: Hollandaise
 weight: 35
 draft: false
-date: 2021-10-31 23:15:06.793641 +0100 CET m=+0.048391710
+date: 2021-11-01 21:10:30.95623 +0100 CET m=+0.045854710
 ingredients:
   - 5-7 sorte eller hvide peberkorn, knuste
   - 2 spsk. hvidvinseddike

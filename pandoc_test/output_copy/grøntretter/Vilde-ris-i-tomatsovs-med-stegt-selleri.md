@@ -1,7 +1,7 @@
 ---
-title: Vilde ris i tomatsovs med stegt selleri
-weight: 10
+title: "Vilde ris i tomatsovs med stegt selleri"
 draft: false
+weight: 1
 noOfServings: 4
 ingredients:
   - 4 dl vilde røde ris

@@ -1,7 +1,7 @@
 ---
-title: Smørdampet spidskål
-weight: 10
+title: "Smørdampet spidskål"
 draft: false
+weight: 1
 noOfServings: 2
 ingredients:
   - ½ spidskål

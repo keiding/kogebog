@@ -2,7 +2,7 @@
 title: Reduktioner
 weight: 35
 draft: false
-date: 2021-10-31 23:15:06.784626 +0100 CET m=+0.039375793
+date: 2021-11-01 21:10:30.946403 +0100 CET m=+0.036027668
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Neutral mayonnaise
-weight: 10
+title: "Neutral mayonnaise"
 draft: false
+weight: 1
 noOfServings: 
 ingredients:
   - 1 bæger pasteuriserede æggeblommer

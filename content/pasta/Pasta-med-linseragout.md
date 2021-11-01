@@ -2,7 +2,7 @@
 title: Pasta med linseragout
 weight: 45
 draft: false
-date: 2021-10-31 23:15:06.789155 +0100 CET m=+0.043905001
+date: 2021-11-01 21:10:30.951673 +0100 CET m=+0.041297168
 ingredients:
   - 200 gram Puy-linser (også solgt som delikatesselinser)
   - 125 ml tør vermouth

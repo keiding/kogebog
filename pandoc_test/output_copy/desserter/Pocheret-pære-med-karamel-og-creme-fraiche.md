@@ -1,7 +1,7 @@
 ---
-title: Pocheret pære med karamel og creme fraiche
-weight: 10
+title: "Pocheret pære med karamel og creme fraiche"
 draft: false
+weight: 1
 noOfServings: 4
 ingredients:
   - 2 Conference-pærer

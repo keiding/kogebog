@@ -1,7 +1,7 @@
 ---
-title: Græskarkernemayonnaise
-weight: 10
+title: "Græskarkernemayonnaise"
 draft: false
+weight: 1
 noOfServings: 
 ingredients:
   - 1 bæger pasteuriserede

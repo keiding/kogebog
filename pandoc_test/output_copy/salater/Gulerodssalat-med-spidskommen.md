@@ -1,7 +1,7 @@
 ---
-title: Gulerodssalat med spidskommen
-weight: 10
+title: "Gulerodssalat med spidskommen"
 draft: false
+weight: 1
 noOfServings: 2
 ingredients:
   - 4-5 store gulerødder

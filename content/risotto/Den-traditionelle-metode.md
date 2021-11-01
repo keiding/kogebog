@@ -2,7 +2,7 @@
 title: Den traditionelle metode
 weight: 5
 draft: false
-date: 2021-10-31 23:15:06.789405 +0100 CET m=+0.044155501
+date: 2021-11-01 21:10:30.952017 +0100 CET m=+0.041641835
 noOfServings: 2
 ingredients:
   - 1 skalotteløg

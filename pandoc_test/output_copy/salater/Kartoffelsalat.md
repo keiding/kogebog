@@ -1,7 +1,7 @@
 ---
-title: Kartoffelsalat
-weight: 10
+title: "Kartoffelsalat"
 draft: false
+weight: 1
 noOfServings: 4
 ingredients:
   - 1,5 kg nedkølede kogte kartofler

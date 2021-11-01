@@ -1,7 +1,7 @@
 ---
-title: Sennepsvinaigrette
-weight: 10
+title: "Sennepsvinaigrette"
 draft: false
+weight: 1
 noOfServings: 
 ingredients:
   - 1-1½ tsk. dijonsennep eller grovkornet sennep

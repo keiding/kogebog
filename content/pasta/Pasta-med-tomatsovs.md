@@ -2,7 +2,7 @@
 title: Pasta med tomatsovs
 weight: 15
 draft: false
-date: 2021-10-31 23:15:06.78865 +0100 CET m=+0.043400293
+date: 2021-11-01 21:10:30.950809 +0100 CET m=+0.040433335
 noOfServings: 4
 ingredients:
   - 500 gram tørret pasta

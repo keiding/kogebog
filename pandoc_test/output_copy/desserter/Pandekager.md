@@ -1,7 +1,7 @@
 ---
-title: Pandekager
-weight: 10
+title: "Pandekager"
 draft: false
+weight: 1
 noOfServings: 2
 ingredients:
   - 40 gram hvedemel

@@ -1,7 +1,7 @@
 ---
-title: Vegetarkarry med peanutbutter og tomat
-weight: 10
+title: "Vegetarkarry med peanutbutter og tomat"
 draft: false
+weight: 1
 noOfServings: 4
 ingredients:
   - 1 lille hoved blomkål

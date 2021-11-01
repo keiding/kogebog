@@ -1,7 +1,7 @@
 ---
-title: Stegt rosenkål
-weight: 10
+title: "Stegt rosenkål"
 draft: false
+weight: 1
 noOfServings: 2
 ingredients:
   - 200 gram rosenkål

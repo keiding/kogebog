@@ -2,7 +2,7 @@
 title: Balsamicodressing med sennep og honning
 weight: 10
 draft: false
-date: 2021-10-31 23:15:06.794691 +0100 CET m=+0.049441418
+date: 2021-11-01 21:10:30.957423 +0100 CET m=+0.047047876
 ingredients:
   - 1 tsk. akaciehonning
   - 1 tsk. dijonsennep

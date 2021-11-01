@@ -2,7 +2,7 @@
 title: Sauterede kartofler
 weight: 40
 draft: false
-date: 2021-10-31 23:15:06.7857 +0100 CET m=+0.040450001
+date: 2021-11-01 21:10:30.947546 +0100 CET m=+0.037170293
 noOfServings: 2
 ingredients:
   - 2-3 store bagekartofler

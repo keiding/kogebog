@@ -1,7 +1,7 @@
 ---
-title: Chokolademousse
-weight: 10
+title: "Chokolademousse"
 draft: false
+weight: 1
 noOfServings: 2-3
 ingredients:
   - 75 gram chokolade (70-80 %)

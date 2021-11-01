@@ -1,7 +1,7 @@
 ---
-title: Surdejsbrød
-weight: 10
+title: "Surdejsbrød"
 draft: false
+weight: 1
 noOfServings: 
 ingredients:
   - 300 gram lunket vand

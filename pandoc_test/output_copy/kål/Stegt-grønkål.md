@@ -1,7 +1,7 @@
 ---
-title: Stegt grønkål
-weight: 10
+title: "Stegt grønkål"
 draft: false
+weight: 1
 noOfServings: 2
 ingredients:
   - ½ bundt grønkål, ribbet

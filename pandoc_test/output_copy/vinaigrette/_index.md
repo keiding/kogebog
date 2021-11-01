@@ -1,5 +1,5 @@
 ---
-title: Vinaigrette
+title: "Vinaigrette"
 draft: false
 weight: 1
 ---

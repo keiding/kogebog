@@ -2,7 +2,7 @@
 title: Karl Johan-mayonnaise
 weight: 20
 draft: false
-date: 2021-10-31 23:15:06.794353 +0100 CET m=+0.049102876
+date: 2021-11-01 21:10:30.957048 +0100 CET m=+0.046672626
 ingredients:
   - 1 bæger pasteuriserede æggeblommer
   - ½ tsk. dijonsennep

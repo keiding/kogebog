@@ -1,7 +1,7 @@
 ---
-title: Omelet
-weight: 10
+title: "Omelet"
 draft: false
+weight: 1
 noOfServings: 1-2
 ingredients:
   - 3 æg

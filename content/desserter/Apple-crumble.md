@@ -2,7 +2,7 @@
 title: Apple crumble
 weight: 50
 draft: false
-date: 2021-10-31 23:15:06.796901 +0100 CET m=+0.051651501
+date: 2021-11-01 21:10:30.960128 +0100 CET m=+0.049752293
 noOfServings: 8
 ingredients:
   - 6 store, let syrlige og faste æbler

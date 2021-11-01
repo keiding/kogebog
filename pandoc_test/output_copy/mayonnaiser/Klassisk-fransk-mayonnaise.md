@@ -1,7 +1,7 @@
 ---
-title: Klassisk fransk mayonnaise
-weight: 10
+title: "Klassisk fransk mayonnaise"
 draft: false
+weight: 1
 noOfServings: 
 ingredients:
   - 1 bæger pasteuriserede æggeblommer

@@ -2,7 +2,7 @@
 title: Blomkål med citronskal
 weight: 10
 draft: false
-date: 2021-10-31 23:15:06.786742 +0100 CET m=+0.041492585
+date: 2021-11-01 21:10:30.948698 +0100 CET m=+0.038321918
 noOfServings: 2
 ingredients:
   - ½ hoved blomkål

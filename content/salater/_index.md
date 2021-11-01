@@ -2,7 +2,8 @@
 title: Salater
 weight: 55
 draft: false
-date: 2021-10-31 23:15:06.791028 +0100 CET m=+0.045778043
+date: 2021-11-01 21:10:30.953637 +0100 CET m=+0.043261376
+bookCollapseSection: true
 ---
 
 

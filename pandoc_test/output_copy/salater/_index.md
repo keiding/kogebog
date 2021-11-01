@@ -1,5 +1,5 @@
 ---
-title: Salater
+title: "Salater"
 draft: false
 weight: 1
 ---

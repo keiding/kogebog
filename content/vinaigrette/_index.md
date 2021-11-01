@@ -2,7 +2,8 @@
 title: Vinaigrette
 weight: 75
 draft: false
-date: 2021-10-31 23:15:06.794527 +0100 CET m=+0.049277168
+date: 2021-11-01 21:10:30.957243 +0100 CET m=+0.046867876
+bookCollapseSection: true
 ---
 
 

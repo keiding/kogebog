@@ -2,7 +2,7 @@
 title: Stegt rosenkål
 weight: 25
 draft: false
-date: 2021-10-31 23:15:06.787013 +0100 CET m=+0.041763293
+date: 2021-11-01 21:10:30.949008 +0100 CET m=+0.038632585
 noOfServings: 2
 ingredients:
   - 200 gram rosenkål

@@ -1,7 +1,7 @@
 ---
-title: Kogte æg
-weight: 10
+title: "Kogte æg"
 draft: false
+weight: 1
 noOfServings: 
 ingredients:
   - Æg

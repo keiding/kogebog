@@ -1,7 +1,7 @@
 ---
-title: Kartoffelmos
-weight: 10
+title: "Kartoffelmos"
 draft: false
+weight: 1
 noOfServings: 4
 ingredients:
   - 7 store bagekartofler

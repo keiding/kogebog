@@ -1,7 +1,7 @@
 ---
-title: Landbrød med kefir bagt i støbejernsgryde
-weight: 10
+title: "Landbrød med kefir bagt i støbejernsgryde"
 draft: false
+weight: 1
 noOfServings: 
 ingredients:
   - 400 gram koldt vand

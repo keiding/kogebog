@@ -1,7 +1,7 @@
 ---
-title: Lyst brød
-weight: 10
+title: "Lyst brød"
 draft: false
+weight: 1
 noOfServings: 
 ingredients:
   - 400 gram koldt vand

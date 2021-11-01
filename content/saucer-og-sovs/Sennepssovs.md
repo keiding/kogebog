@@ -2,7 +2,7 @@
 title: Sennepssovs
 weight: 15
 draft: false
-date: 2021-10-31 23:15:06.793314 +0100 CET m=+0.048064001
+date: 2021-11-01 21:10:30.955805 +0100 CET m=+0.045429585
 ingredients:
   - 1 lille skalotteløg
   - ½ fed hvidløg, stiklen fjernet

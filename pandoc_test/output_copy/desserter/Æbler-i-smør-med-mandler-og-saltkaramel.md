@@ -1,7 +1,7 @@
 ---
-title: Æbler i smør med mandler og saltkaramel
-weight: 10
+title: "Æbler i smør med mandler og saltkaramel"
 draft: false
+weight: 1
 noOfServings: 
 ingredients:
   - 4 spsk. sukker

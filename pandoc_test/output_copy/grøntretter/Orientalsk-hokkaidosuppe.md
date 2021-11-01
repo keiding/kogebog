@@ -1,7 +1,7 @@
 ---
-title: Orientalsk hokkaidosuppe
-weight: 10
+title: "Orientalsk hokkaidosuppe"
 draft: false
+weight: 1
 noOfServings: 6
 ingredients:
   - 1 hokkaidogræskar

@@ -1,7 +1,7 @@
 ---
-title: Blomkål med citronskal
-weight: 10
+title: "Blomkål med citronskal"
 draft: false
+weight: 1
 noOfServings: 2
 ingredients:
   - ½ hoved blomkål
