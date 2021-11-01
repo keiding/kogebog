@@ -2,7 +2,7 @@
 title: Bechamel
 weight: 10
 draft: false
-date: 2021-10-31 23:15:06.793232 +0100 CET m=+0.047982626
+date: 2021-11-01 21:10:30.955727 +0100 CET m=+0.045351460
 ingredients:
   - 50 gram smør
   - 50 gram hvedemel

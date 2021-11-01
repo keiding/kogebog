@@ -2,7 +2,7 @@
 title: Pandekager
 weight: 35
 draft: false
-date: 2021-10-31 23:15:06.796709 +0100 CET m=+0.051459418
+date: 2021-11-01 21:10:30.959905 +0100 CET m=+0.049529418
 noOfServings: 2
 ingredients:
   - 40 gram hvedemel

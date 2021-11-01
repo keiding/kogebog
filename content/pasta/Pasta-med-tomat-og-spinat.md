@@ -2,7 +2,7 @@
 title: Pasta med tomat og spinat
 weight: 35
 draft: false
-date: 2021-10-31 23:15:06.78898 +0100 CET m=+0.043729918
+date: 2021-11-01 21:10:30.951213 +0100 CET m=+0.040837876
 noOfServings: 4
 ingredients:
   - 500 gram god tørret pasta

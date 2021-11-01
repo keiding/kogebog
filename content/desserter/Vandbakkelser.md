@@ -2,7 +2,7 @@
 title: Vandbakkelser
 weight: 15
 draft: false
-date: 2021-10-31 23:15:06.796444 +0100 CET m=+0.051194001
+date: 2021-11-01 21:10:30.959586 +0100 CET m=+0.049210376
 ingredients:
   - 125 ml. mælk
   - 125 ml. vand

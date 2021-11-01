@@ -2,7 +2,7 @@
 title: Ovnstegte kartofler
 weight: 25
 draft: false
-date: 2021-10-31 23:15:06.785431 +0100 CET m=+0.040181126
+date: 2021-11-01 21:10:30.947244 +0100 CET m=+0.036868626
 noOfServings: 4
 ingredients:
   - 5-6 store bagekartofler

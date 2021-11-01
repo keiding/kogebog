@@ -2,7 +2,7 @@
 title: Clafoutis
 weight: 30
 draft: false
-date: 2021-10-31 23:15:06.796642 +0100 CET m=+0.051392210
+date: 2021-11-01 21:10:30.959831 +0100 CET m=+0.049455751
 noOfServings: 8
 ingredients:
   - 400-450 gram udstenede kirsebær

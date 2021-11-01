@@ -2,7 +2,7 @@
 title: Sennepsvinaigrette
 weight: 15
 draft: false
-date: 2021-10-31 23:15:06.794776 +0100 CET m=+0.049526043
+date: 2021-11-01 21:10:30.957506 +0100 CET m=+0.047130126
 ingredients:
   - 1-1½ tsk. dijonsennep eller grovkornet sennep
   - 1 tsk. honning

@@ -2,7 +2,7 @@
 title: Kagecreme
 weight: 20
 draft: false
-date: 2021-10-31 23:15:06.796517 +0100 CET m=+0.051267335
+date: 2021-11-01 21:10:30.95967 +0100 CET m=+0.049294251
 ingredients:
   - 5 dl sødmælk
   - 6 æggeblommer

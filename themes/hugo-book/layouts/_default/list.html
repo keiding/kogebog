@@ -1,0 +1,15 @@
+{{ define "main" }}
+<article class="markdown">
+  <h1>{{ partial "docs/title.html" . }}</h1>
+  {{ partial "docs/post-meta" . }}
+  <!-- -->
+  {{ with .Params.Servings }}
+  <p><em>Til {{.}} personer.</em></p>
+  {{ end }}
+  <!-- -->
+  {{ partial "docs/ingredients" . }}
+  <!-- -->
+
+  {{- .Content -}}
+</article>
+{{ end }} {{ define "toc" }} {{ partial "docs/toc" . }} {{ end }}

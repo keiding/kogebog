@@ -2,7 +2,7 @@
 title: Chokolademousse
 weight: 25
 draft: false
-date: 2021-10-31 23:15:06.796577 +0100 CET m=+0.051327793
+date: 2021-11-01 21:10:30.959749 +0100 CET m=+0.049373460
 noOfServings: 2-3
 ingredients:
   - 75 gram chokolade (70-80 %)

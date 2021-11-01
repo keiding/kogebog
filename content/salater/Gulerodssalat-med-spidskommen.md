@@ -2,7 +2,7 @@
 title: Gulerodssalat med spidskommen
 weight: 10
 draft: false
-date: 2021-10-31 23:15:06.791205 +0100 CET m=+0.045955126
+date: 2021-11-01 21:10:30.953797 +0100 CET m=+0.043421585
 noOfServings: 2
 ingredients:
   - 4-5 store gulerødder

@@ -2,7 +2,8 @@
 title: Kartofler
 weight: 15
 draft: false
-date: 2021-10-31 23:15:06.78496 +0100 CET m=+0.039710418
+date: 2021-11-01 21:10:30.946741 +0100 CET m=+0.036364876
+bookCollapseSection: true
 ---
 
 

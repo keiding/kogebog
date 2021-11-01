@@ -1,0 +1,12 @@
+{{ with .Params.Ingredients }}
+<div class="ingredients">
+  <h5>Ingredienser</h5>
+  <ul>
+    {{ range . }}
+    <li>{{. }}</li>
+    {{ end }}
+  </ul>
+</div>
+
+<h5>Opskrift</h5>
+{{ end }}

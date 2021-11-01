@@ -2,7 +2,7 @@
 title: Råstegte kartofler
 weight: 15
 draft: false
-date: 2021-10-31 23:15:06.785246 +0100 CET m=+0.039996543
+date: 2021-11-01 21:10:30.947046 +0100 CET m=+0.036669918
 noOfServings: 3-4
 ingredients:
   - 1 kilo små spisekartofler

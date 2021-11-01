@@ -2,7 +2,7 @@
 title: Broccolipuré
 weight: 5
 draft: false
-date: 2021-10-31 23:15:06.786658 +0100 CET m=+0.041408543
+date: 2021-11-01 21:10:30.948604 +0100 CET m=+0.038228793
 noOfServings: 4
 ingredients:
   - 1 hoved broccoli

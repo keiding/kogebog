@@ -2,7 +2,7 @@
 title: Kolbecks vinaigrette
 weight: 20
 draft: false
-date: 2021-10-31 23:15:06.794867 +0100 CET m=+0.049617085
+date: 2021-11-01 21:10:30.957598 +0100 CET m=+0.047222335
 ingredients:
   - 2 gram hvidløg
   - 13,5 gram grov sennep

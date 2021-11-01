@@ -2,7 +2,7 @@
 title: Hjemmelavet pasta uden maskine
 weight: 5
 draft: false
-date: 2021-10-31 23:15:06.788479 +0100 CET m=+0.043229210
+date: 2021-11-01 21:10:30.950616 +0100 CET m=+0.040240168
 ingredients:
   - 2 æg
   - 160-170 gram tipo 00 mel

@@ -2,7 +2,8 @@
 title: Kål
 weight: 25
 draft: false
-date: 2021-10-31 23:15:06.786578 +0100 CET m=+0.041328001
+date: 2021-11-01 21:10:30.9485 +0100 CET m=+0.038124001
+bookCollapseSection: true
 ---
 
 

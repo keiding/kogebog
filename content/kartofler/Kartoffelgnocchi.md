@@ -2,7 +2,7 @@
 title: Kartoffelgnocchi
 weight: 35
 draft: false
-date: 2021-10-31 23:15:06.785614 +0100 CET m=+0.040364043
+date: 2021-11-01 21:10:30.947456 +0100 CET m=+0.037080418
 noOfServings: 4
 ingredients:
   - 6 bagekartofler/500 gram kartoffelpuré
