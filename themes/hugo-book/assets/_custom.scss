@@ -39,3 +39,14 @@ body {
 .max-height {
   max-height: calc(100vh - 14rem);
 }
+
+.book-menu {
+  input.toggle + label::after {
+    color: rgb(141, 141, 141);
+    content: "•";
+  }
+
+  input.toggle:checked + label::after {
+    content: "+";
+  }
+}
