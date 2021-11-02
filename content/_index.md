@@ -1,7 +1,10 @@
 ---
-title: ""
+title: "Køkkennoter"
 draft: false
 weight: 00
 ---
 
 {{< img-opt name="landing.jpg" alt="Køkkennoter" max-height="true" >}}
+
+
+Copyright 2021 Lau Bering Keiding
