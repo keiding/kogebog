@@ -5,14 +5,14 @@ draft: false
 date: 2021-11-01 21:10:30.959491 +0100 CET m=+0.049115751
 noOfServings: 2
 ingredients:
-  - **Til karamelsaucen**
+  - Til karamelsaucen
   - 4 spsk. sukker
   - 1 dl. piskefløde
   - ½ tsk. fintreven citronskal
   - 1-2 tsk. smør
   - ½-1 tsk. Maldon-salt
   - ½ spsk. citronsaft
-  - **Til resten af retten**
+  - Til resten af retten
   - ½ syrligt æble (for eksempel Granny Smith)
   - 1 stort fast og let sødligt æble (for eksempel Ingrid Marie)
   - 1 håndfuld mandler
