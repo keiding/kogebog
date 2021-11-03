@@ -2,8 +2,13 @@
 <div class="ingredients">
   <h5>Ingredienser</h5>
   <ul>
-    {{ range . }}
-    <li>{{. }}</li>
+    {{ range $ingredient := . }} 
+    {{ $class := ""}} 
+    {{ if in $ingredient "*" }} 
+      {{ $class = "ingredient-header" }} 
+      {{ $ingredient = replace . "*" "" }}
+    {{end }}
+    <li class="{{ $class }}">{{ $ingredient }}</li>
     {{ end }}
   </ul>
 </div>

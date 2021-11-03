@@ -20,6 +20,10 @@ body {
   }
   li {
     list-style: none;
+
+    &.ingredient-header {
+      font-weight: bold;
+    }
   }
 }
 // @import "plugins/numbered";
