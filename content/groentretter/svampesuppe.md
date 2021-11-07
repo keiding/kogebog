@@ -5,7 +5,7 @@ draft: false
 date: 2021-11-07 19:10:30.952699 +0100 CET m=+0.042323210
 noOfServings: 2
 ingredients:
-  - 15 gram tørrede svampe
+  - 10 gram tørrede svampe
   - 250 gram champignon
   - 80 ml tør Vermouth 
   - 1 stort skalotteløg
