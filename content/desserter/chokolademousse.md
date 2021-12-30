@@ -20,10 +20,12 @@ piske hviderne let luftige med nogle dråber citronsaft. Citronsaften
 hjælper til at holde hviderne samlet mens de piskes. Når hviderne
 begynder at blive luftige, kommes sukkeret i gradvist, mens der fortsat
 piskes. Pisk indtil hviderne er stive og blanke. Sæt til side. Når
-chokoladen er smeltet, tages den af varmen, og køles ned til mellem 35
-og 40 grader. Imens piskes fløden indtil den tykner let, uden dog at
+chokoladen er smeltet, tages den af varmen, og køles ned til mellem 40
+og 45 grader. Imens piskes fløden indtil den tykner let, uden dog at
 danne skum. Når chokoladen er kølet, blandes den med piskefløden til en
-ganache. Kom derefter en tredjedel af æggehviderne i ganachen, og bland
+ganache. Dette skal gøres hurtigt, da chokoladen vil begynde at størkne, når det møder den kolde fløde.
+
+Kom derefter en tredjedel af æggehviderne i ganachen, og bland
 sammen. Fold forsigtigt resten af æggehviderne i for at bevare så meget
 luft i moussen som muligt. Dette gøres ved at køre en dejskraber i
 halvcirkler langs skålens kant og ind under moussen, mens skålens
