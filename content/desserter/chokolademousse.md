@@ -20,8 +20,7 @@ piske hviderne let luftige med nogle dråber citronsaft. Citronsaften
 hjælper til at holde hviderne samlet mens de piskes. Når hviderne
 begynder at blive luftige, kommes sukkeret i gradvist, mens der fortsat
 piskes. Pisk indtil hviderne er stive og blanke. Sæt til side. Når
-chokoladen er smeltet, tages den af varmen, og køles ned til mellem 40
-og 45 grader. Imens piskes fløden indtil den tykner let, uden dog at
+chokoladen er smeltet, tages den af varmen, og køles ned til cirka 50 grader. Imens piskes fløden indtil den tykner let, uden dog at
 danne skum. Når chokoladen er kølet, blandes den med piskefløden til en
 ganache. Dette skal gøres hurtigt, da chokoladen vil begynde at størkne, når det møder den kolde fløde.
 
