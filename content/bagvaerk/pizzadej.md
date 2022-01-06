@@ -5,11 +5,11 @@ draft: false
 date: 2021-11-01 21:10:30.959101 +0100 CET m=+0.048725626
 noOfServings: 2
 ingredients:
-  - 300-320 gram tipo 00 hvedemel
+  - 300 gram tipo 00 hvedemel
   - 5 gram gær
   - 6 gram salt
   - 1½ spsk. olivenolie
-  - 180 gram koldt vand
+  - 190 gram koldt vand
 ---
 
 
