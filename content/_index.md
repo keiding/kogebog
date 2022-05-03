@@ -7,4 +7,4 @@ weight: 00
 {{< img-opt name="landing.jpg" alt="Køkkennoter" max-height="true" >}}
 
 
-Copyright 2021 Lau Bering Keiding
+Copyright 2022 Lau Bering Keiding
