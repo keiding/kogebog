@@ -21,7 +21,7 @@ Lige før servering kan man hurtigt svinge dem i lidt finthakket skalotteløg, h
 persille samt en anelse smør. Dog bør man holde igen med persillen, da fugten deri kan
 gøre de ellers sprøde kartofler bløde igen.
 
-_Note: Med stegte kartofler handler det ikke om at varmen er høj, da man så får brankede,
+*Note: Med stegte kartofler handler det ikke om at varmen er høj, da man så får brankede,
 bløde kartofler. Holdes varmen medium til medium høj, får man en jævn stegeflade, og
 kartoflen kan ligge længere på panden uden at branke, så den smider mere fugt og bliver
 sprøde udenpå. Det er vigtigt, at man ikke har for mange kartofler på panden. Laver man
