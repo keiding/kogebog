@@ -22,7 +22,7 @@ mindst 30 minutter.
 
 Når pastaen skal rulles ud, drysses køkkenbordet rundhåndet med mel.
 Pastaen tages ud af filmen og drysses ligeledes med mel. Med en
-kagerulle rulle den ud på langs og foldes tilbage over sig selv i
+kagerulle rulles den ud på langs og foldes tilbage over sig selv i
 tredjedele. Rotér dejen 90 grader, og gentag indtil den er foldet og
 rullet 3 gange i alt.
 
@@ -35,6 +35,5 @@ drysses let med mel, så pastaen ikke klistrer sammen.
 *Note: Dejen vil virke våd i starten, men hold igen med melet, da den
 bliver mere tør efterhånden som æggene absorberer melet. Virker den for
 tør, kan man fugte sine hænder med koldt vand og ælte videre indtil
-vandet er inkorporeret.\
-*
+vandet er inkorporeret.*
 
