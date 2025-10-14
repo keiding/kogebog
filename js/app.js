@@ -7,16 +7,17 @@ document.addEventListener('DOMContentLoaded', () => {
   let categoryMap = null;
   const navStack = [];
 
+  const basePath = window.location.origin + window.location.pathname.replace(/\/[^\/]*$/, '/');
+
   Promise.all([
-    fetch('data/category_map.json').then(res => res.json()),
-    fetch('data/index.json').then(res => res.json())
+    fetch(basePath + 'data/category_map.json').then(res => res.json()),
+    fetch(basePath + 'data/index.json').then(res => res.json())
   ]).then(([map, recipes]) => {
     categoryMap = map;
     renderCategories(categoryMap);
     setupSearch(recipes);
   });
 
-  // 🔹 Centralized back button creator for recipe view
   function createBackButton() {
     const backBtn = document.createElement('button');
     backBtn.textContent = '← Tilbage';
@@ -61,7 +62,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   function loadCategory(displayName) {
-    fetch('data/index.json')
+    fetch(basePath + 'data/index.json')
       .then(res => res.json())
       .then(recipes => {
         const filtered = recipes.filter(r => r.category === displayName);
@@ -108,7 +109,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   function loadRecipe(path) {
-    fetch(`/${path}`)
+    fetch(basePath + path)
       .then(res => res.text())
       .then(md => {
         const stripped = md.replace(/^# .*\n/, '');
@@ -135,7 +136,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
       navStack.push({ view: 'home' });
 
-      // 🔹 Add a header with back button for the search view
       const header = document.createElement('div');
       header.className = 'search-header';
 
@@ -178,7 +178,6 @@ document.addEventListener('DOMContentLoaded', () => {
     nav.innerHTML = '';
     searchResults.innerHTML = '';
 
-    // 🔹 Same header for restored search view
     const header = document.createElement('div');
     header.className = 'search-header';
 
@@ -198,7 +197,7 @@ document.addEventListener('DOMContentLoaded', () => {
     header.appendChild(back);
     content.appendChild(header);
 
-    fetch('data/index.json')
+    fetch(basePath + 'data/index.json')
       .then(res => res.json())
       .then(recipes => {
         const matches = recipes.filter(recipe =>
