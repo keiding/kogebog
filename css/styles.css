@@ -195,8 +195,17 @@ li {
 
 /* Mobile adjustments */
 @media (max-width: 480px) {
+  body {
+    font-size: 1.1rem;
+  }
+
   .container {
+    max-width: 100%;
     padding: 0.5rem;
+  }
+
+  main#content {
+    font-size: 1.1rem;
   }
 
   .category-header {
