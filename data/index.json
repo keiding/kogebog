@@ -1363,6 +1363,25 @@
     ]
   },
   {
+    "title": "Burger Dressing",
+    "path": "content/mayonnaiser/burger-dressing.md",
+    "category": "Mayonnaiser",
+    "tags": [
+      "1",
+      "2",
+      "3",
+      "eller",
+      "hellmann",
+      "hjemmelavet",
+      "ketchup",
+      "mayonnaise",
+      "s",
+      "spsk",
+      "stænk",
+      "tabasco"
+    ]
+  },
+  {
     "title": "Cæsardressing",
     "path": "content/mayonnaiser/caesardressing.md",
     "category": "Mayonnaiser",
@@ -2885,6 +2904,28 @@
       "soya",
       "tabasco",
       "æbleeddike"
+    ]
+  },
+  {
+    "title": "Miso Vinaigrette",
+    "path": "content/vinaigrette/miso-vinaigrette.md",
+    "category": "Vinaigrette",
+    "tags": [
+      "1",
+      "2",
+      "akaciehonning",
+      "erstattes",
+      "kan",
+      "lys",
+      "med",
+      "miso",
+      "neutral",
+      "olie",
+      "olivenolie",
+      "ris",
+      "spsk",
+      "tsk",
+      "vineddike"
     ]
   },
   {
