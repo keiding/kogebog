@@ -4,7 +4,7 @@
 
 ## Ingredienser 
 
-Til vand-opbagningen:
+**Til vand-opbagningen:**
 
 
 
@@ -14,7 +14,7 @@ Til vand-opbagningen:
 
 
 
-Til bollerne :
+**Til bollerne:**
 
 280 gram hvedemel 
 
@@ -28,7 +28,7 @@ Til bollerne :
 
 50 gram sukker (10 gram kan erstattes med en god vaniljesukker)
 
-80 gram 70% chokolade i små stykker 
+80 gram 70% chokolade i små stykker, sat på køl/frost 20 minutter. 
 
  4 gram tørgær 
 
@@ -39,6 +39,11 @@ Til bollerne :
 
 
 ## Opskrift 
+
+Baseret på https://www.youtube.com/watch?v=gIyU1ILOXRQ
+
+Work in progress: Umiddelbart er dejen for klistret til overhovedet at kunne æltes. 
+Forsøgt med samling med k spade, ælt til glat 5 minutter med dejkrog. Hævning først på køkkembord og så i køleskab natten over, for at se om dejen kan formes når den er kold selvom den er så klistret. 
 
 Kom mælk og mel til opbagning i en gryde over medium varme. Kog opbagningen op mens der piskes, indtil den er tyk og helt glat. Sæt opbagning til side, indtil den er afkølet til stuetemperatur. 
 
