@@ -9,7 +9,7 @@
 
 
 - 300 g hvedemel
-- 200 g kold forkogt quinoa (svarer til cirka 30 gram rå)
+- 200 g kold forkogt quinoa (svarer til cirka 60 gram rå)
 - 50 g grov valsede havregryn
 - 240 g kold vand
 - 5 g sukker

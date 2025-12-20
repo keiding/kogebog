@@ -1,4 +1,4 @@
-# Chokolade Boller
+# Chokoladeboller
 
 
 
@@ -20,40 +20,31 @@
 
 110 gram letmælk
 
-20 gram blødt smør
-
-20 gram akaciehonning
+40 gram smeltet smør, lunt
 
 1 æg
 
-50 gram sukker (10 gram kan erstattes med en god vaniljesukker)
+40 gram sukker (10 gram kan erstattes med en god vaniljesukker)
 
-80 gram 70% chokolade i små stykker, sat på køl/frost 20 minutter. 
+70 gram mørke chokoladeknapper, sat på køl/frost 10-15 minutter. 
 
  4 gram tørgær 
 
 
 
-
-
-
-
 ## Opskrift 
 
-Baseret på https://www.youtube.com/watch?v=gIyU1ILOXRQ
+Bland mælk, tørgær og halvdelen af melet i en røreskål. Lad stå indtil gæret begynder at danne bobler i overfalden. Imens laves vand-opbagningen. Kom mælk og mel til opbagning i en gryde over medium varme. Kog opbagningen op mens der piskes, indtil den er tyk og helt glat. Sæt opbagning til side, indtil den er lun. 
 
-Work in progress: Umiddelbart er dejen for klistret til overhovedet at kunne æltes. 
-Forsøgt med samling med k spade, ælt til glat 5 minutter med dejkrog. Hævning først på køkkembord og så i køleskab natten over, for at se om dejen kan formes når den er kold selvom den er så klistret. 
+Kom ægget, sukker, den lune vand-opbagning og det resterende mel til dejen i røreskålen. Saml dejen under høj hastighed med en k-spade. Når dejen begynder at virke let elastisk kommes det lune smeltede smør i. Kør k-spaden ved lav hastighed og hæld langsomt smørret i. Øg hastigheden og kør dejen med k-spaden indtil den er homogen. Kom derefter de kolde stykker chokolade i. 
 
-Kom mælk og mel til opbagning i en gryde over medium varme. Kog opbagningen op mens der piskes, indtil den er tyk og helt glat. Sæt opbagning til side, indtil den er afkølet til stuetemperatur. 
+Når dejen er samlet skiftes k-spaden ud med dejkrog, og dejen æltes ved en middel hastighed 5 minutter indtil elastisk. Den vil ikke slippe siderne, så målet er bare en glat overflade. Skrab dejen ud på køkkenbordet og brug en bænkskraber til at samle dejen til en stram kugle. Dæk med plastik og hæv til det dobbelte, cirka halvanden time. 
 
-I en røreskål blandes tørgær med mælk og honning. Tilsæt derefter ægget, sukker samt den afkølede opbagning. Brug en k-spade på en røremaskine til at arbejde 2/3 af melet ind i dejen. Kom dernæst det bløde smør og chokolade i. Skrab k-spaden ren, skift til en dejkrog og ælt det sidste mel i dejen ved langsom hastighed. 
+Når dejen er hævet deles den i otte stykker, som formes til boller. Brug en bænkskraber i den ene hånd, og smør den anden hånd let med olie; så det er nemt at stramme dejen op til boller med en glat overflade. 
 
-Hvis dejkrogen har svært ved at få dejen glat og smidig, kommes den på ud på bordet og strammes op med en bænkskraber. 
+Spray bollerne let med fedtspray eller smør dem let med olie. Dæk med folie og efterhæv til lidt over det dobbelte, cirka halvanden timen. Når de er efterhævet kan de pensles med æg blandet med lidt mælk. Det kan også undlades. Bag bollerne ved 180 grader normal ovn i midten, 20 minutter. 
 
-Kom dejen tilbage i røreskålen og hæv til det dobbelte dækkes med plastfolie. Cirka 2 timer. 
 
-Portioner bollerne og form dem ved at folde dejen omkring sig selv til en lille kugle, og stram den op på køkkenbordet. Sæt på en bageplade med bagepapir med god afstand imellem. Efterhæv cirka en time eller indtil dobbelt i størrelse, pensel med et æg blandet med lidt mælk og bag ved 180 grader normal ovn i 20 minutter. 
 
 
 
